@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UmaWordle: Pretty Wordle</title>
+    <meta name="google-site-verification" content="323nVkaiCuVB_vZ5YldFZpcxcnSINY3fEVsFGLgDeF4" />
+    <link rel="icon" type="image/jpeg" href="images/small logo.png">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="min-h-screen flex flex-col items-center p-4">
+    <main class="w-full max-w-2xl flex flex-col items-center px-2">
+    <div id="guess-list" class="w-full"></div> 
+    </main>
+
+    <header class="w-full max-w-full px-4 flex justify-between items-center mb-6 border-b-4 border-green-700 pb-2">
+    
+    <div class="flex flex-col md:flex-row items-center gap-4">
+        <img src="images/umawordle logo.png" 
+             alt="UmaWordle Logo" 
+             class="h-12 w-auto cursor-pointer object-contain" 
+             onclick="showMenu()">
+            <div id="server-time" class="text-[10px] font-mono text-gray-500 uppercase tracking-widest">NEXT RESET IN: 00:00:00</div>
+        </div>
+        <div class="flex items-center gap-4">
+            <div id="stats-summary" class="text-sm font-bold text-gray-600 flex items-center gap-1 bg-white px-3 py-1 rounded-full shadow-sm"></div>
+            <button onclick="toggleTheme()" id="theme-toggle" aria-label="Toggle theme" class="theme-toggle w-8 h-8 rounded-full border-2 border-gray-400 text-gray-500 font-bold flex items-center justify-center hover:bg-gray-200 transition-colors">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="sun-icon"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="moon-icon hidden"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+            </button>
+            <button onclick="toggleHelp(true)" aria-label="Open help" class="w-8 h-8 rounded-full border-2 border-gray-400 text-gray-500 font-bold flex items-center justify-center hover:bg-gray-200 transition-colors">?</button>
+        </div>
+    </header>
+
+    <div id="menu-screen" class="w-full max-w-md bg-white rounded-xl shadow-2xl p-8 flex flex-col gap-4">
+        <!-- Tab Switcher -->
+        <div class="flex bg-gray-100 p-1 rounded-xl mb-2">
+            <button id="tab-uma" onclick="switchGameType('uma')" class="flex-1 py-2 rounded-lg font-bold transition-all bg-white shadow-sm text-green-700">Umamusume</button>
+            <button id="tab-course" onclick="switchGameType('course')" class="flex-1 py-2 rounded-lg font-bold transition-all text-gray-500 hover:text-gray-700">G1 Race</button>
+        </div>
+
+        <div class="text-center mb-4">
+            <p id="menu-description" class="text-gray-600">Guess the Umamusume based on their base Aptitudes!</p>
+        </div>
+        
+        <div class="flex flex-col gap-3">
+            <button id="daily-btn" onclick="startGame('daily')" class="btn-primary text-white font-bold py-4 rounded-lg shadow-lg text-xl">Daily Wordle</button>
+            <div id="yesterday-info" class="text-center text-xs text-gray-500 bg-gray-50 py-1 rounded border border-gray-100 italic"></div>
+        </div>
+
+        <div class="flex flex-col gap-2 mt-2">
+            <p class="text-xs font-bold text-gray-400 uppercase ml-1">Unlimited Play</p>
+            <button onclick="startGame('easy')" class="btn-easy text-white font-bold py-3 rounded-lg shadow-lg text-lg">Easy Mode</button>
+            <button onclick="startGame('unlimited')" class="btn-secondary text-white font-bold py-3 rounded-lg shadow-lg text-lg">Normal Mode</button>
+            <button id="hard-btn" onclick="startGame('hard')" class="btn-hard text-white font-bold py-3 rounded-lg shadow-lg text-lg">Hard Mode</button>
+            <p id="hard-mode-desc" class="text-[10px] text-gray-400 text-center px-4">Hard: No names + 3 clues + Only 2 Attempts!</p>
+        </div>
+        
+        <div id="daily-status" class="text-center text-sm font-medium mt-2"></div>
+
+        <footer class="mt-6 pt-4 border-t border-gray-100 flex flex-col items-center gap-3 text-gray-400">
+            <div class="text-xs font-medium">
+                Made by <a href="https://cepherogarde.carrd.co/" target="_blank" class="text-green-600 hover:underline font-bold">Cephero Garde</a>
+            </div>
+            <div class="flex items-center gap-4">
+                <a href="https://www.facebook.com/cepherogarde" target="_blank" class="hover:text-blue-600 transition-colors" aria-label="Facebook">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                </a>
+                <a href="https://www.x.com/cepherogarde" target="_blank" class="hover:text-black transition-colors" aria-label="X">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                </a>
+            </div>
+        </footer>
+    </div>
+
+    <div id="game-screen" class="hidden w-full max-w-6xl flex flex-col items-center">
+        <div class="flex justify-between w-full mb-4 px-2">
+            <button onclick="showMenu()" class="text-green-700 font-bold hover:underline">← Menu</button>
+            <div id="mode-indicator" class="font-black uppercase text-red-600"></div>
+            <div id="score-display" class="font-bold text-green-800"></div>
+        </div>
+
+        <div class="w-full overflow-x-auto">
+            <div id="guess-history" class="w-full border-collapse">
+                
+            </div>
+            
+            <table id="guesses" class="w-full text-center border-separate border-spacing-1 min-w-[600px]">
+                <thead id="guess-head">
+                </thead>
+                <tbody id="guess-grid"></tbody>
+            </table>
+        </div>
+
+        <div id="input-container" class="mt-8 w-full max-w-md pb-20">
+            <div class="relative">
+                <input type="text" id="uma-input" placeholder="Enter name..." autocomplete="off"
+                    class="w-full p-4 rounded-full border-2 border-green-600 focus:outline-none focus:ring-2 focus:ring-green-400 shadow-md">
+                <div id="autocomplete-list" class="absolute z-10 w-full bg-white border border-gray-200 rounded-b-xl shadow-xl hidden max-h-64 overflow-y-auto mt-1"></div>
+            </div>
+            <p class="text-center mt-2 text-sm text-gray-500">Guesses remaining: <span id="remaining-guesses" class="font-bold text-red-600">5</span></p>
+        </div>
+    </div>
+
+    <!-- Modals are kept similar but will be updated via JS for content -->
+    <div id="help-modal" role="dialog" aria-modal="true" aria-labelledby="help-title" class="fixed inset-0 bg-black bg-opacity-50 hidden flex items-center justify-center p-4 z-[60]">
+        <div class="bg-white rounded-2xl p-6 max-w-lg w-full shadow-2xl max-h-[90vh] overflow-y-auto text-left">
+            <div class="flex justify-between items-center mb-4">
+                <h2 id="help-title" class="text-2xl font-bold text-green-800">How to Play</h2>
+                <button onclick="toggleHelp(false)" aria-label="Close help" class="text-gray-400 hover:text-black text-2xl">&times;</button>
+            </div>
+            <div id="help-content" class="space-y-4 text-sm text-gray-700">
+                <!-- Dynamic Help Content -->
+            </div>
+            <button onclick="toggleHelp(false)" class="w-full mt-6 btn-primary text-white font-bold py-3 rounded-lg">Got it!</button>
+        </div>
+    </div>
+
+    <div id="result-modal" role="dialog" aria-modal="true" aria-labelledby="result-title" class="fixed inset-0 bg-black bg-opacity-60 hidden flex items-center justify-center p-4 z-[100] backdrop-blur-sm">
+        <div class="bg-white rounded-3xl w-full max-w-lg shadow-2xl overflow-hidden animate-fade-in">
+            <div id="modal-header-band" class="h-4 w-full bg-green-600"></div>
+            
+            <div class="p-8 max-h-[90vh] overflow-y-auto">
+                <div class="flex justify-end mb-4">
+                    <button onclick="closeModal()" aria-label="Close result" class="text-gray-400 hover:text-black text-2xl">&times;</button>
+                </div>
+
+                <h2 id="result-title" class="text-4xl font-black text-center text-slate-800 mb-2 uppercase italic tracking-tighter"></h2>
+                <p id="result-msg" class="text-slate-500 text-center text-sm font-medium mb-2 px-4"></p>
+                <p id="result-score" class="text-center text-sm font-semibold text-green-700 mb-6"></p>
+                <div class="flex justify-center mb-6">
+                    <div id="share-card" class="bg-[#111827] p-5 rounded-2xl shadow-2xl inline-block text-center border border-gray-800">
+                        <h4 id="share-title-text" class="text-green-500 font-black text-[10px] tracking-[0.2em] mb-1">UMAWORDLE</h4>
+                        <div id="share-info-text" class="text-[9px] text-gray-500 mb-3 uppercase font-bold tracking-widest"></div>
+                        <div id="share-block-preview" class="share-emoji-block text-base sm:text-lg leading-tight"></div>
+                    </div>
+                </div>
+
+                <div id="result-target-card" class="bg-slate-50 rounded-2xl p-6 border-2 border-slate-100 mb-8">
+                    <div class="text-center mb-4">
+                        <span id="target-label" class="text-[10px] font-bold text-slate-400 uppercase tracking-widest block mb-1">Winning Umamusume</span>
+                        <h3 id="target-name" class="text-2xl font-black text-green-700"></h3>
+                    </div>
+                    <div id="target-stats-grid" class="space-y-4">
+                        <!-- Dynamic stats grid for result -->
+                    </div>
+                </div>
+
+                <div class="flex gap-3 items-center">
+                    <button id="modal-action-btn" onclick="closeModal()" class="flex-1 btn-primary text-white font-bold py-4 rounded-xl shadow-lg transition-all active:scale-95">
+                        Continue
+                    </button>
+                    <button onclick="shareToTwitter()" class="w-12 h-12 bg-blue-500 text-white rounded-xl hover:bg-blue-600 transition-all active:scale-95 flex items-center justify-center" aria-label="Share on X">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                    </button>
+                    <button onclick="shareToFacebook()" class="w-12 h-12 bg-blue-700 text-white rounded-xl hover:bg-blue-800 transition-all active:scale-95 flex items-center justify-center" aria-label="Share on Facebook">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
