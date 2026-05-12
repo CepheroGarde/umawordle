@@ -15,5 +15,10 @@
   { "name": "Victoria Mile", "image": "images/races/Victoria Mile.png", "length": "1600", "surface": "Turf", "turn": "Left ↩", "location": "Tokyo" },
   { "name": "Yasuda Kinen", "image": "images/races/Yasuda Kinen.png", "length": "1600", "surface": "Turf", "turn": "Left ↩", "location": "Tokyo" },
   { "name": "Teio Sho", "image": "images/races/Teio Sho.png", "length": "2000", "surface": "Dirt", "turn": "Right ↪", "location": "Ooi" },
-  { "name": "Kikuka Sho", "image": "images/races/Kikuka Sho.png", "length": "3000", "surface": "Turf", "turn": "Right ↪", "location": "Kyoto" }
+  { "name": "Kikuka Sho", "image": "images/races/Kikuka Sho.png", "length": "3000", "surface": "Turf", "turn": "Right ↪", "location": "Kyoto" },
+  { "name": "Tokyo Daishoten", "image": "images/races/Tokyo Daishoten.png", "length": "2000", "surface": "Dirt", "turn": "Left ↩", "location": "Ooi" },
+  { "name": "February Stakes", "image": "images/races/February Stakes.png", "length": "1600", "surface": "Dirt", "turn": "Left ↩", "location": "Tokyo" },
+  { "name": "Japan Dirt Derby", "image": "images/races/Japan Dirt Derby.png", "length": "2000", "surface": "Dirt", "turn": "Right ↪", "location": "Ooi" },
+  { "name": "Sprinters Stakes", "image": "images/races/Sprinters Stakes.png", "length": "1200", "surface": "Turf", "turn": "Right ↪", "location": "Nakayama" },
+  { "name": "Shuka Sho", "image": "images/races/Shuka Sho.png", "length": "2000", "surface": "Turf", "turn": "Right ↪", "location": "Kyoto" }
 ]

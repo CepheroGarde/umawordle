@@ -733,22 +733,35 @@ body.dark .border-t {
         margin-right: auto;
     }
 
+    CSS
+    
     .attribute-grid {
-        grid-template-columns: repeat(5, 1fr); 
-        gap: 2px; 
-    }
+    grid-template-columns: repeat(11, 1fr) !important;
+    gap: 1px; 
+    width: 100%;
+    overflow-x: hidden; 
 }
 
-@media (max-width: 480px) {
-    .attribute-grid {
 
-        grid-template-columns: repeat(5, 1fr); 
-        gap: 3px; 
+main {
+    max-width: 100vw;
+    overflow-x: hidden;
+}
+
+
+@media (max-width: 480px) {
+    .stat-box {
+        padding: 2px 1px; 
+        font-size: 10px; 
+        min-width: 0; 
+        overflow: hidden;
+        text-overflow: ellipsis; 
     }
     
-    .stat-box {
-        padding: 4px 2px; 
-        font-size: 11px;  
+
+    .name-col {
+        grid-column: span 1; 
+        font-size: 9px;
     }
 }
 
@@ -774,7 +787,27 @@ input[type="text"] {
     opacity: 0.8;
     text-transform: uppercase;
 }
+
+table {
+    table-layout: fixed; 
+    width: 100%;
+    border-collapse: collapse;
+}
+
+@keyframes bounce-short {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-5px); }
+}
+.animate-bounce-short {
+    animation: bounce-short 0.5s ease-in-out infinite;
+}
+
+td, th {
+    overflow: hidden;
+    word-wrap: break-word; 
+}
 .head-course { background-color: #dcfce7; color: #166534; }
 body.dark .head-course { background-color: #064e3b; color: #34d399; }
 .clue-row { opacity: 0.7; filter: grayscale(0.5); }
 .match-badge { pointer-events: none; }
+}

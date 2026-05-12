@@ -15,7 +15,7 @@
     </main>
 
     <header class="w-full max-w-full px-4 flex justify-between items-center mb-6 border-b-4 border-green-700 pb-2">
-    
+    <div class="flex gap-2 mb-4">
     <div class="flex flex-col md:flex-row items-center gap-4">
         <img src="images/umawordle logo.png" 
              alt="UmaWordle Logo" 
@@ -39,16 +39,40 @@
             <button id="tab-uma" onclick="switchGameType('uma')" class="flex-1 py-2 rounded-lg font-bold transition-all bg-white shadow-sm text-green-700">Umamusume</button>
             <button id="tab-course" onclick="switchGameType('course')" class="flex-1 py-2 rounded-lg font-bold transition-all text-gray-500 hover:text-gray-700">G1 Race</button>
         </div>
-
+        
         <div class="text-center mb-4">
             <p id="menu-description" class="text-gray-600">Guess the Umamusume based on their base Aptitudes!</p>
         </div>
         
         <div class="flex flex-col gap-3">
-            <button id="daily-btn" onclick="startGame('daily')" class="btn-primary text-white font-bold py-4 rounded-lg shadow-lg text-xl">Daily Wordle</button>
-            <div id="yesterday-info" class="text-center text-xs text-gray-500 bg-gray-50 py-1 rounded border border-gray-100 italic"></div>
+            <button id="daily-btn" onclick="startGame('daily')" class="btn-primary flex items-center justify-center gap-3 text-white font-bold py-4 rounded-lg shadow-lg text-xl">
+            <img src="images\silence suzuka chibi.png" class="h-20 w-20 object-contain" alt="">
+            Daily Wordle<img src="images\silence suzuka chibi.png" class="h-20 w-20 object-contain" alt="">
+            </button>
+        <div id="yesterday-info" class="text-center text-xs text-gray-500 bg-gray-50 py-1 rounded border border-gray-100 italic"></div>
+</div>
+        <div class="flex flex-col gap-4 w-full max-w-md">
+    
+    <div id="ranked-profile-view" class="bg-gradient-to-r from-purple-100 to-indigo-100 p-4 rounded-2xl border-2 border-purple-300 shadow-sm mb-2">
+        <div class="flex justify-between items-center">
+            <div>
+                <p class="text-[10px] font-bold text-purple-600 uppercase tracking-widest">Current Rank</p>
+                <h2 id="menu-tier-name" class="text-3xl font-black text-purple-900 leading-none">--</h2>
+                <p id="menu-tier-points" class="text-xs text-purple-700 font-medium">0 Points</p>
+            </div>
+            <div class="text-right">
+                <p id="menu-placements" class="text-[10px] font-bold text-indigo-500 uppercase">Placements: 0/5</p>
+                <div id="streak-badge" class="mt-1 px-2 py-0.5 bg-orange-400 text-white text-[10px] rounded-full font-bold hidden">
+                    🔥 STREAK
+                </div>
+            </div>
         </div>
-
+    </div>
+    
+    <button onclick="startGame('ranked')" class="w-full py-4 bg-gradient-to-r from-purple-600 to-indigo-600 text-white rounded-xl font-bold shadow-lg transform active:scale-95 transition-all">
+    Ranked Mode
+</button>
+</div>
         <div class="flex flex-col gap-2 mt-2">
             <p class="text-xs font-bold text-gray-400 uppercase ml-1">Unlimited Play</p>
             <button onclick="startGame('easy')" class="btn-easy text-white font-bold py-3 rounded-lg shadow-lg text-lg">Easy Mode</button>
@@ -80,19 +104,11 @@
             <div id="mode-indicator" class="font-black uppercase text-red-600"></div>
             <div id="score-display" class="font-bold text-green-800"></div>
         </div>
-
-        <div class="w-full overflow-x-auto">
-            <div id="guess-history" class="w-full border-collapse">
-                
-            </div>
-            
-            <table id="guesses" class="w-full text-center border-separate border-spacing-1 min-w-[600px]">
+        <table id="guesses" class="w-full text-center border-separate border-spacing-1 min-w-[600px]">
                 <thead id="guess-head">
                 </thead>
                 <tbody id="guess-grid"></tbody>
             </table>
-        </div>
-
         <div id="input-container" class="mt-8 w-full max-w-md pb-20">
             <div class="relative">
                 <input type="text" id="uma-input" placeholder="Enter name..." autocomplete="off"
@@ -136,7 +152,11 @@
                         <div id="share-block-preview" class="share-emoji-block text-base sm:text-lg leading-tight"></div>
                     </div>
                 </div>
+                <h2 id="result-title" class="text-4xl font-black text-center text-slate-800 mb-2 uppercase italic tracking-tighter"></h2>
 
+                    <div id="ranked-result-profile" class="hidden w-full mb-6"></div>
+
+                <p id="result-msg" class="text-slate-500 text-center text-sm font-medium mb-2 px-4"></p>
                 <div id="result-target-card" class="bg-slate-50 rounded-2xl p-6 border-2 border-slate-100 mb-8">
                     <div class="text-center mb-4">
                         <span id="target-label" class="text-[10px] font-bold text-slate-400 uppercase tracking-widest block mb-1">Winning Umamusume</span>
@@ -146,7 +166,7 @@
                         <!-- Dynamic stats grid for result -->
                     </div>
                 </div>
-
+                
                 <div class="flex gap-3 items-center">
                     <button id="modal-action-btn" onclick="closeModal()" class="flex-1 btn-primary text-white font-bold py-4 rounded-xl shadow-lg transition-all active:scale-95">
                         Continue
