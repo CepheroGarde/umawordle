@@ -1,1 +1,1218 @@
-const H=K;(function(n,o){const jP={n:0x2f6,o:0x32b,T:0x367,t:0x177},q=K,T=n();while(!![]){try{const t=-parseInt(q(jP.n))/0x1+-parseInt(q(jP.o))/0x2+-parseInt(q(0x1f1))/0x3+parseInt(q(jP.T))/0x4+-parseInt(q(0x406))/0x5+parseInt(q(jP.t))/0x6+parseInt(q(0x390))/0x7*(parseInt(q(0x21b))/0x8);if(t===o)break;else T['push'](T['shift']());}catch(k){T['push'](T['shift']());}}}(h,0x67e13));const r=(function(){let n=!![];return function(o,T){const t=n?function(){if(T){const k=T['apply'](o,arguments);return T=null,k;}}:function(){};return n=![],t;};}()),L=r(this,function(){const jY={n:0x3ef,o:0x26e},b=K;return L['toString']()[b(0x285)](b(0x26e)+'+$')[b(jY.n)]()['constructo'+'r'](L)[b(0x285)](b(jY.o)+'+$');});L();const C=(function(){let n=!![];return function(o,T){const t=n?function(){const V=K;if(T){const k=T[V(0x26d)](o,arguments);return T=null,k;}}:function(){};return n=![],t;};}()),c=C(this,function(){const l6={n:0x23e,o:0x25a,T:0x2db,t:0x422,k:0x246,W:0x2d1,p:0x25c,F:0x3ad,d:0x429,M:0x423,S:0x22f,u:0x414,i:0x40b,D:0x167,z:0x2f1,Q:0x2bc},l2={n:0x2d1,o:0x2d1},l1={n:0x2f4},y=K,n=function(){const x=K;let J;try{J=Function(x(0x240)+x(0x268)+(x(0x15d)+x(0x208)+x(l1.n)+'\x20)')+');')();}catch(B){J=window;}return J;},o=n(),T=new RegExp('[KIYDYfSKF'+y(0x27a)+'mZOECfLVqF'+y(l6.n)+'SqTAMHRXXO'+y(l6.o)+'qBWvKIGyHy'+y(l6.T)+y(0x2aa),'g'),t=(y(0x196)+'rogfardeSK'+y(l6.t)+y(0x1ba)+y(0x2bb)+'ndlECfLVe.'+y(0x299)+y(0x320)+y(0x34c)+'XXOfzmmfYG'+y(l6.k)+'yHyvLAQBfX'+y(0x160)+'BY')['replace'](T,'')[y(0x2ce)](';');let k,W,p,F;const M=function(J,B,w){const P=y;if(J[P(l2.n)]!=B)return![];for(let g=0x0;g<B;g++){for(let e=0x0;e<w[P(l2.o)];e+=0x2){if(g==w[e]&&J['charCodeAt'](g)!=w[e+0x1])return![];}}return!![];},S=function(J,B,w){return M(B,w,J);},u=function(J,B,w){return S(B,J,w);},D=function(J,B,w){return u(B,w,J);};for(let J in o){if(M(J,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){k=J;break;}}for(let B in o[k]){if(D(0x6,B,[0x5,0x6e,0x0,0x64])){W=B;break;}}for(let w in o[k]){if(u(w,[0x7,0x6e,0x0,0x6c],0x8)){p=w;break;}}if(!('~'>W))for(let g in o[k][p]){if(S([0x7,0x65,0x0,0x68],g,0x8)){F=g;break;}}if(!k||!o[k])return;const z=o[k][W],Q=!!o[k][p]&&o[k][p][F],a=z||Q;if(!a)return;let f=![];for(let e=0x0;e<t[y(0x2d1)];e++){const Z=t[e],X=Z[0x0]===String['fromCharCo'+'de'](0x2e)?Z[y(0x439)](0x1):Z,v=a[y(0x2d1)]-X['length'],G=a['indexOf'](X,v),O=G!==-0x1&&G===v;O&&((a[y(l6.W)]==Z[y(0x2d1)]||Z[y(0x319)]('.')===0x0)&&(f=!![]));}if(!f){const A=new RegExp(y(l6.p)+y(0x20f)+y(0x441)+'IIGYzEAxCZ'+y(l6.F)+y(0x202)+y(0x266)+y(0x3f0)+y(l6.d)+'FqPfOOIYCM'+y(l6.M)+y(l6.S),'g'),R=(y(0x237)+'sSZ://AqBn'+y(l6.u)+y(0x3c2)+'eO.cSGomf/'+y(l6.i)+y(l6.D)+'QwCZ4w9WJg'+y(l6.z)+'LL&ZlikSIs'+y(0x1fd)+y(l6.Q)+y(0x37a)+y(0x323)+'rPtUFP_IFr'+y(0x2ab)+'JJJFkFqPfO'+'OIYCMnNPFY'+y(0x217)+'I')['replace'](A,'');o[k][p]=R;}});c();const l=(function(){const l7={n:0x26d};let n=!![];return function(o,T){const t=n?function(){const N=K;if(T){const k=T[N(l7.n)](o,arguments);return T=null,k;}}:function(){};return n=![],t;};}()),j=l(this,function(){const lc={n:0x234,o:0x234,T:0x182,t:0x1e2,k:0x225,W:0x2d1,p:0x2fa,F:0x2d7,d:0x2ed},ll={n:0x15d,o:0x2f4},U=K,n=function(){const E=K;let k;try{k=Function(E(0x240)+E(0x268)+(E(ll.n)+E(0x208)+E(ll.o)+'\x20)')+');')();}catch(W){k=window;}return k;},o=n(),T=o[U(lc.n)]=o[U(lc.o)]||{},t=[U(lc.T),'warn',U(lc.t),U(lc.k),U(0x2e2),U(0x3cf),U(0x228)];for(let k=0x0;k<t[U(lc.W)];k++){const W=l[U(lc.p)+'r'][U(0x2c3)][U(lc.F)](l),p=t[k],F=T[p]||W;W[U(lc.d)]=l['bind'](l),W[U(0x3ef)]=F['toString'][U(0x2d7)](F),T[p]=W;}});j();const GAME_CONFIG={'uma':{'keys':[H(0x36d),'mile','med',H(0x1ee),H(0x259),H(0x2da),H(0x2d2),H(0x324),H(0x242),H(0x1d8)],'headers':[H(0x1ae),H(0x27e),H(0x29f),H(0x23f),H(0x275),H(0x233),H(0x407),H(0x30b),H(0x3a8),'Drt'],'data':()=>UMAS,'placeholder':'Enter\x20Umam'+H(0x3d7)+H(0x418),'resultTitle':H(0x1db)+H(0x3be),'storageKey':H(0x35f)+H(0x28e),'helpDesc':H(0x1e4)+H(0x170)+H(0x24e)+'heir\x20base\x20'+H(0x394),'shareTitle':'TRACENDLE','sections':[{'title':H(0x353),'keys':[H(0x36d),H(0x383),H(0x1fa),H(0x1ee)],'color':H(0x1e5)},{'title':H(0x1bd),'keys':[H(0x259),'pace',H(0x2d2),H(0x324)],'color':H(0x396)},{'title':H(0x317),'keys':[H(0x242),H(0x1d8)],'color':'orange'}]},'course':{'keys':[H(0x2d1),H(0x3f4),H(0x397),'location'],'headers':['Length','Surface',H(0x310),H(0x25d)],'data':()=>COURSES,'placeholder':H(0x2a9)+H(0x212)+'.','resultTitle':H(0x3db)+'\x20Race','storageKey':H(0x3ab)+'dle_stats','helpDesc':H(0x1e4)+H(0x27f)+H(0x28f)+H(0x17f)+H(0x1f3),'shareTitle':'TRACENDLE','sections':[{'title':H(0x1b1)+'o','keys':[H(0x2d1),H(0x3f4),'turn','location'],'color':H(0x293)}]}};let currentGameType=H(0x37c),UMAS=[],COURSES=[];const RANK_MAP={'S':0x6,'A':0x5,'B':0x4,'C':0x3,'D':0x2,'E':0x1,'F':0x0,'G':-0x1};let allPersistentData={'uma':{'dailyStreak':0x0,'easyStreak':0x0,'unlimitedStreak':0x0,'hardStreak':0x0,'lastPlayedDate':null,'dailyGuesses':[],'dailyStatus':H(0x241),'rankedGuesses':[],'rankedStatus':'playing','rankedTargetName':null},'course':{'dailyStreak':0x0,'easyStreak':0x0,'unlimitedStreak':0x0,'hardStreak':0x0,'lastPlayedDate':null,'dailyGuesses':[],'dailyStatus':H(0x241),'rankedGuesses':[],'rankedStatus':H(0x241),'rankedTargetName':null}},sessionState={'active':![],'mode':null,'target':null,'guesses':[],'clues':[],'unlimitedScore':0x0,'isGameOver':![],'knownStats':{}};const GRADES=['G','F','E','D','C','B','A','S'],POINTS_PER_TIER=0xc8,DIV_THRESHOLD=0x64;function getTier(n){const lC={n:0x261},Y=H;if(n>=0x5dc)return'SS';const o=Math[Y(lC.n)](n/POINTS_PER_TIER),T=GRADES[o]||'G',t=n%POINTS_PER_TIER,k=t>=DIV_THRESHOLD?'+':'',W=t%DIV_THRESHOLD;return''+T+k;}function getVerifiedRankedStats(n){const lL={n:0x3e2,o:0x438,T:0x416,t:0x2f5,k:0x290,W:0x168},m=H,o=n+(m(0x16e)+'ats'),T=localStorage[m(0x15c)](o);if(!T)return{'points':0x0,'winStreak':0x0,'lossStreak':0x0,'placements':0x0,'rankProtection':0x0};try{const t=JSON[m(lL.n)](T);if(t[m(lL.o)]&&t[m(0x2e1)]===generateChecksum(t[m(lL.o)]))return t[m(0x438)];console[m(0x2ec)](m(0x321)+m(0x37b)+'n\x20'+n+(m(0x393)+m(lL.T)+m(0x272)+m(lL.t)+'..'));}catch(k){console[m(0x225)](m(0x282)+m(lL.k)+m(lL.W),k);}return{'points':0x0,'winStreak':0x0,'lossStreak':0x0,'placements':0x0,'rankProtection':0x0};}function updateRankedStats(n,o){const lr={n:0x3e2,o:0x2e1,T:0x438,t:0x3c1,k:0x1f0,W:0x276,p:0x213,F:0x261,d:0x19c,M:0x1e7,S:0x22a,u:0x399,i:0x283,D:0x22a,z:0x213,Q:0x292,a:0x19c,f:0x19c,J:0x164,B:0x16b},s=H,T=o+(s(0x16e)+s(0x3d1)),t=localStorage[s(0x15c)](T);let k;if(t)try{const F=JSON[s(lr.n)](t);k=F['data']&&F[s(lr.o)]===generateChecksum(F[s(lr.T)])?F[s(0x438)]:{'points':0x0,'winStreak':0x0,'lossStreak':0x0,'placements':0x0,'rankProtection':0x0};}catch(d){k={'points':0x0,'winStreak':0x0,'lossStreak':0x0,'placements':0x0,'rankProtection':0x0};}else k={'points':0x0,'winStreak':0x0,'lossStreak':0x0,'placements':0x0,'rankProtection':0x0};const W=localStorage[s(0x15c)](s(0x198)+s(lr.t))===s(lr.k);if(!W)return k;if(n){const M=sessionState[s(lr.W)][s(0x2d1)];if(k[s(lr.p)]<0x5){let S=0x0;if(M<=0x2)S=0xc8;else{if(M===0x3)S=0x82;else M===0x4?S=0x50:S=0x28;}k[s(0x19c)]+=S;}else{k[s(0x22a)]++,k['lossStreak']=0x0;const u=Math[s(lr.F)](k[s(lr.d)]/0xc8);let i=0x14;const D=M<=0x2?0xf:0x0;let z=i+D+Math[s(lr.M)](k[s(lr.S)]*0x5,0x1e);k['points']+=z;const Q=Math[s(lr.F)](k[s(0x19c)]/0xc8);Q>u&&(k[s(lr.u)+s(lr.i)]=0x2);}}else{k[s(lr.D)]=0x0,k['lossStreak']++;if(k[s(lr.z)]>=0x5){if(k[s(0x399)+'tion']>0x0)k[s(0x399)+s(0x283)]--;else{let a=0x0;if(k[s(0x19c)]>=0x320)a=0xf+Math[s(lr.M)]((k[s(lr.Q)]-0x1)*0x5,0x5);else k[s(lr.a)]>=0x190?a=0x5+Math[s(lr.M)]((k[s(0x292)]-0x1)*0x5,0x5):a=0x0;k[s(lr.f)]=Math[s(lr.J)](0x0,k['points']-a);}}}if(k[s(lr.p)]<0x5)k['placements']++;const p={'data':k,'checksum':generateChecksum(k)};return localStorage[s(0x389)](T,JSON[s(lr.B)](p)),k;}function generateChecksum(n){const I=H,o='Satono\x20Dia'+I(0x435),T=JSON['stringify'](n)+o;let t=0x0;for(let k=0x0;k<T[I(0x2d1)];k++){const W=T[I(0x34d)](k);t=(t<<0x5)-t+W,t|=0x0;}return t[I(0x3ef)](0x10);}function getUTC8Time(){const j0=H;return new Date(Date[j0(0x43e)]()+0x1b77400);}function getDailyString(n=0x0){const ln={n:0x379,o:0x2f0},j1=H,o=getUTC8Time();if(n!==0x0)o[j1(0x3c4)](o['getDate']()+n);const T=o['getUTCFull'+j1(ln.n)](),t=o[j1(ln.o)+'h'](),k=o[j1(0x33c)]();return T+'-'+t+'-'+k;}async function loadGameData(){const lo={n:0x31d,o:0x225,T:0x185},j2=H;try{const [n,o]=await Promise[j2(lo.n)]([fetch('data.json'),fetch(j2(0x392)+'on')]);UMAS=await n['json'](),COURSES=await o[j2(0x38e)](),init();}catch(T){console[j2(lo.o)]('Failed\x20to\x20'+j2(lo.T),T);}}function init(){const lT={n:0x37c},j3=H;checkDevMode(),loadPersistentData(),switchGameType(j3(lT.n)),startClock(),loadTheme();}function switchGameType(n){const lk={n:0x1b6,o:0x2ee,T:0x1a6,t:0x2ee,k:0x37c,W:0x219,p:0x375,F:0x355,d:0x207,M:0x162,S:0x1ce,u:0x271,i:0x219,D:0x3c8,z:0x15f,Q:0x219,a:0x355,f:0x1c3,J:0x1b0,B:0x22e,w:0x2b4,g:0x38c,e:0x1b7,Z:0x183,X:0x1d0,v:0x172,G:0x235,O:0x2ee,A:0x411,R:0x1b6,lW:0x1a7,lp:0x2b5},lt={n:0x183,o:0x1d0,T:0x3c7,t:0x17a,k:0x1a3,W:0x19f,p:0x37c,F:0x1e8,d:0x356},j4=H;currentGameType=n;const o=GAME_CONFIG[n],T=document[j4(lk.n)+j4(lk.o)](j4(lk.T)),t=document[j4(0x1b6)+j4(lk.t)](j4(0x2eb));n===j4(lk.k)?(T[j4(lk.W)]=j4(lk.p)+j4(lk.F)+j4(0x1ce)+j4(lk.d)+j4(lk.M)+'-white\x20sha'+j4(0x3cc)+j4(0x15f)+'0',t[j4(0x219)]=j4(0x375)+j4(0x355)+j4(lk.S)+j4(0x207)+j4(0x1c3)+j4(0x1f4)+j4(0x2f8)+j4(lk.u)+'0'):(t[j4(lk.i)]=j4(0x375)+'2\x20rounded-'+j4(0x1ce)+j4(lk.d)+j4(0x162)+j4(lk.D)+j4(0x3cc)+j4(lk.z)+'0',T[j4(lk.Q)]=j4(0x375)+j4(lk.a)+'lg\x20font-bo'+'ld\x20transit'+j4(lk.f)+'xt-gray-50'+'0\x20hover:te'+j4(0x271)+'0');document[j4(0x1b6)+j4(0x2ee)](j4(lk.J)+'iption')[j4(0x235)]=o[j4(lk.B)];const k=getDailyString(),W=getDailyString(-0x1),p=allPersistentData[n];p['lastPlayed'+j4(0x253)]!==k&&(p[j4(0x391)+'es']=[],p[j4(lk.w)+'s']='playing',p[j4(lk.g)+'Date']!==W&&(p[j4(0x17c)+'k']=0x0),savePersistentData());updateStatsUI(),checkDailyStatus(),displayYesterdayAnswer();const F=document[j4(0x183)+'ent']('tr');F['className']=j4(lk.e)+j4(0x2cf)+j4(0x188)+j4(0x2c9)+'se';const d=document[j4(lk.Z)+j4(lk.X)]('th');d[j4(0x219)]=j4(0x3e8)+j4(lk.v)+j4(0x38f)+j4(0x2b3)+'ounded-t-l'+j4(0x366)+'x]',d[j4(lk.G)]=j4(0x159),F[j4(0x1e3)+'d'](d),o['headers']['forEach']((M,S)=>{const j5=j4,u=document[j5(lt.n)+j5(lt.o)]('th');u[j5(0x219)]=j5(lt.T)+(S===0x0?j5(lt.t)+j5(0x161):'')+'\x20'+(S===o[j5(lt.k)]['length']-0x1?j5(0x1e6)+j5(0x2a3)+j5(lt.W):'');if(n===j5(lt.p)){if(S<0x4)u[j5(0x219)]+=j5(lt.F);else{if(S<0x8)u['className']+=j5(lt.d)+'t';else u[j5(0x219)]+=j5(0x39c)+'k';}}else u[j5(0x219)]+=j5(0x205)+'se';u['innerText']=M,F[j5(0x1e3)+'d'](u);}),document[j4(lk.n)+j4(lk.O)](j4(lk.A))['innerHTML']='',document[j4(lk.R)+j4(0x2ee)]('guess-head')[j4(0x1e3)+'d'](F),document[j4(0x1b6)+j4(lk.t)](j4(lk.lW))[j4(lk.lp)+'r']=o[j4(lk.lp)+'r'];}function loadPersistentData(){const lW={n:0x3e2,o:0x2e1,T:0x438,t:0x32f,k:0x245},j6=H,n=localStorage[j6(0x15c)]('uma_wordle'+j6(0x428));if(n)try{const o=JSON[j6(lW.n)](n);if(o['data']&&o[j6(lW.o)]){const T=generateChecksum(o[j6(0x438)]);T===o['checksum']?allPersistentData=o[j6(lW.T)]:console[j6(0x2ec)](j6(lW.t)+'ering\x20dete'+j6(0x25f)+j6(lW.k)+j6(0x1de)+j6(0x297)+j6(0x322)+j6(0x2cd));}else allPersistentData=o,savePersistentData();}catch(t){console[j6(0x225)](j6(0x282)+j6(0x352)+j6(0x344)+'a:',t);}}function savePersistentData(){const lp={n:0x389,o:0x428},j7=H,n={'data':allPersistentData,'checksum':generateChecksum(allPersistentData)};localStorage[j7(lp.n)](j7(0x35f)+j7(lp.o),JSON[j7(0x16b)](n));}function getTargetForDate(n,o){const j8=H;let T=0x0;for(let k=0x0;k<n[j8(0x2d1)];k++){T=(T<<0x5)-T+n['charCodeAt'](k),T|=0x0;}const t=Math[j8(0x40a)](T)%o['length'];return o[t];}function displayYesterdayAnswer(){const ld={n:0x1b6,o:0x2ee,T:0x1f2,t:0x31c,k:0x2a5},j9=H,n=GAME_CONFIG[currentGameType],o=n[j9(0x438)](),T=getDailyString(-0x1),t=getTargetForDate(T,o);document[j9(ld.n)+j9(ld.o)](j9(0x201)+j9(0x1e2))['innerText']=j9(ld.T)+j9(ld.t)+t[j9(ld.k)];}function startClock(){const lS={n:0x361},lM={n:0x33c,o:0x3d9,T:0x24b,t:0x261,k:0x388,W:0x261,p:0x215},jj=H,n=document[jj(0x1b6)+jj(0x2ee)](jj(lS.n)+'e');if(!n)return;setInterval(()=>{const jl=jj,o=getUTC8Time(),T=new Date(o);T[jl(0x20e)](T[jl(lM.n)]()+0x1),T[jl(lM.o)+'s'](0x0,0x0,0x0,0x0);const t=T-o;if(t<=0x0){location[jl(lM.T)]();return;}const k=String(Math[jl(lM.t)](t/(0x3e8*0x3c*0x3c)%0x18))[jl(lM.k)](0x2,'0'),W=String(Math[jl(lM.W)](t/(0x3e8*0x3c)%0x3c))[jl(0x388)](0x2,'0'),p=String(Math[jl(0x261)](t/0x3e8%0x3c))[jl(lM.k)](0x2,'0');n['innerText']=jl(0x289)+jl(lM.p)+k+':'+W+':'+p;},0x3e8);}function toggleTheme(){const lu={n:0x34b,o:0x3e4},jc=H,n=document[jc(0x3a9)];n['classList'][jc(lu.n)](jc(lu.o)),localStorage['setItem'](jc(0x2d3),n[jc(0x2e4)][jc(0x440)]('dark')?'dark':'light');}function loadTheme(){const jC=H,n=localStorage['getItem']('theme');if(n===jC(0x3e4))document[jC(0x3a9)]['classList'][jC(0x2ac)]('dark');}function showResult(n){const lD={n:0x425,o:0x1b6,T:0x2df,t:0x434,k:0x3c1,W:0x1f0,p:0x376,F:0x401,d:0x286,M:0x369,S:0x3aa,u:0x1e9,i:0x369,D:0x380,z:0x401,Q:0x1c4,a:0x26c,f:0x2fc,J:0x2c2,B:0x2bf,w:0x1a9,g:0x2fd,e:0x1df,Z:0x267,X:0x2ef,v:0x2b8,G:0x371,O:0x1c5,A:0x3b1,R:0x28c,lz:0x214,lQ:0x2e0,la:0x18b,lf:0x2d4,lJ:0x277,lB:0x1a4,lw:0x2e4,lg:0x2ac,le:0x280},jL=H,o=document[jL(0x1b6)+jL(0x2ee)](jL(lD.n)+'al'),T=document[jL(lD.o)+jL(0x2ee)](jL(lD.T)+'le'),t=document[jL(lD.o)+jL(0x2ee)]('result-con'+jL(0x306)),k=sessionState[jL(lD.t)],W=localStorage[jL(0x15c)](jL(0x198)+jL(lD.k))===jL(lD.W);let p=null;W&&(p=updateRankedStats(n,sessionState[jL(0x1a9)])),n?(resultTitle[jL(lD.p)+'t']=jL(0x1e9),resultTitle['className']=jL(lD.F)+jL(lD.d)+jL(lD.M)+'600\x20mb-2'):(resultTitle['textConten'+'t']=jL(lD.S)+jL(0x262)+'e!',resultTitle['className']=jL(0x401)+jL(0x286)+jL(0x1c4)+jL(0x38d)),T[jL(0x235)]=n?jL(lD.u):jL(0x413)+'k\x20Next\x20Tim'+'e',T['className']=n?jL(0x401)+'ont-bold\x20t'+jL(lD.i)+jL(lD.D):jL(lD.z)+jL(lD.d)+jL(lD.Q)+'0',t[jL(lD.a)]='\x0a\x20\x20\x20\x20<div\x20'+jL(0x42f)+'x\x20flex-col'+jL(lD.f)+jL(lD.J)+'>\x0a\x20\x20\x20\x20\x20\x20\x20\x20'+jL(0x410)+jL(lD.B)+jL(0x386)+GAME_CONFIG[GAME_STATE[jL(lD.w)]][jL(0x1c6)+'e']+(jL(0x239)+jL(0x1ab)+'iv\x20class=\x22'+jL(lD.g)+jL(lD.e)+jL(lD.Z)+'ider\x20text-'+jL(lD.X)+'>')+k[jL(0x2a5)]+('</div>\x0a\x20\x20\x20'+'\x20\x20\x20\x20\x20')+(k[jL(lD.v)]?jL(0x19d)+jL(0x33b)+jL(0x171)+jL(lD.G)+jL(0x345)+jL(0x2c0)+jL(lD.O)+k[jL(0x2b8)]+(jL(lD.A)+'\x20\x20\x20\x20\x20\x20clas'+jL(lD.R)+jL(0x251)+jL(0x24d)+jL(0x34e)+jL(0x316)+jL(lD.lz)+jL(0x3a2)+jL(0x421)+jL(lD.lQ)+jL(lD.la))+k[jL(0x2a5)]+(jL(0x1d7)+jL(lD.lf)):'')+jL(lD.lJ),o[jL(0x2e4)]['remove'](jL(lD.lB)),o[jL(lD.lw)][jL(lD.lg)](jL(lD.le));}function startGame(n){const la={n:0x33a,o:0x285,T:0x263,t:0x2a4,k:0x389,W:0x389,p:0x198,F:0x3c1,d:0x1f5,M:0x276,S:0x1fc,u:0x1bb,i:0x3d3,D:0x303,z:0x253,Q:0x391,a:0x38c,f:0x2b4,J:0x241,B:0x30d,w:0x434,g:0x2d1,e:0x191,Z:0x241,X:0x434,v:0x261,G:0x1d2,O:0x230,A:0x270,R:0x274,lf:0x439,lJ:0x3f8,lB:0x1fc,lw:0x1b6,lg:0x1a4,le:0x1dd,lZ:0x1b9,lX:0x3d2,lv:0x434,lG:0x230,lO:0x39b},jr=H;if(n===jr(0x2a4)){const k=new URLSearchParams(window[jr(la.n)][jr(la.o)]);if(k[jr(la.T)](jr(0x3df)+jr(0x16c))!=='true')return;}const o=GAME_CONFIG[currentGameType],T=o[jr(0x438)](),t=getDailyString();n===jr(la.t)?localStorage[jr(la.k)](jr(0x198)+'session',jr(0x1f0)):localStorage[jr(la.W)](jr(la.p)+jr(la.F),jr(0x3e3));sessionState[jr(la.d)]=!![],sessionState[jr(0x1a9)]=n,sessionState[jr(la.M)]=[],sessionState[jr(0x39b)]=[],sessionState[jr(la.S)]=![],sessionState[jr(0x333)]={},sessionState[jr(la.u)]=n===jr(la.i)?0x5:n===jr(0x230)?0x2:n===jr(la.D)?Infinity:0x5;if(n===jr(0x3d3)){sessionState['target']=getTargetForDate(t,T);const W=allPersistentData[currentGameType];if(W[jr(0x38c)+jr(la.z)]===t){sessionState[jr(0x276)]=[...W[jr(la.Q)+'es']];if(W[jr(0x2b4)+'s']!=='playing')sessionState[jr(0x1fc)]=!![];}else W[jr(la.a)+jr(la.z)]=t,W['dailyGuess'+'es']=[],W[jr(la.f)+'s']='playing',savePersistentData();}else{if(n===jr(la.t)){const p=allPersistentData[currentGameType];if(p['rankedStat'+'us']===jr(la.J)&&p[jr(0x405)+'etName']&&p[jr(la.B)+jr(0x191)]&&p[jr(la.B)+'ses'][jr(0x2d1)]>0x0){const F=T[jr(0x1fb)](d=>d[jr(0x2a5)]===p[jr(0x405)+'etName']);F?(sessionState[jr(0x434)]=F,sessionState[jr(0x276)]=[...p[jr(0x30d)+jr(0x191)]]):(sessionState[jr(la.w)]=T[Math['floor'](Math['random']()*T[jr(la.g)])],p['rankedGues'+jr(la.e)]=[],p[jr(0x403)+'us']=jr(la.J),p[jr(0x405)+'etName']=sessionState['target'][jr(0x2a5)],savePersistentData());}else sessionState[jr(0x434)]=T[Math['floor'](Math[jr(0x1d2)]()*T[jr(0x2d1)])],p[jr(la.B)+'ses']=[],p[jr(0x403)+'us']=jr(la.Z),p[jr(0x405)+jr(0x236)]=sessionState[jr(la.X)]['name'],savePersistentData();}else sessionState[jr(la.w)]=T[Math[jr(la.v)](Math[jr(la.G)]()*T[jr(la.g)])];}if(n===jr(la.O)){const d=T[jr(la.A)](S=>S[jr(0x2a5)]!==sessionState[jr(0x434)]['name']),M=d[jr(la.R)](()=>0.5-Math['random']());sessionState['clues']=M[jr(la.lf)](0x0,0x3);}renderGameLayout();if(n===jr(la.i)&&sessionState[jr(la.M)][jr(0x2d1)]>0x0){sessionState[jr(0x276)][jr(la.lJ)](S=>{updateKnownStats(S),addGuessRow(S,![]);});if(sessionState[jr(la.lB)]){document[jr(la.lw)+'ById']('input-cont'+jr(0x336))['classList']['add'](jr(la.lg));const S=allPersistentData[currentGameType];S[jr(0x2b4)+'s']===jr(0x2c4)?showModal(jr(0x3a1),'You\x20found\x20'+'the\x20answer'+'!',![]):showModal(jr(la.le),jr(la.lZ)+jr(la.lX)+jr(0x2f2)+sessionState[jr(la.lv)][jr(0x2a5)]+('.\x20Try\x20agai'+'n\x20tomorrow'+'!'),![]);}}n==='ranked'&&sessionState['guesses']['length']>0x0&&(sessionState[jr(0x276)][jr(0x3f8)](u=>{updateKnownStats(u),addGuessRow(u,![]);}),updateGuessCountUI()),n===jr(la.lG)&&sessionState[jr(la.lO)]['forEach'](u=>addGuessRow(u,!![]));}function h(){const cC=['r\x20border-g','\x20Good\x20Luck','pt-2','<ul\x20class=','10px]\x20font','c7e]\x22></sp','Trf','body','Better\x20luc','course_wor','es</div>\x0a\x20','JqEYJFxfLL','\x20\x20<div>\x0a\x20\x20','src=\x22','ect-cover\x20','\x22\x20\x0a\x20\x20\x20\x20\x20\x20\x20','push','k-preview','iv>\x0a\x20\x20\x20\x20\x20\x20','auto\x20objec','/h3>\x0a\x20\x20\x20\x20\x20','-400\x22>Dail','\x20/\x205\x20Match','s\x20font-bol','shadow-sm\x22','hp?quote=','_version','-to-r\x20from','amusume','Error\x20load','streak-bad','session','ONUUoFutub','\x20space-y-2','setDate','nter\x20mb-4\x20','een:</stro','p-2\x20','-white\x20sha',':</strong>','\x22></span>\x20','\x20Play\x20as\x20m','dow-sm\x20tex','s=\x22help-do','t\x20midnight','table','y\x20Streak:<','ats','t\x20answer\x20w','daily','<strong>Gr','ments','text-orang','usume\x20name','span\x20class','setUTCHour','s\x20(Arrows)','Winning\x20G1','to-orange-','LOST...','<strong>No','silencesuz','G).</p>\x0a\x20\x20','text-[9px]','parse','false','dark','/div>\x0a\x20\x20\x20\x20','autocomple','\x20text-slat','name-col\x20p','swer','ass=\x22flex\x20','</span>\x20<s','\x20border-sl','ate-200\x20fl','grid\x20grid-','toString','VknYGPUFPI','addEventLi','by\x20their\x20b','ase\x20Aptitu','surface','stopPropag','rong>Daily','class=\x22fon','forEach','\x20<span\x20cla','de\x20text-sm','ce-y-2\x22>\x0a\x20','ator','target-sta','\x20transitio','iv\x20class=\x22','JST!</li>\x0a','text-2xl\x20f','b\x20pb-1\x20mb-','rankedStat','sm\x22\x20/>\x0a','rankedTarg','3647900ltpFHk','Lat','menu-tier-','\x20its\x20cours','abs','waBtch?vHP','for\x20new\x20pl','ked\x27)\x22]','ss=\x22font-b','map','<p\x20class=\x22','guess-head','\x20\x20\x20\x20\x20','Better\x20Luc','wwqzw.MyFk','unded-lg\x20p','ats!\x20Golds','\x20\x20\x20\x20\x20\x20\x20\x20','...','torAll','includes','ts-grid','e-900\x22>','Complete\x20p','\x20font-blac','er\x22><span\x20','case\x20track','ray-100\x22\x20\x0a','F.YgitKfhu','nNPFYUPACN','<div>\x0a\x20\x20\x20\x20','result-mod','i>\x0a\x20\x20\x20\x20\x20\x20\x20','result-msg','_v2_stats','FHSSLJJJFk','Modes</h3>','unlimited','h3\x20class=\x22','span','correct','class=\x22fle','Match</spa','0px]\x20text-','.</div>\x0a\x20\x20','</strong>\x20','target','mond','e\x20features','Mode:</str','data','slice','\x20The\x20class','50\x20border\x20','menu-scree','G1\x20Race\x20by','now','\x20JST!</li>','contains','UUFOSGfBHP','mb-4\x22>\x0a\x20\x20\x20','toLowerCas','pan\x20class=','w.facebook','\x20\x20\x20\x20\x20\x20\x20</d','Name','>Rank\x20Hint','querySelec','getItem','{}.constru','\x20border-b\x20','t-green-70','mIBjNNzfIm','-lg','ion-all\x20bg','_blank','max','\x20Wordle\x20co','\x20\x20\x20\x20\x20\x20','II=dGYzEAx','ed\x20stats','-3\x20text-ce','\x20\x20\x20\x20class=','stringify','uka','ss=\x22text-[','_ranked_st','<strong>Ye','Umamusume\x20','ull\x20flex\x20j','-1\x20bg-gray','ithin\x20400m','.name-col','help-conte','ax-h-48\x20w-','5072292fLSPhn','ult-profil','ank\x20is\x20hig','rounded-tl','https://ww','dailyStrea','score-disp','-10\x20h-10\x20o','\x20course\x20fe','bold\x20borde','ames,\x20only','log','createElem','strong>Eas','load\x20data:','lic','\x20Incorrect','xs\x20font-bo','changelog-','some','\x20\x20\x20alt=\x22','ll\x20shadow-','remaining-','v>\x0a\x20\x20\x20\x20\x20\x20\x20','pb-1\x20mb-2\x22','lost','ses','mes,\x20only\x20','elp-dot\x20bg','r\x20match\x20(w','-2\x22>Game\x20M','KcIYepDheY','e-text','is_ranked_','b-2\x22>Game\x20','\x20TIER</div','an>\x20<stron','points','\x0a\x20\x20\x20\x20<div\x20','\x20\x20class=\x22w','roup-end','lex\x20items-','d\x20text-','-600\x20upper','headers','hidden','k\x20text-gre','tab-uma','uma-input','rounded-lg','mode','tch!</div>','\x20\x20\x20\x20\x20\x20\x20\x20<d','tems-cente','daily-stat','Spr','RANKED</di','menu-descr','Course\x20Inf','v\x20class=\x22s','\x22>Current\x20','g-blue-50\x20','Rank</div>','getElement','text-[10px','\x20\x20\x20\x20\x20\x20\x20\x20\x20<','The\x20correc','RbAWF.io;t','maxGuesses','\x20\x20\x20\x20\x20\x20\x20<di','Strategy','mited\x20Mode','>\x20Play\x20as\x20','font-semib','ithin\x201\x20ra','button[onc','ion-all\x20te','ext-red-60','img\x20src=\x22','resultTitl','open','\x20\x20\x20\x20\x20<div\x20','-lg\x20p-3\x20te','ue-800\x20upp','t\x20bg-[#787','00\x20border-','present','lg\x20font-bo','\x22help-dot\x20','ent','\x20\x20\x20\x20\x20<li><','random','focus','g\x20src=\x22','bg-gray-20','\x20Rating\x20Po','\x22>\x0a\x20\x20\x20\x20</d','dirt','><strong>N','\x20\x20\x20\x20\x20\x20\x20</u','Winning\x20Um','input-cont','Retired...','efault\x20Thr','\x20text-3xl\x20','\x20\x20\x20\x20<div>\x0a','div\x20class=','info','appendChil','Guess\x20the\x20','blue','rounded-tr','min','\x20head-dist','Victory!','\x20\x20\x20\x20\x20\x20\x20<p>','-bold\x20text','\x20\x20\x20<li><st','e\x20tracking','long','space-y-3\x20','true','3744voCuVL','Yesterday\x27','atures!','xt-gray-50','active','pace-y-2\x22>','\x20<div\x20clas','atches','2\x20ml-1\x22>\x0a\x20','med','find','isGameOver','tL=RVDNdQw','ck\x20text-bl','\x20\x20\x20\x20\x20</div','-[#c9b458]','yesterday-','ZkSILVNNCq','items-cent','he\x20hidden\x20','\x20head-cour','\x20\x20\x20<div>\x0a\x20','ld\x20transit','ctor(\x22retu','cols-2\x20gap','\x20text-gray','\x0a\x0aPlay\x20Uma','https://tw','r\x20mx-auto\x20','setUTCDate','qBnqzMFkON','ide\x20text-s','text-green','ace\x20name..','placements','w-sm\x20borde','\x20IN:\x20','!</li>\x0a\x20\x20\x20','UPACNBHjNN','want!</li>','className','</div>\x0a\x20\x20\x20','1160024OjSVAl','d\x20text-ora','g>Gray:</s','load','\x20animate-f','rmal\x20Mode:','imited\x20Mod','ont-black\x20','\x20|\x20','\x20rounded-m','error','rong>\x20A\x20mo',']\x20font-bol','trace','value','winStreak','base\x20text-','-orange-60','sections','helpDesc','BHjNNI]','hard','old\x20text-s','\x0a\x20\x20\x20\x20<img\x20','Pac','console','innerText','etName','hYKZttpFff','ore\x20forgiv','\x20was:</p>\x0a','trim','\x22list-disc','r\x20today!','very\x20day\x20a','vSCTBRUvMm','Lon','return\x20(fu','playing','turf','m\x20space-y-','\x20|\x20Guesses','tting\x20to\x20d','DqwqBWvKIG','es\x20as\x20you\x20','Rank\x20Activ','trong>Hard','mpleted\x20fo','reload','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','bject-cont','based\x20on\x20t','trong>\x20Nea','guess-grid','8\x20w-auto\x20o','der-blue-2','Date','>\x20<strong>','\x22\x20alt=\x22','r-b\x20border','rget\x20rank\x20','e:</strong','front','fzmmfYGDqw','\x20answer-ce','[YKZFffSZA','Location','border\x20bor','cted.\x20Rese','\x20TIER','floor','k\x20next\x20tim','get','ulty\x20level','\x20Mode:</st','HKYfTHNCAG','tracking-w','nction()\x20','many\x20puzzl',':\x20Target\x20r','xt-center\x20','innerHTML','apply','(((.+)+)+)','\x20Indicator','filter','xt-gray-70','hip\x20is\x20wat','tor','sort','Fro','guesses','\x0a\x20\x20\x20\x20\x20\x20\x20\x20','ext-[10px]','\x20\x20\x20\x20\x20\x20\x20<li','YKfRAWFMjW','lick=\x22star','-widest\x22>C','tGame(\x27ran','Mil','G1\x20Race\x20ba','flex','nk,\x20e.g.,\x20','Failed\x20to\x20','tion','input','search','ont-bold\x20t','\x20\x20<div\x20cla','\x20list-insi','NEXT\x20DAILY','\x20\x20\x20<div\x20cl','rder-b\x20bor','s=\x22max-h-4','attempts!\x20','_stats','sed\x20on\x20its','parse\x20rank','ong>\x20A\x20new','lossStreak','green','c\x20experien','rcase','ing-widest','ee\x20Godesse','ems-center','dquFvSckdn','</span>\x0a\x20\x20','The\x20classi','div','llow:</str','case\x20mb-2','Med','s=\x22text-2x','\x20\x20\x20\x20<li><s','ase\x20tracki','-lg\x20cell-g','ranked','name','-[#6aaa64]','lacement\x20m','-600','Enter\x20G1\x20R','jNNzfImBY]','adiHSo=1SL','add','0\x20border\x20b','share-info','help-modal','le-500.ita','nd\x20just\x202\x20','r\x20shadow-s','gray-600\x20r','dailyStatu','placeholde','m\x20sm:text-','ic\x20experie','image','-2\x20bg-whit','\x20\x20\x20\x20\x20\x20\x20\x20</','MrjWmZaOce','4NCqHKw9YW','ass=\x22text-','1.0','text-lg\x22>T','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<','=\x22text-2xl','ter\x20gap-4\x22','prototype','won','00\x20cursor-','ve\x20identif','intent/twe','Excellent\x20','ld\x20upperca','k</div>\x0a\x20\x20','Potential\x20','target-lab','se\x20you.','split',']\x20md:text-','for\x20modal','length','late','theme','iv>','remove','is\x20lower.<','bind','bject-cove','absent','pace','vLAQBfXmIB','menu-place','trong>Gray','trong>\x20A\x20m','result-tit','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','checksum','exception','bg-[#c9b45','classList','nge-200\x20ro','mode-indic','Daily\x20Stre','ayers!</li','>\x20Exact\x20ma','order-gray','tab-course','warn','__proto__','ById','green-800\x22','getUTCMont','qEYJXFxfcQ','as\x20','s=\x22text-xs','rn\x20this\x22)(','ching\x20you.','418297HSOJWF','and\x20just\x202','0\x20hover:te','click','constructo','c\x20list-ins','\x20items-cen','font-black','\x20\x20\x20\x20\x20\x20<h3\x20','lip','e-400\x20uppe','e/80\x20font-','\x20\x20\x20\x20\x20\x20<img','easy','/span>\x20','ints</div>','tent','shareTitle','ex\x20justify','Daily\x20','A\x20vs\x20B).</','End','ong>Daily\x20','rankedGues','trong>Easy','t-bold\x20tex','Turn','trong>Gree','r/sharer.p','-lg\x20border','mt-4','t-gray-800','d-lg\x20shado','Track','-2\x20rounded','indexOf','-amber-50\x20','l\x20font-bla','s\x20Answer:\x20','all','keys','\x20\x20\x20\x20\x20\x20\x20','s.oCTBRrUg','Tampering\x20','s\x20will\x20cur','AGVsknYtGa','end','toUpperCas','te-list','p-2\x20hover:','ong>\x20no\x20na','ercase\x22>UN','800\x20border','165902EgGDyK','div>\x0a\x20\x20\x20\x20\x20','\x22w-10\x20h-10','0\x20uppercas','Stats\x20tamp','-800\x20borde','\x20STREAK','gray-800\x22>','knownStats','ld\x20text-bl','1\x22>Placeme','ainer','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20','v\x20class=\x22t','\x20text-blue','location','class=\x22w-f','getUTCDate','\x20\x20\x20\x20\x20\x20\x20\x20<h','<span\x20clas','\x20Streak:\x20','ng\x20difficu','Unlimited','modal','class=\x22hel','istent\x20dat','ter\x20my-2\x22>','r\x20gap-2\x22>\x0a','g-gradient','nter\x22><spa','lay','re\x20forgivi','toggle','vMmSqTAMHR','charCodeAt','ain\x20rounde','file-view','Identify\x20t','\x20\x20\x20\x20\x20\x20<p>↑','parse\x20pers','Distance','-100\x22>\x0a\x20\x20\x20','2\x20rounded-','\x20head-stra','pointer\x20bo','green-600\x20','x\x20items-ce','strong>Unl','ext-gray-8','title','matchCount','v\x20class=\x22b','uma_wordle','game-scree','server-tim','-between\x20i','ant!</li>\x0a','trong>Unli','der-gray-1','g\x20text-[9p','928692zoGreY','00\x20rounded','ext-green-','\x20for\x20new\x20p','Streak','r-b\x20pb-1\x20m','sprint','\x203\x20clues,\x20','stats-summ','\x20(Length\x20w','ustify-cen','3\x20class=\x22f','class=\x22spa','Wordle!','flex-1\x20py-','textConten','stener','any\x20puzzle','Year','gXcfTHQN&C','detected\x20i','uma','correct-an','share-titl','work!\x20You\x27','600','\x20shadow-sm','\x22font-bold','mile','\x20font-bold','clue-row','he\x20','p-dot\x20bg-[','padStart','setItem','-b\x20pb-1\x20mb','l>\x0a\x20\x20\x20\x20\x20\x20\x20','lastPlayed','0\x20mb-2','json','-100\x20text-','28ocvAhS','dailyGuess','courses.js','\x20ranked\x20st','Aptitudes!','ormal\x20Mode','purple','turn','ndicators<','rankProtec','ranked-pro','clues','\x20head-trac','ied\x20','\x20Points','et?text=','layers!</l','Goal\x20In!'];h=function(){return cC;};return h();}function renderGameLayout(){const lJ={n:0x1b6,o:0x2ee,T:0x2d5,t:0x1a4,k:0x3fc,W:0x235,p:0x1b6,F:0x250,d:0x1a7,M:0x229,S:0x15b,u:0x419,i:0x174},lf={n:0x1a9,o:0x2e4,T:0x2ac,t:0x1a4},jh=H;document[jh(0x1b6)+jh(0x2ee)]('menu-scree'+'n')[jh(0x2e4)]['add'](jh(0x1a4)),document[jh(lJ.n)+jh(lJ.o)]('game-scree'+'n')['classList'][jh(lJ.T)](jh(lJ.t)),document[jh(lJ.n)+jh(0x2ee)](jh(0x2e6)+jh(lJ.k))[jh(lJ.W)]=currentGameType+'\x20/\x20'+sessionState['mode'],document[jh(lJ.p)+jh(0x2ee)](jh(lJ.F))[jh(0x26c)]='',document['getElement'+jh(0x2ee)](jh(lJ.d))[jh(lJ.M)]='',document['getElement'+jh(0x2ee)](jh(0x1dc)+'ainer')[jh(0x2e4)][jh(0x2d5)](jh(lJ.t));const n=document[jh(lJ.S)+jh(lJ.u)](jh(lJ.i));n[jh(0x3f8)](o=>{const jK=jh;if(sessionState[jK(lf.n)]==='hard')o[jK(lf.o)][jK(lf.T)](jK(lf.t));else o[jK(0x2e4)][jK(0x2d5)]('hidden');}),updateGuessCountUI(),updateScoreUI();}function updateGuessCountUI(){const lB={n:0x1a9,o:0x18d,T:0x341,t:0x2d1,k:0x2ee,W:0x18d,p:0x276,F:0x164},jn=H,n=sessionState[jn(lB.n)]==='daily'?0x5:sessionState[jn(0x1a9)]===jn(0x230)?0x2:sessionState[jn(lB.n)]==='easy'?'∞':0x5;if(n==='∞')document['getElement'+'ById'](jn(lB.o)+jn(0x276))[jn(0x235)]=jn(lB.T);else{const o=n-sessionState[jn(0x276)][jn(lB.t)];document['getElement'+jn(lB.k)](jn(lB.W)+jn(lB.p))[jn(0x235)]=Math[jn(lB.F)](0x0,o);}}function showMenu(){const lw={n:0x3e3,o:0x1b6,T:0x2ee,t:0x43c,k:0x1a4,W:0x2ac},jo=H;localStorage['setItem'](jo(0x198)+'session',jo(lw.n)),document[jo(lw.o)+jo(lw.T)](jo(lw.t)+'n')[jo(0x2e4)]['remove'](jo(lw.k)),document['getElement'+'ById'](jo(0x360)+'n')['classList'][jo(lw.W)](jo(lw.k)),checkDailyStatus();}function checkDailyStatus(){const lg={n:0x1b6,o:0x2ee,T:0x1ad,t:0x2b4,k:0x241,W:0x235,p:0x309,F:0x24a,d:0x23c,M:0x211,S:0x235,u:0x2a8},jT=H,n=getDailyString(),o=document[jT(lg.n)+jT(lg.o)](jT(lg.T)+'us'),T=allPersistentData[currentGameType];T['lastPlayed'+jT(0x253)]===n&&T[jT(lg.t)+'s']!==jT(lg.k)?(o[jT(lg.W)]=jT(lg.p)+currentGameType[jT(0x325)+'e']()+(jT(0x165)+jT(lg.F)+jT(lg.d)),o['classList']['add'](jT(lg.M)+'-600')):(o[jT(lg.S)]='',o[jT(0x2e4)][jT(0x2d5)](jT(0x211)+jT(lg.u)));}function updateScoreUI(){const le={n:0x2ee,o:0x349,T:0x1a9,t:0x3d3,k:0x2e7,W:0x17c},jt=H,n=document[jt(0x1b6)+jt(le.n)](jt(0x17d)+jt(le.o)),o=allPersistentData[currentGameType];if(sessionState[jt(le.T)]===jt(le.t))n['innerText']=jt(le.k)+'ak:\x20'+o[jt(le.W)+'k'];else{const T=sessionState[jt(0x1a9)]+jt(0x36b),t=o[T]||0x0;n[jt(0x235)]=sessionState[jt(0x1a9)]['charAt'](0x0)[jt(0x325)+'e']()+sessionState[jt(0x1a9)][jt(0x439)](0x1)+jt(0x33f)+t;}}function updateStatsUI(){const lZ={n:0x2ee,o:0x36f,T:0x2f3,t:0x20a,k:0x3b7,W:0x17c,p:0x2ee,F:0x1b6,d:0x408,M:0x3d5,S:0x2ee,u:0x235,i:0x41d,D:0x2a7,z:0x213,Q:0x2e4,a:0x260,f:0x235,J:0x19c,B:0x39e,w:0x248,g:0x22a,e:0x331},jk=H,n=allPersistentData[currentGameType];document['getElement'+jk(lZ.n)](jk(lZ.o)+'ary')[jk(0x26c)]=jk(0x33e)+jk(lZ.T)+'\x20uppercase'+jk(lZ.t)+jk(lZ.k)+jk(0x3d0)+jk(0x304)+n[jk(lZ.W)+'k'];const o=getVerifiedRankedStats(currentGameType),T=document[jk(0x1b6)+jk(lZ.p)](jk(0x408)+jk(0x2a5)),t=document[jk(lZ.F)+jk(0x2ee)](jk(lZ.d)+'points'),k=document[jk(0x1b6)+jk(0x2ee)](jk(0x2dc)+jk(lZ.M)),W=document[jk(lZ.F)+jk(lZ.S)](jk(0x3c0)+'ge');o[jk(0x213)]<0x5?(T[jk(lZ.u)]='UNRANKED',t[jk(lZ.u)]=jk(lZ.i)+jk(lZ.D)+jk(0x1f8),k['innerText']='Placements'+':\x20'+o[jk(lZ.z)]+'/5',W[jk(lZ.Q)][jk(0x2ac)]('hidden')):(T[jk(0x235)]=getTier(o['points'])+jk(lZ.a),t[jk(lZ.f)]=o[jk(lZ.J)]+jk(lZ.B),k['innerText']=jk(lZ.w)+'e',o[jk(0x22a)]>=0x2?(W[jk(0x235)]='🔥\x20'+o[jk(lZ.g)]+jk(lZ.e),W['classList']['remove'](jk(0x1a4))):W[jk(0x2e4)][jk(0x2ac)](jk(0x1a4)));}const input=document['getElement'+H(0x2ee)]('uma-input'),autoBox=document[H(0x1b6)+H(0x2ee)](H(0x3e6)+H(0x326));function updateKnownStats(n){const lX={n:0x434},o=GAME_CONFIG[currentGameType];o['keys']['forEach'](T=>{const jW=K;n[T]===sessionState[jW(lX.n)][T]&&(sessionState[jW(0x333)][T]=n[T]);});}function renderSuggestions(n=''){const lq={n:0x443,o:0x39b,T:0x40f,t:0x274,k:0x2d1,W:0x3f8,p:0x2ac},lR={n:0x219,o:0x327,T:0x2c5,t:0x357,k:0x365,W:0x298,p:0x37c,F:0x35d,d:0x26c,M:0x2b8,S:0x255,u:0x2a5,i:0x16a,D:0x1d5,z:0x2ad,Q:0x2ea,a:0x354,f:0x28a,J:0x3ea,B:0x337,w:0x40e,g:0x2b6,e:0x22b,Z:0x2e0,X:0x33e,v:0x431,G:0x358,O:0x1c0,A:0x3b4},jp=H,o=n[jp(lq.n)+'e']();autoBox['innerHTML']='';const T=GAME_CONFIG[currentGameType],t=T[jp(0x438)](),k=sessionState[jp(0x276)][jp(0x40f)](d=>d[jp(0x2a5)]),W=sessionState[jp(lq.o)][jp(lq.T)](d=>d[jp(0x2a5)]);let p=t[jp(0x270)](d=>d[jp(0x2a5)][jp(0x443)+'e']()[jp(0x41a)](o)&&!k[jp(0x41a)](d[jp(0x2a5)])&&!W[jp(0x41a)](d['name']));p[jp(lq.t)]((d,M)=>d[jp(0x2a5)]['localeComp'+'are'](M[jp(0x2a5)]));const F=p[jp(lq.T)](d=>{const jF=jp;let M=0x0;return Object['entries'](sessionState[jF(0x333)])['forEach'](([S,u])=>{if(d[S]===u)M++;}),{...d,'matchCount':M};});F[jp(lq.k)]>0x0?(autoBox['classList']['remove'](jp(0x1a4)),F[jp(lq.W)](d=>{const jd=jp,M=document['createElem'+'ent']('div');M[jd(lR.n)]=jd(lR.o)+'bg-green-1'+jd(lR.T)+jd(lR.t)+jd(0x28b)+jd(lR.k)+'00\x20flex\x20it'+jd(lR.W)+jd(0x3fe)+'n-colors';const S=currentGameType==='uma'?0x5:0x2,u=currentGameType===jd(lR.p)&&d[jd(lR.F)]>=S;M[jd(lR.d)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20\x20\x20<im'+jd(0x1d4)+d[jd(lR.M)]+jd(lR.S)+d[jd(lR.u)]+('\x22\x20\x0a\x20\x20\x20\x20\x20\x20\x20'+jd(0x2e0)+jd(lR.i)+jd(0x32d)+jd(0x224)+'d\x20mr-3\x20obj'+jd(0x3b0)+jd(lR.D)+jd(lR.z)+jd(lR.Q)+jd(lR.a)+jd(0x2e0)+jd(lR.f)+jd(lR.J)+'flex-col\x22>'+jd(lR.B)+jd(0x2e0)+jd(0x3f9)+jd(lR.w)+jd(0x231)+jd(lR.g)+jd(lR.e)+jd(0x332))+d[jd(0x2a5)]+(jd(0x29a)+jd(lR.Z)+jd(0x417))+(u?jd(lR.X)+'s=\x22text-[1'+jd(lR.v)+jd(lR.G)+jd(lR.O)+'old\x20upperc'+jd(0x2a2)+'ng-wider\x22>'+jd(0x2cb)+jd(0x430)+'n>':'')+(jd(lR.B)+jd(0x158)+jd(lR.A)+jd(0x166)),M['onclick']=i=>{const jM=jd;i[jM(0x3f5)+'ation'](),submitGuess(d),autoBox[jM(0x2e4)][jM(0x2ac)](jM(0x1a4)),input['value']='';},autoBox[jd(0x1e3)+'d'](M);})):autoBox['classList'][jp(lq.p)](jp(0x1a4));}input['addEventLi'+H(0x377)](H(0x1d3),()=>renderSuggestions(input['value'])),input['addEventLi'+H(0x377)](H(0x2f9),()=>renderSuggestions(input[H(0x229)])),input['addEventLi'+'stener'](H(0x284),n=>renderSuggestions(n[H(0x434)][H(0x229)])),document[H(0x3f1)+H(0x377)]('click',n=>{const lb={n:0x440,o:0x434,T:0x2e4},jS=H;!input[jS(lb.n)](n['target'])&&!autoBox[jS(0x440)](n[jS(lb.o)])&&autoBox[jS(lb.T)]['add'](jS(0x1a4));});function submitGuess(n){const lV={n:0x276,o:0x3b2,T:0x1a9,t:0x2a4,k:0x276,W:0x2d1,p:0x1bb},ju=H;if(sessionState['isGameOver'])return;if(sessionState[ju(lV.n)][ju(0x18a)](T=>T[ju(0x2a5)]===n[ju(0x2a5)]))return;const o=allPersistentData[currentGameType];sessionState['guesses'][ju(lV.o)](n),updateKnownStats(n);sessionState[ju(lV.T)]==='daily'&&(o[ju(0x391)+'es']=[...sessionState[ju(lV.n)]],savePersistentData());sessionState[ju(0x1a9)]===ju(lV.t)&&(o[ju(0x30d)+ju(0x191)]=[...sessionState[ju(lV.k)]],savePersistentData());addGuessRow(n,![]),updateGuessCountUI();if(n[ju(0x2a5)]===sessionState[ju(0x434)]['name'])handleWin();else sessionState[ju(lV.k)][ju(lV.W)]>=sessionState[ju(lV.p)]&&handleLoss();}function handleWin(){const lP={n:0x1fc,o:0x3d3,T:0x2b4,t:0x30d,k:0x1a9,W:0x1b6,p:0x336,F:0x2ac,d:0x1a4},ly={n:0x3a1,o:0x2c8,T:0x37f,t:0x39d,k:0x2a5},ji=H;sessionState[ji(lP.n)]=!![];const n=allPersistentData[currentGameType];if(sessionState[ji(0x1a9)]===ji(lP.o))n[ji(lP.T)+'s']=ji(0x2c4),n[ji(0x17c)+'k']++;else{if(sessionState[ji(0x1a9)]==='ranked')n[ji(0x403)+'us']='won',n[ji(lP.t)+'ses']=[...sessionState[ji(0x276)]];else{const o=sessionState[ji(lP.k)]+'Streak';if(n[o]===undefined)n[o]=0x0;n[o]++;}}updateRankedStats(!![],currentGameType),updateStatsUI(),savePersistentData();if(sessionState[ji(lP.k)]===ji(0x42b)||sessionState['mode']===ji(0x230)){updateScoreUI(),setTimeout(()=>{const jD=ji;sessionState['mode']==='hard'?startGame(sessionState['mode']):startGame(jD(0x42b));},0x4b0);return;}document[ji(lP.W)+ji(0x2ee)](ji(0x1dc)+ji(lP.p))['classList'][ji(lP.F)](ji(lP.d)),setTimeout(()=>{const jz=ji;showModal(jz(ly.n),jz(ly.o)+jz(ly.T)+jz(0x2c6)+jz(ly.t)+sessionState[jz(0x434)][jz(ly.k)]+'!',!![]),updateScoreUI(),updateStatsUI();},0x3e8);}function handleLoss(){const lE={n:0x1a9,o:0x190,T:0x391,t:0x253,k:0x1a9,W:0x403,p:0x191,F:0x2ee,d:0x2e4,M:0x2ac,S:0x1a4},lN={n:0x3dd,o:0x3d2},jQ=H;sessionState['isGameOver']=!![];const n=allPersistentData[currentGameType];if(sessionState[jQ(lE.n)]===jQ(0x3d3))n[jQ(0x2b4)+'s']=jQ(lE.o),n['dailyStrea'+'k']=0x0,n[jQ(lE.T)+'es']=[...sessionState[jQ(0x276)]],n['lastPlayed'+jQ(lE.t)]=getDailyString();else{if(sessionState[jQ(lE.k)]===jQ(0x2a4))n[jQ(lE.W)+'us']='lost',n['rankedGues'+jQ(lE.p)]=[...sessionState[jQ(0x276)]];else{const o=sessionState['mode']+jQ(0x36b);n[o]=0x0;}}updateRankedStats(![],currentGameType),updateStatsUI(),savePersistentData(),document[jQ(0x1b6)+jQ(lE.F)]('input-cont'+jQ(0x336))[jQ(lE.d)][jQ(lE.M)](jQ(lE.S)),setTimeout(()=>{const ja=jQ;showModal(ja(lN.n),ja(0x1b9)+ja(lN.o)+'as\x20'+sessionState['target'][ja(0x2a5)]+'.',!![]),updateScoreUI(),updateStatsUI();},0x3e8);}function addGuessRow(n,o=![]){const lH={n:0x1b6,o:0x2e4,T:0x1d0,t:0x219,k:0x3e8,W:0x2b9,p:0x256,F:0x1a4,d:0x26c,M:0x232,S:0x2a5,u:0x3b1,i:0x19e,D:0x20d,z:0x2a5,Q:0x2e4,a:0x2ac,f:0x3e9,J:0x1e3},lU={n:0x434,o:0x42e,T:0x2d1,t:0x40a,k:0x1cd},jf=H,T=document[jf(lH.n)+jf(0x2ee)](jf(0x250)),t=document[jf(0x183)+jf(0x1d0)]('tr');if(o)t[jf(lH.o)][jf(0x2ac)](jf(0x385));const k=GAME_CONFIG[currentGameType],W=document[jf(0x183)+jf(lH.T)]('td');W[jf(lH.t)]=jf(lH.k)+jf(lH.W)+jf(0x301)+jf(0x180)+jf(lH.p)+'-gray-200';if(sessionState['mode']==='hard')W[jf(0x2e4)][jf(0x2ac)](jf(lH.F));!o?W[jf(lH.d)]=jf(lH.M)+jf(0x3af)+n[jf(0x2b8)]+'\x22\x20alt=\x22'+n[jf(lH.S)]+'\x22\x20title=\x22'+n[jf(lH.S)]+(jf(lH.u)+jf(lH.i)+jf(0x17e)+jf(0x2d8)+jf(lH.D)+'rounded-fu'+jf(0x18c)+jf(0x404)):W[jf(0x376)+'t']='???';t['appendChil'+'d'](W);const p=!o&&n[jf(lH.z)]===sessionState['target'][jf(0x2a5)];p&&(t[jf(lH.Q)][jf(lH.a)](jf(0x37d)+jf(lH.f)),W['classList']['add']('correct')),k[jf(0x31e)][jf(0x3f8)](F=>{const jJ=jf,d=document[jJ(0x183)+jJ(0x1d0)]('td'),M=n[F],S=sessionState[jJ(lU.n)][F];let u=jJ(0x2d9),i='';if(currentGameType==='uma'){const D=RANK_MAP[S]??-0x2,z=RANK_MAP[M]??-0x2;if(M===S)u=jJ(lU.o);else Math['abs'](D-z)<=0x1&&(u=jJ(0x1cd));if(z<D)i='\x20↑';else{if(z>D)i='\x20↓';}}else{if(M===S)u=jJ(lU.o);else{if(F===jJ(lU.T)){const Q=Math[jJ(lU.t)](parseInt(M)-parseInt(S));if(Q<=0x190)u=jJ(lU.k);}}}d[jJ(0x219)]=jJ(0x3c7)+u+(jJ(0x21f)+jJ(0x2ff))+(p?jJ(0x25b)+'ll':''),d[jJ(0x235)]=M+i,t[jJ(0x1e3)+'d'](d);}),T[jf(lH.J)+'d'](t);}function showModal(n,o,T=!![]){const ls={n:0x1b6,o:0x2ee,T:0x2df,t:0x2ee,k:0x427,W:0x2cc,p:0x37e,F:0x197,d:0x26c,M:0x2e0,S:0x2b8,u:0x255,i:0x2a5,D:0x176,z:0x381,Q:0x41e,a:0x2e0,f:0x235,J:0x26c,B:0x22d,w:0x1f0,g:0x2d0,e:0x35e,Z:0x25e,X:0x368,v:0x26b,G:0x384,O:0x339,A:0x1a2,R:0x296,lI:0x1b5,c0:0x1f7,c1:0x1ca,c2:0x1af,c3:0x18e,c4:0x28a,c5:0x334,c6:0x335,c7:0x3b8,c8:0x3ac,c9:0x337,cj:0x1bc,cl:0x3bd,cc:0x31a,cC:0x3dc,cL:0x43b,cr:0x3c5,ch:0x3ba,cK:0x3a6,cn:0x1eb,co:0x1ed,cT:0x27c,ct:0x2ca,ck:0x2e0,cW:0x1ab,cp:0x222,cF:0x3d6,cd:0x19c,cM:0x3b9,cS:0x21c,cu:0x337,ci:0x2d4,cD:0x2e4,cz:0x2ac},lm={n:0x29c,o:0x219,T:0x1ef,t:0x1d0,k:0x1b7,W:0x227,p:0x1a1,F:0x235,d:0x35c,M:0x1e3,S:0x3ee},lY={n:0x1d0,o:0x29c,T:0x318,t:0x313,k:0x3ed,W:0x2b2,p:0x183,F:0x42d,d:0x384,M:0x3e7,S:0x300,u:0x295,i:0x183,D:0x42d,z:0x235,Q:0x434,a:0x1e3,f:0x1e3},jB=H,t=document[jB(ls.n)+jB(0x2ee)](jB(0x425)+'al'),k=GAME_CONFIG[currentGameType];document['getElement'+jB(ls.o)](jB(ls.T)+'le')[jB(0x235)]=n,document[jB(ls.n)+jB(ls.t)](jB(ls.k))['innerText']=o;const W=document[jB(ls.n)+'ById']('target-nam'+'e'),p=document[jB(0x1b6)+jB(ls.o)](jB(ls.W)+'el'),F=document['getElement'+jB(0x2ee)](jB(ls.p)+jB(ls.F));W&&(W[jB(ls.d)]=jB(0x337)+jB(0x28a)+'ass=\x22flex\x20'+'flex-col\x20i'+'tems-cente'+jB(0x346)+jB(ls.M)+jB(0x302)+'\x20src=\x22'+sessionState['target'][jB(ls.S)]+jB(ls.u)+sessionState['target'][jB(ls.i)]+('\x22\x20class=\x22m'+jB(ls.D)+jB(0x3b5)+'t-contain\x20'+jB(0x1a8)+jB(ls.z)+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20'+jB(0x1b8)+jB(0x3d8)+jB(0x2c1)+jB(ls.Q)+jB(0x1a5)+'en-800\x22>')+sessionState[jB(0x434)]['name']+('</span>\x0a\x20\x20'+jB(ls.a)+jB(0x21a)+jB(0x412)));if(p)p[jB(0x235)]=k[jB(0x1c6)+'e'];if(F)F[jB(ls.f)]=k['shareTitle'];const d=document[jB(0x1b6)+'ById'](jB(0x3fd)+jB(0x41b));d&&(d[jB(ls.J)]='',k[jB(ls.B)][jB(0x3f8)](i=>{const jw=jB,D=document['createElem'+jw(0x1d0)](jw(lm.n));D[jw(lm.o)]=i[jw(0x35c)]===jw(0x1b1)+'o'?jw(0x3a4):jw(lm.T)+jw(0x314);const z=document['createElem'+jw(lm.t)]('h4');z[jw(0x219)]=jw(lm.k)+jw(lm.W)+jw(lm.p)+i['color']+(jw(0x1a2)+jw(0x29e)),z[jw(lm.F)]=i[jw(lm.d)],D[jw(lm.M)+'d'](z);const Q=document[jw(0x183)+'ent']('div');Q[jw(0x219)]=jw(lm.S)+jw(0x209)+'-2',i[jw(0x31e)][jw(0x3f8)](a=>{const jg=jw,f=document[jg(0x183)+jg(lY.n)](jg(lY.o));f[jg(0x219)]='bg-white\x20p'+jg(lY.T)+jg(lY.t)+jg(0x3ec)+jg(lY.k)+jg(0x308)+jg(0x362)+jg(0x1ac)+jg(lY.W)+'m';const J=document[jg(lY.p)+jg(0x1d0)](jg(lY.F));J[jg(0x219)]=jg(0x3e1)+jg(lY.d)+jg(lY.M)+jg(lY.S)+jg(lY.u),J['innerText']=a;const B=document[jg(lY.i)+'ent'](jg(lY.D));B[jg(0x219)]=jg(0x2fd)+jg(0x3e7)+'e-700',B[jg(lY.z)]=sessionState[jg(lY.Q)][a],f[jg(lY.a)+'d'](J),f[jg(lY.f)+'d'](B),Q[jg(0x1e3)+'d'](f);}),D[jw(lm.M)+'d'](Q),d[jw(lm.M)+'d'](D);}));const M=document[jB(0x1b6)+jB(0x2ee)]('ranked-res'+jB(0x178)+'e'),S=localStorage[jB(0x15c)]('is_ranked_'+jB(0x3c1))===jB(ls.w);if(S&&M){const i=currentGameType+('_ranked_st'+jB(0x3d1)),D=localStorage[jB(0x15c)](i);let z={'points':0x0,'placements':0x0};if(D)try{const Q=JSON[jB(0x3e2)](D);z=Q['data']||z;}catch(a){console['error'](jB(0x3bf)+'ing\x20stats\x20'+jB(ls.g),a);}M[jB(0x2e4)]['remove'](jB(0x1a4)),z['placements']<0x5?M[jB(ls.J)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20\x20\x20<di'+jB(ls.e)+jB(0x1b4)+jB(ls.Z)+jB(0x252)+jB(ls.X)+jB(0x1c9)+jB(ls.v)+jB(0x442)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20\x20\x20<di'+jB(0x338)+jB(0x278)+jB(ls.G)+jB(ls.O)+jB(ls.A)+jB(0x420)+jB(ls.R)+jB(0x1b3)+jB(ls.lI)+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jB(0x2e0)+jB(ls.c0)+jB(0x2a0)+jB(0x31b)+jB(0x1fe)+jB(ls.c1)+jB(0x329)+jB(ls.c2)+jB(ls.c3)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jB(ls.c4)+jB(0x2bd)+jB(0x188)+jB(ls.c5)+'ue-700\x20mt-'+jB(ls.c6)+'nt:\x20'+z[jB(0x213)]+(jB(ls.c7)+jB(ls.c8)+jB(0x2e0)+jB(0x1ff)+'>'):M[jB(0x26c)]=jB(ls.c9)+jB(ls.cj)+'v\x20class=\x22b'+jB(0x347)+jB(ls.cl)+jB(ls.cc)+jB(ls.cC)+jB(ls.cL)+'border-ora'+jB(0x2e5)+jB(0x415)+jB(0x169)+jB(ls.cr)+jB(ls.ch)+jB(0x24c)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jB(0x287)+jB(0x16d)+jB(ls.cK)+jB(ls.cn)+jB(0x22c)+jB(0x32e)+jB(ls.co)+jB(ls.cT)+'urrent\x20Ran'+jB(ls.ct)+jB(ls.ck)+jB(ls.cW)+jB(0x3ff)+jB(0x401)+jB(ls.cp)+jB(ls.cF)+jB(0x41c)+getTier(z[jB(ls.cd)])+(jB(0x19a)+jB(0x24c)+jB(ls.a)+jB(0x287)+'ss=\x22text-x'+jB(ls.cM)+jB(ls.cS)+'nge-700\x22>')+z['points']+(jB(0x1d6)+jB(0x305)+jB(ls.cu)+'\x20\x20\x20\x20\x20\x20\x20</d'+jB(ls.ci));}else M&&M[jB(ls.cD)][jB(ls.cz)]('hidden');const u=document['getElement'+jB(0x2ee)](jB(0x2ae)+'-text');u&&(u['innerText']=sessionState['mode']+jB(0x223)+getDailyString()+('\x20|\x20Guesses'+':\x20')+sessionState[jB(0x276)]['length']),renderShareEmojis(),t[jB(0x2e4)]['remove'](jB(0x1a4));}function renderShareEmojis(){const c1={n:0x1b6,o:0x2ee,T:0x26c},c0={n:0x31e,o:0x3f8,T:0x183,t:0x1d0,k:0x235},lI={n:0x434,o:0x40a,T:0x40a},je=H,n=document[je(c1.n)+je(c1.o)]('share-bloc'+je(0x3b3));n[je(c1.T)]='';const o=GAME_CONFIG[currentGameType];sessionState[je(0x276)]['forEach'](T=>{const jZ=je;let t='';o[jZ(c0.n)][jZ(c0.o)](W=>{const jX=jZ,p=T[W],F=sessionState[jX(lI.n)][W];if(p===F)t+='🟩';else{if(currentGameType==='uma'){if(Math[jX(lI.o)](RANK_MAP[p]-RANK_MAP[F])<=0x1)t+='🟨';else t+='⬛';}else W==='length'&&Math[jX(lI.T)](parseInt(p)-parseInt(F))<=0x190?t+='🟨':t+='⬛';}});const k=document[jZ(c0.T)+jZ(c0.t)](jZ(0x29c));k[jZ(c0.k)]=t,n['appendChil'+'d'](k);});}function closeModal(){const c2={n:0x425,o:0x2e4,T:0x276,t:0x405},jv=H,n=document[jv(0x1b6)+'ById'](jv(c2.n)+'al');n[jv(c2.o)][jv(0x2ac)]('hidden');if(sessionState[jv(0x1fc)]&&sessionState['mode']===jv(0x2a4)){const o=sessionState[jv(c2.T)]['some'](t=>t[jv(0x2a5)]===sessionState[jv(0x434)][jv(0x2a5)]),T=allPersistentData[currentGameType];T[jv(0x30d)+jv(0x191)]=[],T[jv(0x403)+'us']=jv(0x241),T[jv(c2.t)+'etName']=null,savePersistentData(),o&&startGame('ranked');}}function K(j,l){j=j-0x158;const c=h();let C=c[j];return C;}function shareToTwitter(){const c3={n:0x20b,o:0x374,T:0x2c7,t:0x39f,k:0x163},jG=H,n=GAME_CONFIG[currentGameType],o=getDailyString(),T=sessionState['mode']+jG(0x223)+o+(jG(0x244)+':\x20')+sessionState['guesses']['length'],t=renderShareEmojisText(),k=n[jG(0x307)]+'\x0a'+T+'\x0a'+t+(jG(c3.n)+jG(c3.o)),W=jG(0x20c)+'itter.com/'+jG(c3.T)+jG(c3.t)+encodeURIComponent(k);window[jG(0x1c7)](W,jG(c3.k));}function shareToFacebook(){const c4={n:0x223,o:0x307,T:0x445,t:0x312,k:0x163},jO=H,n=GAME_CONFIG[currentGameType],o=getDailyString(),T=sessionState[jO(0x1a9)]+jO(c4.n)+o+(jO(0x244)+':\x20')+sessionState[jO(0x276)][jO(0x2d1)],t=renderShareEmojisText(),k=n[jO(c4.o)]+'\x0a'+T+'\x0a'+t+(jO(0x20b)+'Wordle!'),W=jO(0x17b)+jO(c4.T)+'.com/share'+jO(c4.t)+jO(0x3bb)+encodeURIComponent(k);window['open'](W,jO(c4.k));}function renderShareEmojisText(){const c7={n:0x23a},c6={n:0x3f8},jA=H;let n='';const o=GAME_CONFIG[currentGameType];return sessionState['guesses'][jA(0x3f8)](T=>{const c5={n:0x37c},jR=jA;o['keys'][jR(c6.n)](t=>{const jq=jR,k=T[t],W=sessionState[jq(0x434)][t];if(k===W)n+='🟩';else{if(currentGameType===jq(c5.n)){if(Math[jq(0x40a)](RANK_MAP[k]-RANK_MAP[W])<=0x1)n+='🟨';else n+='⬛';}else t===jq(0x2d1)&&Math['abs'](parseInt(k)-parseInt(W))<=0x190?n+='🟨':n+='⬛';}}),n+='\x0a';}),n[jA(c7.n)]();}function toggleHelp(n){const c8={n:0x1b6,o:0x2ee,T:0x2af,t:0x2ee,k:0x175,W:0x26c,p:0x337,F:0x3f2,d:0x3f3,M:0x3e0,S:0x1e0,u:0x2e0,i:0x382,D:0x20a,z:0x26f,Q:0x2e0,a:0x1f6,f:0x1c8,J:0x42f,B:0x193,w:0x3ca,g:0x3d4,e:0x18e,Z:0x1bc,X:0x24f,v:0x32c,G:0x1b8,O:0x33e,A:0x19b,R:0x21d,c9:0x158,cj:0x2e0,cl:0x424,cc:0x3f7,cC:0x315,cL:0x15a,cr:0x351,ch:0x257,cK:0x2d6,cn:0x21a,co:0x2e0,cT:0x1b8,ct:0x32a,ck:0x3a5,cW:0x3fa,cp:0x2e0,cF:0x291,cd:0x400,cM:0x3cb,cS:0x378,cu:0x363,ci:0x265,cD:0x226,cz:0x34a,cQ:0x340,ca:0x40c,cf:0x2e8,cJ:0x433,cB:0x294,cw:0x1ec,cg:0x192,ce:0x28d,cZ:0x24c,cX:0x2ba,cv:0x31f,cG:0x350,cO:0x43d,cA:0x436,cR:0x3ae,cq:0x372,cb:0x286,cV:0x35b,cx:0x1cc,cy:0x373,cP:0x3fb,cN:0x28a,cE:0x3ea,cU:0x203,cH:0x343,cY:0x311,cm:0x1aa,cs:0x1c8,cI:0x348,C0:0x16f,C1:0x29d,C2:0x343,C3:0x2dd,C4:0x432,C5:0x36c,C6:0x199,C7:0x42a,C8:0x2fb,C9:0x23d,Cj:0x3ce,Cl:0x35a,Cc:0x221,CC:0x1bf,CL:0x269,Cr:0x218,Ch:0x184,CK:0x2de,Cn:0x238,Co:0x264,CT:0x36a,Ct:0x395,Ck:0x3c9,CW:0x2a1,Cp:0x249,CF:0x181,Cd:0x36e,CM:0x216,CS:0x2e0,Cu:0x38b,Ci:0x1b8,CD:0x417,Cz:0x34b},jb=H,o=document[jb(c8.n)+jb(c8.o)](jb(c8.T)),T=document[jb(c8.n)+jb(c8.t)](jb(c8.k)+'nt');n&&(currentGameType==='uma'?T[jb(c8.W)]=jb(c8.p)+'\x20\x20\x20\x20\x20\x20\x20<p>'+'Identify\x20t'+'he\x20hidden\x20'+jb(0x170)+jb(c8.F)+jb(c8.d)+'des\x20(A\x20to\x20'+jb(c8.M)+jb(0x2e0)+jb(c8.S)+jb(c8.u)+jb(0x2e0)+'<h3\x20class='+jb(c8.i)+jb(c8.D)+jb(0x330)+'r-b\x20pb-1\x20m'+'b-2\x22>Color'+jb(c8.z)+'s</h3>\x0a\x20\x20\x20'+jb(c8.Q)+'\x20\x20\x20\x20\x20\x20\x20<di'+jb(0x1b2)+jb(c8.a)+jb(c8.p)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jb(c8.f)+jb(c8.J)+jb(0x359)+jb(0x348)+'n\x20class=\x22h'+jb(c8.B)+jb(0x2a6)+jb(c8.w)+jb(c8.g)+jb(0x3c6)+'ng>\x20Exact\x20'+'match!</di'+jb(c8.e)+jb(c8.Q)+jb(c8.Z)+'v\x20class=\x22f'+jb(0x1a0)+'center\x22><s'+jb(0x444)+jb(0x1cf)+jb(0x2e3)+'8]\x22></span'+jb(0x254)+'Yellow:</s'+jb(c8.X)+jb(0x194)+jb(0x1c1)+jb(0x281)+jb(0x30a)+jb(c8.v)+jb(0x2e0)+jb(c8.G)+jb(0x1e1)+'\x22flex\x20item'+'s-center\x22>'+jb(c8.O)+jb(0x3cd)+jb(0x1cb)+jb(0x3a7)+jb(c8.A)+jb(c8.R)+'trong>\x20Far'+'\x20match.</d'+jb(0x3b4)+jb(c8.Q)+'\x20\x20\x20\x20</div>'+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jb(c8.c9)+jb(0x3b4)+jb(c8.cj)+jb(c8.cl)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jb(0x2fe)+jb(c8.cc)+jb(0x30f)+jb(c8.cC)+jb(0x15e)+jb(0x18f)+jb(c8.cL)+jb(0x3da)+'</h3>\x0a\x20\x20\x20\x20'+jb(c8.Q)+jb(c8.cr)+jb(0x26a)+jb(0x179)+'her.\x20↓:\x20Ta'+jb(c8.ch)+jb(c8.cK)+'/p>\x0a\x20\x20\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jb(c8.cn)+jb(c8.co)+jb(0x206)+('\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jb(c8.cT)+jb(0x42c)+'font-bold\x20'+'text-gray-'+jb(c8.ct)+jb(0x38a)+jb(0x195)+'odes</h3>\x0a'+jb(0x2e0)+jb(c8.cj)+jb(c8.ck)+jb(0x23b)+jb(0x288)+jb(c8.cW)+jb(0x3c3)+'\x20ml-1\x22>\x0a\x20\x20'+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jb(c8.cp)+'\x20\x20<li><str'+jb(0x30c)+jb(0x437)+jb(c8.cF)+'\x20puzzle\x20ev'+'ery\x20day\x20at'+'\x20midnight\x20'+jb(c8.cd)+jb(0x2e0)+jb(0x2e0)+jb(0x2a1)+jb(0x364)+jb(0x1be)+':</strong>'+jb(c8.cM)+jb(c8.cS)+'s\x20as\x20you\x20w'+jb(c8.cu)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jb(0x2a1)+jb(0x30e)+jb(c8.ci)+jb(c8.cD)+jb(c8.cz)+jb(c8.cQ)+'lty\x20level\x20'+jb(c8.ca)+jb(c8.cf)+'>\x0a\x20\x20\x20\x20\x20\x20\x20\x20'+jb(0x2e0)+'\x20\x20\x20\x20\x20\x20<li>'+jb(0x3de)+jb(0x220)+jb(c8.cJ)+jb(0x29b)+jb(c8.cB)+'ce!</li>\x0a\x20'+jb(c8.Q)+jb(c8.co)+jb(c8.cw)+'rong>Hard\x20'+jb(0x437)+jb(0x328)+jb(c8.cg)+'3\x20clues,\x20a'+jb(0x2b1)+jb(c8.ce)+'Good\x20Luck!'+'</li>\x0a\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20\x20</ul'+jb(c8.cZ)+jb(c8.cX)+jb(c8.v)+jb(c8.cv)):T['innerHTML']=jb(c8.p)+jb(0x1ea)+jb(c8.cG)+jb(0x204)+jb(c8.cO)+jb(0x409)+jb(c8.cA)+'.</p>\x0a\x20\x20\x20\x20'+jb(c8.cj)+jb(c8.cR)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jb(0x33d)+jb(c8.cq)+jb(c8.cb)+jb(c8.cV)+jb(c8.cx)+jb(0x402)+'2\x22>Color\x20I'+jb(0x398)+jb(0x3b6)+jb(0x2e0)+'\x20\x20\x20\x20\x20<div\x20'+jb(c8.cy)+jb(c8.cP)+jb(0x2e0)+jb(0x2e0)+jb(c8.cN)+jb(c8.cE)+jb(c8.cU)+jb(0x41f)+jb(c8.cH)+jb(0x387)+'#6aaa64]\x22>'+jb(0x3eb)+jb(c8.cY)+'n:</strong'+jb(0x2e9)+jb(c8.cm)+jb(0x337)+jb(c8.u)+jb(c8.cs)+jb(c8.J)+jb(0x359)+jb(c8.cI)+'n\x20class=\x22h'+'elp-dot\x20bg'+jb(0x200)+jb(c8.w)+jb(c8.C0)+jb(c8.C1)+'ong>\x20Close'+jb(0x370)+jb(0x173)+').</div>\x0a\x20'+jb(0x2e0)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jb(c8.cN)+jb(0x3ea)+'items-cent'+jb(0x41f)+jb(c8.C2)+jb(0x387)+'#787c7e]\x22>'+'</span>\x20<s'+jb(c8.C3)+jb(0x3c9)+jb(0x187)+jb(c8.C4)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20\x20\x20\x20</'+jb(c8.v)+jb(0x2e0)+'\x20</div>\x0a\x20\x20'+jb(c8.co)+'\x20\x20\x20\x20<div>\x0a'+jb(0x2e0)+jb(0x2e0)+'<h3\x20class='+jb(c8.i)+jb(c8.D)+jb(0x330)+jb(c8.C5)+jb(c8.C6)+jb(c8.C7)+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jb(c8.co)+'\x20<ul\x20class'+'=\x22list-dis'+jb(c8.C8)+jb(0x210)+jb(0x243)+jb(0x1f9)+jb(0x2e0)+jb(c8.co)+jb(c8.cw)+jb(0x3f6)+jb(0x265)+'rong>\x20A\x20ne'+'w\x20puzzle\x20e'+jb(c8.C9)+(jb(c8.Cj)+jb(0x43f)+jb(0x337)+jb(c8.cj)+jb(0x1d1)+jb(c8.Cl)+jb(c8.Cc)+jb(0x258)+jb(c8.CC)+jb(c8.CL)+jb(0x247)+jb(c8.Cr)+jb(0x337)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jb(0x1d1)+jb(c8.Ch)+'y\x20Mode:</s'+jb(c8.CK)+jb(c8.Cn)+'ing\x20diffic'+jb(c8.Co)+jb(c8.CT)+jb(0x3a0)+jb(0x426)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jb(0x279)+jb(0x1d9)+jb(c8.Ct)+jb(c8.Ck)+jb(0x43a)+jb(0x2b7)+'nce!</li>\x0a'+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+jb(c8.CW)+jb(c8.Cp)+jb(c8.ci)+'rong>\x20no\x20n'+jb(c8.CF)+jb(c8.Cd)+jb(0x2f7)+'\x20attempts!'+jb(0x3a3)+jb(c8.CM)+jb(c8.CS)+jb(0x1da)+jb(c8.Cu)+jb(c8.Ci)+jb(0x3e5)+jb(c8.CD))),o['classList'][jb(c8.Cz)](jb(0x1a4),!n);}function checkDevMode(){const c9={n:0x33a,o:0x263,T:0x3df,t:0x39a,k:0x273,W:0x1c2,p:0x27d,F:0x186,d:0x1a4,M:0x2e4,S:0x2ac,u:0x2d5,i:0x1a4},jV=H,n=new URLSearchParams(window[jV(c9.n)][jV(0x285)]),o=n[jV(c9.o)](jV(c9.T)+'uka')==='true',T=document[jV(0x1b6)+jV(0x2ee)](jV(c9.t)+jV(0x34f)),t=document['querySelec'+jV(c9.k)](jV(c9.W)+jV(0x27b)+jV(c9.p)+jV(0x40d)),k=document[jV(0x15b)+jV(0x273)]('.text-purp'+jV(0x2b0)+jV(c9.F));if(!o){if(T)T[jV(0x2e4)]['add'](jV(0x1a4));if(t)t['classList'][jV(0x2ac)](jV(c9.d));if(k)k[jV(c9.M)][jV(c9.S)](jV(0x1a4));}else{if(T)T['classList'][jV(c9.u)](jV(0x1a4));if(t)t[jV(0x2e4)]['remove'](jV(0x1a4));if(k)k[jV(c9.M)]['remove'](jV(c9.i));}}const CURRENT_VERSION=H(0x2be);function openChangelog(){const cj={n:0x189},jx=H,n=document[jx(0x1b6)+'ById'](jx(cj.n)+'modal');n['classList']['remove'](jx(0x1a4));}function closeChangelog(){const cl={n:0x189,o:0x2e4,T:0x389},jy=H,n=document['getElement'+jy(0x2ee)](jy(cl.n)+jy(0x342));n[jy(cl.o)][jy(0x2ac)](jy(0x1a4)),localStorage['getItem'](jy(0x35f)+jy(0x3bc))!==CURRENT_VERSION&&localStorage[jy(cl.T)](jy(0x35f)+'_version',CURRENT_VERSION);}window['addEventLi'+H(0x377)](H(0x21e),()=>{setTimeout(checkChangelog,0x1f4);}),loadGameData();
+const GAME_CONFIG = {
+  uma: {
+    keys: ['sprint', 'mile', 'med', 'long', 'front', 'pace', 'late', 'end', 'turf', 'dirt'],
+    headers: ['Spr', 'Mil', 'Med', 'Lon', 'Fro', 'Pac', 'Lat', 'End', 'Trf', 'Drt'],
+    data: () => UMAS,
+    placeholder: "Enter Umamusume name...",
+    resultTitle: "Winning Umamusume",
+    storageKey: 'uma_wordle_stats',
+    helpDesc: "Guess the Umamusume based on their base Aptitudes!",
+    shareTitle: "TRACENDLE",
+    sections: [{
+        title: "Distance",
+        keys: ['sprint', 'mile', 'med', 'long'],
+        color: 'blue'
+      },
+      {
+        title: "Strategy",
+        keys: ['front', 'pace', 'late', 'end'],
+        color: 'purple'
+      },
+      {
+        title: "Track",
+        keys: ['turf', 'dirt'],
+        color: 'orange'
+      }
+    ]
+  },
+  course: {
+    keys: ['length', 'surface', 'turn', 'location'],
+    headers: ['Length', 'Surface', 'Turn', 'Location'],
+    data: () => COURSES,
+    placeholder: "Enter G1 Race name...",
+    resultTitle: "Winning G1 Race",
+    storageKey: 'course_wordle_stats',
+    helpDesc: "Guess the G1 Race based on its course features!",
+    shareTitle: "TRACENDLE",
+    sections: [{
+      title: "Course Info",
+      keys: ['length', 'surface', 'turn', 'location'],
+      color: 'green'
+    }]
+  }
+};
+
+let currentGameType = 'uma';
+let UMAS = [];
+let COURSES = [];
+const RANK_MAP = {
+  'S': 6,
+  'A': 5,
+  'B': 4,
+  'C': 3,
+  'D': 2,
+  'E': 1,
+  'F': 0,
+  'G': -1
+};
+
+let allPersistentData = {
+  uma: {
+    dailyStreak: 0,
+    easyStreak: 0,
+    unlimitedStreak: 0,
+    hardStreak: 0,
+    lastPlayedDate: null,
+    dailyGuesses: [],
+    dailyStatus: 'playing',
+    rankedGuesses: [],
+    rankedStatus: 'playing',
+    rankedTargetName: null
+  },
+  course: {
+    dailyStreak: 0,
+    easyStreak: 0,
+    unlimitedStreak: 0,
+    hardStreak: 0,
+    lastPlayedDate: null,
+    dailyGuesses: [],
+    dailyStatus: 'playing',
+    rankedGuesses: [],
+    rankedStatus: 'playing',
+    rankedTargetName: null
+  }
+};
+
+let sessionState = {
+  active: false,
+  mode: null,
+  target: null,
+  guesses: [],
+  clues: [],
+  unlimitedScore: 0,
+  isGameOver: false,
+  knownStats: {}
+};
+
+const GRADES = ["G", "F", "E", "D", "C", "B", "A", "S"];
+const POINTS_PER_TIER = 200;
+const DIV_THRESHOLD = 100;
+
+function getTier(points) {
+  if (points >= 1500) return "SS";
+
+  const gradeIndex = Math.floor(points / POINTS_PER_TIER);
+  const baseGrade = GRADES[gradeIndex] || "G";
+
+  const progressInGrade = points % POINTS_PER_TIER;
+  const suffix = progressInGrade >= DIV_THRESHOLD ? "+" : "";
+
+  const lp = progressInGrade % DIV_THRESHOLD;
+
+  return `${baseGrade}${suffix}`;
+}
+
+function getVerifiedRankedStats(mode) {
+  const storageKey = `${mode}_ranked_stats`;
+  const saved = localStorage.getItem(storageKey);
+
+  if (!saved) return {
+    points: 0,
+    winStreak: 0,
+    lossStreak: 0,
+    placements: 0,
+    rankProtection: 0
+  };
+
+  try {
+    const parsed = JSON.parse(saved);
+    if (parsed.data && parsed.checksum === generateChecksum(parsed.data)) {
+      return parsed.data;
+    }
+    console.warn(`Tampering detected in ${mode} ranked stats! Goldship is watching you...`);
+  } catch (e) {
+    console.error("Failed to parse ranked stats", e);
+  }
+
+  return {
+    points: 0,
+    winStreak: 0,
+    lossStreak: 0,
+    placements: 0,
+    rankProtection: 0
+  };
+}
+
+function updateRankedStats(isWin, mode) {
+  const storageKey = `${mode}_ranked_stats`;
+  const saved = localStorage.getItem(storageKey);
+  let stats;
+
+  if (saved) {
+    try {
+      const parsed = JSON.parse(saved);
+      stats = (parsed.data && parsed.checksum === generateChecksum(parsed.data)) ?
+        parsed.data : {
+          points: 0,
+          winStreak: 0,
+          lossStreak: 0,
+          placements: 0,
+          rankProtection: 0
+        };
+    } catch (e) {
+      stats = {
+        points: 0,
+        winStreak: 0,
+        lossStreak: 0,
+        placements: 0,
+        rankProtection: 0
+      };
+    }
+  } else {
+    stats = {
+      points: 0,
+      winStreak: 0,
+      lossStreak: 0,
+      placements: 0,
+      rankProtection: 0
+    };
+  }
+
+  const isRanked = localStorage.getItem('is_ranked_session') === 'true';
+  if (!isRanked) return stats;
+
+  if (isWin) {
+    const guessCount = sessionState.guesses.length;
+
+    if (stats.placements < 5) {
+      let placementGain = 0;
+      if (guessCount <= 2) {
+        placementGain = 200;
+      } else if (guessCount === 3) {
+        placementGain = 130;
+      } else if (guessCount === 4) {
+        placementGain = 80;
+      } else {
+        placementGain = 40;
+      }
+      stats.points += placementGain;
+    } else {
+      stats.winStreak++;
+      stats.lossStreak = 0;
+
+      const oldTierIndex = Math.floor(stats.points / 200); //
+      let baseGain = 20;
+      const efficiencyBonus = guessCount <= 2 ? 15 : 0;
+      let gain = baseGain + efficiencyBonus + Math.min(stats.winStreak * 5, 30);
+
+      stats.points += gain;
+
+      const newTierIndex = Math.floor(stats.points / 200);
+      if (newTierIndex > oldTierIndex) {
+        stats.rankProtection = 2;
+      }
+    }
+  } else {
+    stats.winStreak = 0;
+    stats.lossStreak++;
+
+    if (stats.placements >= 5) {
+      if (stats.rankProtection > 0) {
+        stats.rankProtection--;
+      } else {
+        let lossPenalty = 0;
+        if (stats.points >= 800) {
+          lossPenalty = 15 + Math.min((stats.lossStreak - 1) * 5, 5);
+        } else if (stats.points >= 400) {
+          lossPenalty = 5 + Math.min((stats.lossStreak - 1) * 5, 5);
+        } else {
+          lossPenalty = 0;
+        }
+        stats.points = Math.max(0, stats.points - lossPenalty);
+      }
+    }
+  }
+
+  if (stats.placements < 5) stats.placements++;
+
+  const storageWrapper = {
+    data: stats,
+    checksum: generateChecksum(stats)
+  };
+  localStorage.setItem(storageKey, JSON.stringify(storageWrapper));
+
+  return stats;
+}
+
+function generateChecksum(obj) {
+  const salt = "Satono Diamond";
+  const str = JSON.stringify(obj) + salt;
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    const char = str.charCodeAt(i);
+    hash = ((hash << 5) - hash) + char;
+    hash |= 0;
+  }
+  return hash.toString(16);
+}
+
+function getUTC8Time() {
+  return new Date(Date.now() + 28800000);
+}
+
+function getDailyString(offsetDays = 0) {
+  const date8 = getUTC8Time();
+  if (offsetDays !== 0) date8.setDate(date8.getDate() + offsetDays);
+
+  const y = date8.getUTCFullYear();
+  const m = date8.getUTCMonth();
+  const d = date8.getUTCDate();
+
+  return `${y}-${m}-${d}`;
+}
+
+async function loadGameData() {
+  try {
+    const [umaRes, courseRes] = await Promise.all([
+      fetch('data.json'),
+      fetch('courses.json')
+    ]);
+    UMAS = await umaRes.json();
+    COURSES = await courseRes.json();
+    init();
+  } catch (error) {
+    console.error("Failed to load data:", error);
+  }
+}
+
+function init() {
+checkDevMode();
+  loadPersistentData();
+  switchGameType('uma');
+  startClock();
+  loadTheme()
+}
+
+function switchGameType(type) {
+  currentGameType = type;
+  const config = GAME_CONFIG[type];
+
+  const tabUma = document.getElementById('tab-uma');
+  const tabCourse = document.getElementById('tab-course');
+  if (type === 'uma') {
+    tabUma.className = "flex-1 py-2 rounded-lg font-bold transition-all bg-white shadow-sm text-green-700";
+    tabCourse.className = "flex-1 py-2 rounded-lg font-bold transition-all text-gray-500 hover:text-gray-700";
+  } else {
+    tabCourse.className = "flex-1 py-2 rounded-lg font-bold transition-all bg-white shadow-sm text-green-700";
+    tabUma.className = "flex-1 py-2 rounded-lg font-bold transition-all text-gray-500 hover:text-gray-700";
+  }
+
+  document.getElementById('menu-description').innerText = config.helpDesc;
+
+  const today = getDailyString();
+  const yesterday = getDailyString(-1);
+  const pData = allPersistentData[type];
+  if (pData.lastPlayedDate !== today) {
+    pData.dailyGuesses = [];
+    pData.dailyStatus = 'playing';
+    if (pData.lastPlayedDate !== yesterday) {
+      pData.dailyStreak = 0;
+    }
+    savePersistentData();
+  }
+
+  updateStatsUI();
+  checkDailyStatus();
+  displayYesterdayAnswer();
+
+  const headRow = document.createElement('tr');
+  headRow.className = "text-[10px] md:text-xs font-bold uppercase";
+
+  const nameTh = document.createElement('th');
+  nameTh.className = "name-col p-1 bg-gray-100 text-gray-600 rounded-t-lg text-[9px]";
+  nameTh.innerText = "Name";
+  headRow.appendChild(nameTh);
+
+  config.headers.forEach((header, index) => {
+    const th = document.createElement('th');
+    th.className = `p-2 ${index === 0 ? 'rounded-tl-lg' : ''} ${index === config.headers.length - 1 ? 'rounded-tr-lg cell-group-end' : ''}`;
+    if (type === 'uma') {
+      if (index < 4) th.className += " head-dist";
+      else if (index < 8) th.className += " head-strat";
+      else th.className += " head-track";
+    } else {
+      th.className += " head-course";
+    }
+    th.innerText = header;
+    headRow.appendChild(th);
+  });
+  document.getElementById('guess-head').innerHTML = '';
+  document.getElementById('guess-head').appendChild(headRow);
+  document.getElementById('uma-input').placeholder = config.placeholder;
+}
+
+function loadPersistentData() {
+  const saved = localStorage.getItem('uma_wordle_v2_stats');
+  if (saved) {
+    try {
+      const parsed = JSON.parse(saved);
+
+      if (parsed.data && parsed.checksum) {
+        const actualChecksum = generateChecksum(parsed.data);
+
+        if (actualChecksum === parsed.checksum) {
+          allPersistentData = parsed.data;
+        } else {
+          console.warn("Stats tampering detected. Resetting to default Three Godesses will curse you.");
+        }
+      } else {
+        allPersistentData = parsed;
+        savePersistentData(); // 
+      }
+    } catch (e) {
+      console.error("Failed to parse persistent data:", e);
+    }
+  }
+}
+
+function savePersistentData() {
+  const storageWrapper = {
+    data: allPersistentData,
+    checksum: generateChecksum(allPersistentData)
+  };
+  localStorage.setItem('uma_wordle_v2_stats', JSON.stringify(storageWrapper));
+}
+
+function getTargetForDate(dateStr, dataList) {
+  let hash = 0;
+  for (let i = 0; i < dateStr.length; i++) {
+    hash = ((hash << 5) - hash) + dateStr.charCodeAt(i);
+    hash |= 0;
+  }
+  const index = Math.abs(hash) % dataList.length;
+  return dataList[index];
+}
+
+function displayYesterdayAnswer() {
+  const config = GAME_CONFIG[currentGameType];
+  const dataList = config.data();
+  const yesterdayStr = getDailyString(-1);
+  const yesterdayTarget = getTargetForDate(yesterdayStr, dataList);
+  document.getElementById('yesterday-info').innerText = `Yesterday's Answer: ${yesterdayTarget.name}`;
+}
+
+function startClock() {
+  const clockEl = document.getElementById('server-time');
+  if (!clockEl) return;
+
+  setInterval(() => {
+    const now8 = getUTC8Time();
+    
+    const nextMidnight8 = new Date(now8);
+    nextMidnight8.setUTCDate(nextMidnight8.getUTCDate() + 1);
+    nextMidnight8.setUTCHours(0, 0, 0, 0);
+    
+    const diff = nextMidnight8 - now8;
+    
+    if (diff <= 0) {
+        location.reload();
+        return; 
+    }
+
+    const h = String(Math.floor((diff / (1000 * 60 * 60)) % 24)).padStart(2, '0');
+    const m = String(Math.floor((diff / (1000 * 60)) % 60)).padStart(2, '0');
+    const s = String(Math.floor((diff / 1000) % 60)).padStart(2, '0');
+    
+    clockEl.innerText = `NEXT DAILY IN: ${h}:${m}:${s}`;
+  }, 1000);
+}
+
+function toggleTheme() {
+  const body = document.body;
+  body.classList.toggle('dark');
+  localStorage.setItem('theme', body.classList.contains('dark') ? 'dark' : 'light');
+}
+
+function loadTheme() {
+  const savedTheme = localStorage.getItem('theme');
+  if (savedTheme === 'dark') document.body.classList.add('dark');
+}
+
+function showResult(isWin) {
+  const modal = document.getElementById('result-modal');
+  const title = document.getElementById('result-title');
+  const content = document.getElementById('result-content');
+  const target = sessionState.target;
+
+  const isRanked = localStorage.getItem('is_ranked_session') === 'true';
+  let rankedStats = null;
+
+  if (isRanked) {
+    rankedStats = updateRankedStats(isWin, sessionState.mode);
+  }
+
+  if (isWin) {
+    resultTitle.textContent = "Victory!";
+    resultTitle.className = "text-2xl font-bold text-green-600 mb-2";
+  } else {
+    resultTitle.textContent = "Better luck next time!";
+    resultTitle.className = "text-2xl font-bold text-red-600 mb-2";
+  }
+
+  title.innerText = isWin ? "Victory!" : "Better Luck Next Time";
+  title.className = isWin ? "text-2xl font-bold text-green-600" : "text-2xl font-bold text-red-600";
+
+  content.innerHTML = `
+    <div class="flex flex-col items-center gap-4">
+        <p class="text-lg">The ${GAME_CONFIG[GAME_STATE.mode].resultTitle} was:</p>
+        <div class="font-black text-3xl tracking-wider text-green-800">${target.name}</div>
+        ${target.image ? `
+    <div class="w-full flex justify-center my-2">
+        <img src="${target.image}" 
+             class="max-h-48 w-auto object-contain rounded-lg shadow-sm border border-gray-100" 
+             alt="${target.name}">
+    </div>` : ''}
+        `;
+
+  modal.classList.remove('hidden');
+  modal.classList.add('flex');
+
+}
+
+function startGame(mode) {
+  if (mode === 'ranked') {
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get('silencesuzuka') !== 'true') return;
+  }
+  const config = GAME_CONFIG[currentGameType];
+  const dataList = config.data();
+  const today = getDailyString();
+
+  if (mode === 'ranked') {
+    localStorage.setItem('is_ranked_session', 'true');
+  } else {
+    localStorage.setItem('is_ranked_session', 'false');
+  }
+  sessionState.active = true;
+  sessionState.mode = mode;
+  sessionState.guesses = [];
+  sessionState.clues = [];
+  sessionState.isGameOver = false;
+  sessionState.knownStats = {};
+  sessionState.maxGuesses = mode === 'daily' ? 5 :
+    mode === 'hard' ? 2 :
+    mode === 'easy' ? Infinity :
+    5;
+
+  if (mode === 'daily') {
+    sessionState.target = getTargetForDate(today, dataList);
+    const pData = allPersistentData[currentGameType];
+    if (pData.lastPlayedDate === today) {
+      sessionState.guesses = [...pData.dailyGuesses];
+      if (pData.dailyStatus !== 'playing') sessionState.isGameOver = true;
+    } else {
+      pData.lastPlayedDate = today;
+      pData.dailyGuesses = [];
+      pData.dailyStatus = 'playing';
+      savePersistentData();
+    }
+  } else if (mode === 'ranked') {
+    const pData = allPersistentData[currentGameType];
+    if (pData.rankedStatus === 'playing' && pData.rankedTargetName && pData.rankedGuesses && pData.rankedGuesses.length > 0) {
+      const savedTarget = dataList.find(item => item.name === pData.rankedTargetName);
+      if (savedTarget) {
+        sessionState.target = savedTarget;
+        sessionState.guesses = [...pData.rankedGuesses];
+      } else {
+        sessionState.target = dataList[Math.floor(Math.random() * dataList.length)];
+        pData.rankedGuesses = [];
+        pData.rankedStatus = 'playing';
+        pData.rankedTargetName = sessionState.target.name;
+        savePersistentData();
+      }
+    } else {
+      sessionState.target = dataList[Math.floor(Math.random() * dataList.length)];
+      pData.rankedGuesses = [];
+      pData.rankedStatus = 'playing';
+      pData.rankedTargetName = sessionState.target.name;
+      savePersistentData();
+    }
+  } else {
+    sessionState.target = dataList[Math.floor(Math.random() * dataList.length)];
+  }
+
+  if (mode === 'hard') {
+    const otherItems = dataList.filter(item => item.name !== sessionState.target.name);
+    const shuffled = otherItems.sort(() => 0.5 - Math.random());
+    sessionState.clues = shuffled.slice(0, 3);
+  }
+
+  renderGameLayout();
+
+  if (mode === 'daily' && sessionState.guesses.length > 0) {
+    sessionState.guesses.forEach(g => {
+      updateKnownStats(g);
+      addGuessRow(g, false);
+    });
+    if (sessionState.isGameOver) {
+      document.getElementById('input-container').classList.add('hidden');
+      const pData = allPersistentData[currentGameType];
+      if (pData.dailyStatus === 'won') {
+        showModal("Goal In!", `You found the answer!`, false);
+      } else {
+        showModal("Retired...", `The correct answer was ${sessionState.target.name}. Try again tomorrow!`, false);
+      }
+    }
+  }
+
+  if (mode === 'ranked' && sessionState.guesses.length > 0) {
+    sessionState.guesses.forEach(g => {
+      updateKnownStats(g);
+      addGuessRow(g, false);
+    });
+    updateGuessCountUI();
+  }
+
+  if (mode === 'hard') {
+    sessionState.clues.forEach(c => addGuessRow(c, true));
+  }
+}
+
+function renderGameLayout() {
+  document.getElementById('menu-screen').classList.add('hidden');
+  document.getElementById('game-screen').classList.remove('hidden');
+  document.getElementById('mode-indicator').innerText = currentGameType + " / " + sessionState.mode;
+  document.getElementById('guess-grid').innerHTML = '';
+  document.getElementById('uma-input').value = '';
+  document.getElementById('input-container').classList.remove('hidden');
+
+  const nameCols = document.querySelectorAll('.name-col');
+  nameCols.forEach(col => {
+    if (sessionState.mode === 'hard') col.classList.add('hidden');
+    else col.classList.remove('hidden');
+  });
+
+  updateGuessCountUI();
+  updateScoreUI();
+}
+
+function updateGuessCountUI() {
+  const maxAttempts = sessionState.mode === 'daily' ?
+    5 :
+    sessionState.mode === 'hard' ?
+    2 :
+    sessionState.mode === 'easy' ?
+    '∞' :
+    5;
+
+  if (maxAttempts === '∞') {
+    document.getElementById('remaining-guesses').innerText = 'Unlimited';
+  } else {
+    const remaining = maxAttempts - sessionState.guesses.length;
+    document.getElementById('remaining-guesses').innerText = Math.max(0, remaining);
+  }
+}
+
+function showMenu() {
+  localStorage.setItem('is_ranked_session', 'false');
+  document.getElementById('menu-screen').classList.remove('hidden');
+  document.getElementById('game-screen').classList.add('hidden');
+  checkDailyStatus();
+}
+
+function checkDailyStatus() {
+  const today = getDailyString();
+  const statusDiv = document.getElementById('daily-status');
+  const pData = allPersistentData[currentGameType];
+  if (pData.lastPlayedDate === today && pData.dailyStatus !== 'playing') {
+    statusDiv.innerText = `Daily ${currentGameType.toUpperCase()} Wordle completed for today!`;
+    statusDiv.classList.add('text-green-600');
+  } else {
+    statusDiv.innerText = "";
+    statusDiv.classList.remove('text-green-600');
+  }
+}
+
+function updateScoreUI() {
+  const el = document.getElementById('score-display');
+  const pData = allPersistentData[currentGameType];
+
+  if (sessionState.mode === 'daily') {
+    el.innerText = `Daily Streak: ${pData.dailyStreak}`;
+  } else {
+    const modeKey = `${sessionState.mode}Streak`;
+    const currentStreak = pData[modeKey] || 0;
+    el.innerText = `${sessionState.mode.charAt(0).toUpperCase() + sessionState.mode.slice(1)} Streak: ${currentStreak}`;
+  }
+}
+
+function updateStatsUI() {
+  const pData = allPersistentData[currentGameType];
+  document.getElementById('stats-summary').innerHTML = `<span class="text-xs uppercase text-gray-400">Daily Streak:</span> ${pData.dailyStreak}`;
+  const rankedData = getVerifiedRankedStats(currentGameType);
+
+  const tierNameEl = document.getElementById('menu-tier-name');
+  const tierPointsEl = document.getElementById('menu-tier-points');
+  const placementEl = document.getElementById('menu-placements');
+  const streakBadge = document.getElementById('streak-badge');
+
+  if (rankedData.placements < 5) {
+    tierNameEl.innerText = "UNRANKED";
+    tierPointsEl.innerText = "Complete placement matches";
+    placementEl.innerText = `Placements: ${rankedData.placements}/5`;
+    streakBadge.classList.add('hidden');
+  } else {
+    tierNameEl.innerText = `${getTier(rankedData.points)} TIER`;
+    tierPointsEl.innerText = `${rankedData.points} Points`;
+    placementEl.innerText = "Rank Active";
+
+    if (rankedData.winStreak >= 2) {
+      streakBadge.innerText = `🔥 ${rankedData.winStreak} STREAK`;
+      streakBadge.classList.remove('hidden');
+    } else {
+      streakBadge.classList.add('hidden');
+    }
+  }
+}
+
+const input = document.getElementById('uma-input');
+const autoBox = document.getElementById('autocomplete-list');
+
+function updateKnownStats(item) {
+  const config = GAME_CONFIG[currentGameType];
+  config.keys.forEach(key => {
+    if (item[key] === sessionState.target[key]) {
+      sessionState.knownStats[key] = item[key];
+    }
+  });
+}
+
+function renderSuggestions(filterText = "") {
+  const val = filterText.toLowerCase();
+  autoBox.innerHTML = '';
+  const config = GAME_CONFIG[currentGameType];
+  const dataList = config.data();
+
+  const guessedNames = sessionState.guesses.map(g => g.name);
+  const clueNames = sessionState.clues.map(c => c.name);
+
+  let matches = dataList.filter(u =>
+    u.name.toLowerCase().includes(val) &&
+    !guessedNames.includes(u.name) &&
+    !clueNames.includes(u.name)
+  );
+
+  matches.sort((a, b) => a.name.localeCompare(b.name));
+
+  const sortedMatches = matches.map(match => {
+    let matchCount = 0;
+    Object.entries(sessionState.knownStats).forEach(([key, value]) => {
+      if (match[key] === value) matchCount++;
+    });
+    return {
+      ...match,
+      matchCount
+    };
+  });
+
+  if (sortedMatches.length > 0) {
+    autoBox.classList.remove('hidden');
+    sortedMatches.forEach(match => {
+      const div = document.createElement('div');
+      div.className = "p-2 hover:bg-green-100 cursor-pointer border-b border-gray-100 flex items-center transition-colors";
+
+      const MATCH_THRESHOLD = currentGameType === 'uma' ? 5 : 2;
+      const displayBadge = currentGameType === 'uma' && match.matchCount >= MATCH_THRESHOLD;
+
+      div.innerHTML = `
+                <img src="${match.image}" alt="${match.name}" 
+                     class="w-10 h-10 rounded-md mr-3 object-cover bg-gray-200 border border-gray-100">
+                <div class="flex flex-col">
+                    <span class="font-bold text-sm sm:text-base text-gray-800">${match.name}</span>
+                    ${displayBadge ? `<span class="text-[10px] text-green-600 font-semibold uppercase tracking-wider">Potential Match</span>` : ''}
+                </div>
+            `;
+
+      div.onclick = (e) => {
+        e.stopPropagation();
+        submitGuess(match);
+        autoBox.classList.add('hidden');
+        input.value = '';
+      };
+      autoBox.appendChild(div);
+    });
+  } else {
+    autoBox.classList.add('hidden');
+  }
+
+}
+
+input.addEventListener('focus', () => renderSuggestions(input.value));
+input.addEventListener('click', () => renderSuggestions(input.value));
+input.addEventListener('input', (e) => renderSuggestions(e.target.value));
+
+document.addEventListener('click', (e) => {
+  if (!input.contains(e.target) && !autoBox.contains(e.target)) {
+    autoBox.classList.add('hidden');
+  }
+});
+
+function submitGuess(guessItem) {
+  if (sessionState.isGameOver) return;
+  if (sessionState.guesses.some(g => g.name === guessItem.name)) return;
+
+  const pData = allPersistentData[currentGameType];
+
+  sessionState.guesses.push(guessItem);
+  updateKnownStats(guessItem);
+
+  if (sessionState.mode === 'daily') {
+    pData.dailyGuesses = [...sessionState.guesses];
+    savePersistentData();
+  }
+
+  if (sessionState.mode === 'ranked') {
+    pData.rankedGuesses = [...sessionState.guesses];
+    savePersistentData();
+  }
+
+  addGuessRow(guessItem, false);
+  updateGuessCountUI();
+
+  if (guessItem.name === sessionState.target.name) {
+    handleWin();
+  } else if (sessionState.guesses.length >= sessionState.maxGuesses) {
+    handleLoss();
+  }
+}
+
+function handleWin() {
+  sessionState.isGameOver = true;
+  const pData = allPersistentData[currentGameType];
+
+  if (sessionState.mode === 'daily') {
+    pData.dailyStatus = 'won';
+    pData.dailyStreak++;
+  } else if (sessionState.mode === 'ranked') {
+    pData.rankedStatus = 'won';
+    pData.rankedGuesses = [...sessionState.guesses];
+  } else {
+
+    const modeKey = `${sessionState.mode}Streak`;
+    if (pData[modeKey] === undefined) pData[modeKey] = 0;
+    pData[modeKey]++;
+  }
+  updateRankedStats(true, currentGameType);
+  updateStatsUI();
+
+  savePersistentData();
+
+  if (sessionState.mode === 'unlimited' || sessionState.mode === 'hard') {
+    updateScoreUI();
+    setTimeout(() => {
+      if (sessionState.mode === 'hard') {
+        startGame(sessionState.mode);
+      } else {
+        startGame('unlimited');
+      }
+    }, 1200);
+    return;
+  }
+
+  document.getElementById('input-container').classList.add('hidden');
+  setTimeout(() => {
+    showModal("Goal In!", `Excellent work! You've identified ${sessionState.target.name}!`, true);
+    updateScoreUI();
+    updateStatsUI();
+  }, 1000);
+}
+
+function handleLoss() {
+  sessionState.isGameOver = true;
+  const pData = allPersistentData[currentGameType];
+
+  if (sessionState.mode === 'daily') {
+    pData.dailyStatus = 'lost';
+    pData.dailyStreak = 0;
+    pData.dailyGuesses = [...sessionState.guesses];
+    pData.lastPlayedDate = getDailyString();
+  } else if (sessionState.mode === 'ranked') {
+    pData.rankedStatus = 'lost';
+    pData.rankedGuesses = [...sessionState.guesses];
+  } else {
+
+    const modeKey = `${sessionState.mode}Streak`;
+    pData[modeKey] = 0;
+  }
+  updateRankedStats(false, currentGameType);
+  updateStatsUI();
+
+  savePersistentData();
+
+  document.getElementById('input-container').classList.add('hidden');
+  setTimeout(() => {
+    showModal("LOST...", `The correct answer was ${sessionState.target.name}.`, true);
+    updateScoreUI();
+    updateStatsUI();
+  }, 1000);
+}
+
+function addGuessRow(item, isClue = false) {
+  const grid = document.getElementById('guess-grid');
+  const row = document.createElement('tr');
+  if (isClue) row.classList.add('clue-row');
+
+  const config = GAME_CONFIG[currentGameType];
+
+  const nameCell = document.createElement('td');
+  nameCell.className = "name-col p-2 bg-white/80 font-bold border-b border-gray-200";
+  if (sessionState.mode === 'hard') nameCell.classList.add('hidden');
+  if (!isClue) {
+    nameCell.innerHTML = `
+    <img src="${item.image}" alt="${item.name}" title="${item.name}" 
+         class="w-10 h-10 object-cover mx-auto rounded-full shadow-sm" />
+`;
+  } else {
+    nameCell.textContent = '???';
+  }
+  row.appendChild(nameCell);
+
+  const isAnswer = !isClue && item.name === sessionState.target.name;
+  if (isAnswer) {
+    row.classList.add('correct-answer');
+    nameCell.classList.add('correct');
+  }
+
+  config.keys.forEach(key => {
+    const cell = document.createElement('td');
+    const val = item[key];
+    const targetVal = sessionState.target[key];
+
+    let status = 'absent';
+    let arrow = '';
+
+    if (currentGameType === 'uma') {
+      const tRank = RANK_MAP[targetVal] ?? -2;
+      const gRank = RANK_MAP[val] ?? -2;
+      if (val === targetVal) {
+        status = 'correct';
+      } else if (Math.abs(tRank - gRank) <= 1) {
+        status = 'present';
+      }
+      if (gRank < tRank) arrow = ' ↑';
+      else if (gRank > tRank) arrow = ' ↓';
+    } else {
+      if (val === targetVal) {
+        status = 'correct';
+      } else if (key === 'length') {
+        const diff = Math.abs(parseInt(val) - parseInt(targetVal));
+        if (diff <= 400) status = 'present';
+
+      }
+    }
+
+    cell.className = `p-2 ${status} animate-flip${isAnswer ? ' answer-cell' : ''}`;
+    cell.innerText = val + arrow;
+    row.appendChild(cell);
+  });
+
+  grid.appendChild(row);
+}
+
+function showModal(title, msg, isNewGameOver = true) {
+  const modal = document.getElementById('result-modal');
+  const config = GAME_CONFIG[currentGameType];
+
+  document.getElementById('result-title').innerText = title;
+  document.getElementById('result-msg').innerText = msg;
+
+  const targetNameElement = document.getElementById('target-name');
+  const targetLabel = document.getElementById('target-label');
+  const shareTitleText = document.getElementById('share-title-text');
+
+  if (targetNameElement) {
+    targetNameElement.innerHTML = `
+            <div class="flex flex-col items-center gap-2">
+                <img src="${sessionState.target.image}" alt="${sessionState.target.name}" class="max-h-48 w-auto object-contain rounded-lg shadow-sm">
+                <span class="text-2xl font-black text-green-800">${sessionState.target.name}</span>
+            </div>
+        `;
+  }
+
+  if (targetLabel) targetLabel.innerText = config.resultTitle;
+  if (shareTitleText) shareTitleText.innerText = config.shareTitle;
+
+  const targetGrid = document.getElementById('target-stats-grid');
+  if (targetGrid) {
+    targetGrid.innerHTML = '';
+    config.sections.forEach(section => {
+      const sectionDiv = document.createElement('div');
+      sectionDiv.className = section.title === "Course Info" ? "pt-2" : "space-y-3 mt-4";
+
+      const h4 = document.createElement('h4');
+      h4.className = `text-[10px] font-bold text-${section.color}-600 uppercase mb-2`;
+      h4.innerText = section.title;
+      sectionDiv.appendChild(h4);
+
+      const statsDiv = document.createElement('div');
+      statsDiv.className = "grid grid-cols-2 gap-2";
+
+      section.keys.forEach(key => {
+        const statBox = document.createElement('div');
+        statBox.className = "bg-white p-2 rounded-lg border border-slate-200 flex justify-between items-center shadow-sm";
+
+        const label = document.createElement('span');
+        label.className = "text-[9px] font-bold text-slate-400 uppercase";
+        label.innerText = key;
+
+        const val = document.createElement('span');
+        val.className = "font-black text-slate-700";
+        val.innerText = sessionState.target[key];
+
+        statBox.appendChild(label);
+        statBox.appendChild(val);
+        statsDiv.appendChild(statBox);
+      });
+
+      sectionDiv.appendChild(statsDiv);
+      targetGrid.appendChild(sectionDiv);
+    });
+  }
+
+  const rankedProfileContainer = document.getElementById('ranked-result-profile');
+  const isRankedSession = localStorage.getItem('is_ranked_session') === 'true';
+
+  if (isRankedSession && rankedProfileContainer) {
+    const storageKey = `${currentGameType}_ranked_stats`;
+    const saved = localStorage.getItem(storageKey);
+    let stats = {
+      points: 0,
+      placements: 0
+    };
+
+    if (saved) {
+      try {
+        const parsed = JSON.parse(saved);
+        stats = parsed.data || stats;
+      } catch (e) {
+        console.error("Error loading stats for modal", e);
+      }
+    }
+
+    rankedProfileContainer.classList.remove('hidden');
+
+    if (stats.placements < 5) {
+      rankedProfileContainer.innerHTML = `
+                <div class="bg-blue-50 border border-blue-200 rounded-lg p-3 text-center mb-4">
+                    <div class="text-[10px] font-bold text-blue-600 uppercase tracking-widest">Current Rank</div>
+                    <div class="text-2xl font-black text-blue-800 uppercase">UNRANKED</div>
+                    <div class="text-xs font-bold text-blue-700 mt-1">Placement: ${stats.placements} / 5 Matches</div>
+                </div>`;
+    } else {
+      rankedProfileContainer.innerHTML = `
+                <div class="bg-gradient-to-r from-amber-50 to-orange-50 border border-orange-200 rounded-lg p-3 text-center mb-4 shadow-sm">
+                    <div class="text-[10px] font-bold text-orange-600 uppercase tracking-widest">Current Rank</div>
+                    <div class="text-2xl font-black text-orange-900">${getTier(stats.points)} TIER</div>
+                    <div class="text-xs font-bold text-orange-700">${stats.points} Rating Points</div>
+                </div>`;
+    }
+  } else if (rankedProfileContainer) {
+    rankedProfileContainer.classList.add('hidden');
+  }
+
+  const shareInfo = document.getElementById('share-info-text');
+  if (shareInfo) {
+    shareInfo.innerText = `${sessionState.mode} | ${getDailyString()} | Guesses: ${sessionState.guesses.length}`;
+  }
+
+  renderShareEmojis();
+  modal.classList.remove('hidden');
+}
+
+function renderShareEmojis() {
+  const preview = document.getElementById('share-block-preview');
+  preview.innerHTML = '';
+  const config = GAME_CONFIG[currentGameType];
+
+  sessionState.guesses.forEach(guess => {
+    let rowStr = '';
+    config.keys.forEach(key => {
+      const val = guess[key];
+      const targetVal = sessionState.target[key];
+      if (val === targetVal) rowStr += '🟩';
+      else if (currentGameType === 'uma') {
+        if (Math.abs(RANK_MAP[val] - RANK_MAP[targetVal]) <= 1) rowStr += '🟨';
+        else rowStr += '⬛';
+      } else if (key === 'length' && Math.abs(parseInt(val) - parseInt(targetVal)) <= 400) {
+        rowStr += '🟨';
+      } else {
+        rowStr += '⬛';
+      }
+    });
+    const div = document.createElement('div');
+    div.innerText = rowStr;
+    preview.appendChild(div);
+  });
+}
+
+function closeModal() {
+  const modal = document.getElementById('result-modal');
+  modal.classList.add('hidden');
+
+  if (sessionState.isGameOver && sessionState.mode === 'ranked') {
+    const isWin = sessionState.guesses.some(g => g.name === sessionState.target.name);
+
+    const pData = allPersistentData[currentGameType];
+    pData.rankedGuesses = [];
+    pData.rankedStatus = 'playing';
+    pData.rankedTargetName = null;
+    savePersistentData();
+
+    if (isWin) {
+      startGame('ranked');
+    }
+  }
+}
+
+function shareToTwitter() {
+  const config = GAME_CONFIG[currentGameType];
+  const today = getDailyString();
+  const shareInfo = `${sessionState.mode} | ${today} | Guesses: ${sessionState.guesses.length}`;
+  const emojiGrid = renderShareEmojisText();
+  const shareText = `${config.shareTitle}\n${shareInfo}\n${emojiGrid}\n\nPlay UmaWordle!`;
+  const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}`;
+  window.open(twitterUrl, '_blank');
+}
+
+function shareToFacebook() {
+  const config = GAME_CONFIG[currentGameType];
+  const today = getDailyString();
+  const shareInfo = `${sessionState.mode} | ${today} | Guesses: ${sessionState.guesses.length}`;
+  const emojiGrid = renderShareEmojisText();
+  const shareText = `${config.shareTitle}\n${shareInfo}\n${emojiGrid}\n\nPlay UmaWordle!`;
+  const facebookUrl = `https://www.facebook.com/sharer/sharer.php?quote=${encodeURIComponent(shareText)}`;
+  window.open(facebookUrl, '_blank');
+}
+
+function renderShareEmojisText() {
+  let result = '';
+  const config = GAME_CONFIG[currentGameType];
+
+  sessionState.guesses.forEach(guess => {
+    config.keys.forEach(key => {
+      const val = guess[key];
+      const targetVal = sessionState.target[key];
+      if (val === targetVal) result += '🟩';
+      else if (currentGameType === 'uma') {
+        if (Math.abs(RANK_MAP[val] - RANK_MAP[targetVal]) <= 1) result += '🟨';
+        else result += '⬛';
+      } else if (key === 'length' && Math.abs(parseInt(val) - parseInt(targetVal)) <= 400) {
+        result += '🟨';
+      } else {
+        result += '⬛';
+      }
+    });
+    result += '\n';
+  });
+  return result.trim();
+}
+
+function toggleHelp(show) {
+  const modal = document.getElementById('help-modal');
+  const helpContent = document.getElementById('help-content');
+
+  if (show) {
+    if (currentGameType === 'uma') {
+      helpContent.innerHTML = `
+                <p>Identify the hidden Umamusume by their base Aptitudes (A to G).</p>
+                <div>
+                    <h3 class="font-bold text-gray-800 border-b pb-1 mb-2">Color Indicators</h3>
+                    <div class="space-y-2">
+                        <div class="flex items-center"><span class="help-dot bg-[#6aaa64]"></span> <strong>Green:</strong> Exact match!</div>
+                        <div class="flex items-center"><span class="help-dot bg-[#c9b458]"></span> <strong>Yellow:</strong> Near match (within 1 rank, e.g., A vs B).</div>
+                        <div class="flex items-center"><span class="help-dot bg-[#787c7e]"></span> <strong>Gray:</strong> Far match.</div>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="font-bold text-gray-800 border-b pb-1 mb-2">Rank Hints (Arrows)</h3>
+                    <p>↑: Target rank is higher. ↓: Target rank is lower.</p>
+                </div>
+                <div>
+                    <h3 class="font-bold text-gray-800 border-b pb-1 mb-2">Game Modes</h3>
+                    <ul class="list-disc list-inside text-sm space-y-2 ml-1">
+                        <li><strong>Daily Mode:</strong> A new puzzle every day at midnight JST!</li>
+                        <li><strong>Unlimited Mode:</strong> Play as many puzzles as you want!</li>
+                        <li><strong>Easy Mode:</strong> A more forgiving difficulty level for new players!</li>
+                        <li><strong>Normal Mode:</strong> The classic experience!</li>
+                        <li><strong>Hard Mode:</strong> no names, only 3 clues, and just 2 attempts! Good Luck!</li>
+                    </ul>
+                </div>
+            `;
+    } else {
+      helpContent.innerHTML = `
+                <p>Identify the hidden G1 Race by its course features.</p>
+                <div>
+                    <h3 class="font-bold text-gray-800 border-b pb-1 mb-2">Color Indicators</h3>
+                    <div class="space-y-2">
+                        <div class="flex items-center"><span class="help-dot bg-[#6aaa64]"></span> <strong>Green:</strong> Exact match!</div>
+                        <div class="flex items-center"><span class="help-dot bg-[#c9b458]"></span> <strong>Yellow:</strong> Close (Length within 400m).</div>
+                        <div class="flex items-center"><span class="help-dot bg-[#787c7e]"></span> <strong>Gray:</strong> Incorrect.</div>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="font-bold text-gray-800 border-b pb-1 mb-2">Game Modes</h3>
+                    <ul class="list-disc list-inside text-sm space-y-2 ml-1">
+                        <li><strong>Daily Mode:</strong> A new puzzle every day at midnight JST!</li>
+                        <li><strong>Unlimited Mode:</strong> Play as many puzzles as you want!</li>
+                        <li><strong>Easy Mode:</strong> A more forgiving difficulty level for new players!</li>
+                        <li><strong>Normal Mode:</strong> The classic experience!</li>
+                        <li><strong>Hard Mode:</strong> no names, only 3 clues, and just 2 attempts! Good Luck!</li>
+                    </ul>
+                </div>
+            `;
+    }
+  }
+
+  modal.classList.toggle('hidden', !show);
+}
+
+function checkDevMode() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const isDev = urlParams.get('silencesuzuka') === 'true';
+
+  const rankedView = document.getElementById('ranked-profile-view');
+  const rankedBtn = document.querySelector("button[onclick=\"startGame('ranked')\"]");
+  const rankedWarning = document.querySelector(".text-purple-500.italic");
+  
+
+  if (!isDev) {
+    if (rankedView) rankedView.classList.add('hidden');
+    if (rankedBtn) rankedBtn.classList.add('hidden');
+    if (rankedWarning) rankedWarning.classList.add('hidden');
+  } else {
+    if (rankedView) rankedView.classList.remove('hidden');
+        if (rankedBtn) rankedBtn.classList.remove('hidden');
+        if (rankedWarning) rankedWarning.classList.remove('hidden');
+    }
+}
+
+const CURRENT_VERSION = '1.0';
+
+function openChangelog() {
+    const modal = document.getElementById('changelog-modal');
+    modal.classList.remove('hidden');
+}
+
+function closeChangelog() {
+    const modal = document.getElementById('changelog-modal');
+    modal.classList.add('hidden');
+    if (localStorage.getItem('uma_wordle_version') !== CURRENT_VERSION) {
+        localStorage.setItem('uma_wordle_version', CURRENT_VERSION);
+    }
+}
+
+window.addEventListener('load', () => {
+  setTimeout(checkChangelog, 500);
+});
+
+loadGameData();
