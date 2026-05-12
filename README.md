@@ -64,4 +64,3 @@ If you have suggestions, found a bug, or just want to say hi, feel free to reach
 [![X/Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/cepherogarde)
 
 ---
-<p align="center">Made with ❤️ for the Umamusume Community</p>
