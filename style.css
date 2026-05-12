@@ -494,8 +494,18 @@ body.dark header {
     }
 
     #autocomplete-list {
-        max-height: 220px;
-    }
+    position: absolute; /* Ensures it doesn't push down other elements */
+    z-index: 50;        /* Keep it above other UI elements */
+    left: 0;
+    right: 0;
+    top: 100%;          /* Positions it directly below the input field */
+    max-height: 200px;  /* Limits the height to prevent off-screen overflow */
+    overflow-y: auto;   /* Adds a scrollbar within the list itself if it's too long */
+    background-color: white;
+    border: 1px solid #d1d5db;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+}
 
     .share-card {
         padding: 1rem;
@@ -890,6 +900,7 @@ body.dark #game-toolbar {
     }
 
     #input-container {
+        position: relative;
         width: 100%;
         max-width: 100%;
         padding-left: 0.25rem;

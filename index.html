@@ -147,14 +147,12 @@
                 <tbody id="guess-grid"></tbody>
             </table>
         </div>
-        <div id="input-container" class="mt-4 w-full max-w-md pb-20 mx-auto">
-            <div class="relative">
-                <input type="text" id="uma-input" placeholder="Enter name..." autocomplete="off"
-                    class="w-full p-4 rounded-full border-2 border-green-600 focus:outline-none focus:ring-2 focus:ring-green-400 shadow-md">
-                <div id="autocomplete-list" class="absolute z-10 w-full bg-white border border-gray-200 rounded-b-xl shadow-xl hidden max-h-64 overflow-y-auto mt-1"></div>
-            </div>
-            <p class="text-center mt-2 text-sm text-gray-500">Guesses remaining: <span id="remaining-guesses" class="font-bold text-red-600">5</span></p>
-        </div>
+        <div id="input-container" class="relative w-full max-w-md mx-auto">
+    <input type="text" id="uma-input" 
+           class="w-full p-3 rounded-lg border-2 border-green-700" 
+           placeholder="Enter Umamusume name...">
+    <div id="autocomplete-list" class="hidden"></div>
+    </div>
         
     </div>
 
