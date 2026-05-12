@@ -1,49 +1,67 @@
-#UmaWordle: Pretty Wordle
-UmaWordle is a web-based puzzle game inspired by Wordle, designed for fans of the Umamusume: Pretty Derby franchise. Players test their knowledge by guessing specific Umamusume characters based on their base aptitudes or identifying G1 race courses.
+# UmaWordle: Pretty Wordle
 
-#Game Modes
-The game features two primary categories of puzzles:
+<p align="center">
+  <img src="images/umawordle logo.png" alt="UmaWordle Logo" width="400">
+  <br>
+  <i>A Wordle-inspired puzzle game for the Umamusume: Pretty Derby community.</i>
+</p>
 
-#Umamusume Mode
-Identify a hidden Umamusume by analyzing their base Aptitudes (ranked A through G).
+---
 
-Distance Aptitude: Sprint, Mile, Medium, Long.
+## 🎮 About the Game
 
-Strategy Aptitude: Front, Pace, Late, End.
+**UmaWordle** is a web-based guessing game where players test their knowledge of Umamusume character aptitudes and G1 race course specifications. Whether you are a casual fan or a strategy expert, UmaWordle offers a daily challenge to prove your expertise.
 
-Surface Aptitude: Turf, Dirt.
+---
 
-#G1 Race Mode
-Guess the correct G1 race course based on its specific characteristics:
+## 🕹️ Game Modes
 
-Length: Race distance (e.g., 1600m, 2400m).
+The game features two distinct categories:
 
-Surface: Turf or Dirt.
+### <img src="images\silence suzuka chibi.png" width="60"> Umamusume Mode
+Guess the hidden Umamusume based on their **Base Aptitudes**. 
+* **Distance:** Sprint, Mile, Medium, Long
+* **Strategy:** Front (Runner), Pace (Leader), Late (Betweener), End (Chaser)
+* **Surface:** Turf, Dirt
 
-Turn: Direction of the course (Left ↩ or Right ↪).
+### 🏁 G1 Race Mode
+Identify a specific G1 race based on its course profile:
+* **Distance & Surface:** e.g., 2400m Turf
+* **Direction:** Left ↩ or Right ↪
+* **Venue:** Tokyo, Nakayama, Kyoto, Hanshin, Ooi, and more.
 
-Location: The specific racetrack (e.g., Tokyo, Nakayama, Kyoto).
+---
 
-#Difficulty Levels
-Daily Mode: A new puzzle is released every day at midnight (UTC +8 / JST).
+## ⚙️ Difficulty Levels
 
-Unlimited Mode: Play as many puzzles as you want in a single session.
+| Level | Features |
+| :--- | :--- |
+| **Easy** | Unlimited guesses and helpful hints. |
+| **Normal** | The classic Wordle experience with standard attempt limits. |
+| **Hard** | **The Ultimate Challenge:** No names shown, only 3 clues, and 2 attempts. |
+| **Daily** | A synchronized daily puzzle (Resets at midnight UTC+8). |
+| **Unlimited** | Practice as much as you want with randomized targets. |
 
-Easy Mode: A forgiving experience with unlimited guesses, ideal for learning the roster.
+---
 
-Normal Mode: The classic Wordle experience.
+## 💡 How to Play
 
-Hard Mode: The ultimate challenge—no names provided, only 3 clues, and just 2 attempts allowed.
+1.  **Search & Select:** Start typing in the search bar and select a character or race.
+2.  **Read the Tiles:**
+    * 🟩 **Green:** Perfect Match.
+    * 🟨 **Yellow:** Close! (Within 1 rank for aptitudes, or within 400m for races).
+    * ⬛ **Gray:** Incorrect.
+3.  **Follow the Arrows:** In character mode, arrows (↑/↓) will tell you if the target's rank is higher or lower than your guess.
+---
 
-#How to Play
-Enter a Guess: Use the autocomplete search bar to select an Umamusume or a Race Course.
+## Created By
 
-Analyze Feedback: After each guess, the game provides color-coded tiles to guide you:
+**<img src="images\pat.png" width="50">Cephero Garde**
 
-🟩 Green: Exact match!
+If you have suggestions, found a bug, or just want to say hi, feel free to reach out:
 
-🟨 Yellow: Near match (e.g., within 1 rank for Umamusume aptitudes like A vs B, or within 400m for race distance).
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/cepherogarde) 
+[![X/Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/cepherogarde)
 
-⬛ Gray/Black: Far match.
-
-Directional Hints: In Umamusume mode, arrows (↑ or ↓) indicate if the target's rank is higher or lower than your guess.
+---
+<p align="center">Made with ❤️ for the Umamusume Community</p>
