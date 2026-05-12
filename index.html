@@ -19,11 +19,7 @@
     <meta property="twitter:image" content="https://tracendle.duckdns.org/images/umawordle logo.png">
     <meta name="theme-color" content="#15803d">
 </head>
-<body class="min-h-screen flex flex-col items-center p-4">
-    <main class="w-full max-w-2xl flex flex-col items-center px-2">
-    <div id="guess-list" class="w-full"></div> 
-    </main>
-
+<body class="min-h-screen flex flex-col items-center p-0">
     <header class="w-full max-w-6xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center py-4 mb-6 border-b-4 border-green-700 gap-4">
     <div class="flex items-center flex-shrink-0">
         <img src="images/umawordle logo.png" 
@@ -55,6 +51,8 @@
     
     
 </header>
+
+    <div class="w-full max-w-6xl mx-auto px-4 flex flex-col items-center">
 
     <div id="menu-screen" class="w-full max-w-md bg-white rounded-xl shadow-2xl p-8 flex flex-col gap-4">
         <div class="flex bg-gray-100 p-1 rounded-xl mb-2">
@@ -129,7 +127,8 @@
             </div>
         </footer>
     </div>
-<div id="game-toolbar" class="flex items-center w-full mb-3 px-2 gap-2" style="min-height:44px;">
+    <div id="game-screen" class="hidden w-full max-w-6xl flex flex-col items-center">
+        <div id="game-toolbar" class="flex items-center w-full mb-3 px-2 gap-2" style="min-height:44px;">
             <button onclick="showMenu()" 
                 style="min-width:80px; min-height:44px; padding: 8px 14px; touch-action:manipulation; -webkit-tap-highlight-color:transparent;"
                 class="flex-shrink-0 bg-green-700 text-white font-bold rounded-lg shadow active:scale-95 transition-transform text-sm">
@@ -138,7 +137,9 @@
             <div id="mode-indicator" class="flex-1 text-center font-black uppercase text-sm truncate" style="color:#dc2626;"></div>
             <div id="score-display" class="flex-shrink-0 font-bold text-green-800 text-sm text-right" style="min-width:80px;"></div>
         </div>
-    <div id="game-screen" class="hidden w-full max-w-6xl flex flex-col items-center">
+        <div class="text-sm font-bold text-gray-500">
+    Guesses Remaining: <span id="remaining-guesses"></span>
+</div>
         
         <div class="table-wrapper w-full">
             <table id="guesses" class="w-full text-center border-separate border-spacing-1 ">
@@ -147,14 +148,16 @@
                 <tbody id="guess-grid"></tbody>
             </table>
         </div>
-        <div id="input-container" class="relative w-full max-w-md mx-auto">
+        
+        
+    </div>
+<div id="input-container" class="relative w-full max-w-md mx-auto">
     <input type="text" id="uma-input" 
            class="w-full p-3 rounded-lg border-2 border-green-700" 
            placeholder="Enter Umamusume name...">
     <div id="autocomplete-list" class="hidden"></div>
     </div>
-        
-    </div>
+    </div><!-- end content wrapper -->
 
     <div id="help-modal" role="dialog" aria-modal="true" aria-labelledby="help-title" class="fixed inset-0 bg-black bg-opacity-50 hidden flex items-center justify-center p-4 z-[60]">
         <div class="bg-white rounded-2xl p-6 max-w-lg w-full shadow-2xl max-h-[90vh] overflow-y-auto text-left">
