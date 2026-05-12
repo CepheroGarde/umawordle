@@ -127,6 +127,7 @@
             </div>
         </footer>
     </div>
+    
     <div id="game-screen" class="hidden w-full max-w-6xl flex flex-col items-center">
         <div id="game-toolbar" class="flex items-center w-full mb-3 px-2 gap-2" style="min-height:44px;">
             <button onclick="showMenu()" 
@@ -134,11 +135,14 @@
                 class="flex-shrink-0 bg-green-700 text-white font-bold rounded-lg shadow active:scale-95 transition-transform text-sm">
                 ← Menu
             </button>
+            
             <div id="mode-indicator" class="flex-1 text-center font-black uppercase text-sm truncate" style="color:#dc2626;"></div>
             <div id="score-display" class="flex-shrink-0 font-bold text-green-800 text-sm text-right" style="min-width:80px;"></div>
         </div>
+        
         <div class="text-sm font-bold text-gray-500">
     Guesses Remaining: <span id="remaining-guesses"></span>
+    
 </div>
         
         <div class="table-wrapper w-full">
@@ -151,13 +155,14 @@
         
         
     </div>
-<div id="input-container" class="relative w-full max-w-md mx-auto">
-    <input type="text" id="uma-input" 
+    <div id="input-container" class="relative hidden w-full max-w-md mx-auto">
+        <input type="text" id="uma-input" 
            class="w-full p-3 rounded-lg border-2 border-green-700" 
            placeholder="Enter Umamusume name...">
-    <div id="autocomplete-list" class="hidden"></div>
+        <div id="autocomplete-list" class="hidden"></div>
     </div>
-    </div><!-- end content wrapper -->
+    
+    </div>
 
     <div id="help-modal" role="dialog" aria-modal="true" aria-labelledby="help-title" class="fixed inset-0 bg-black bg-opacity-50 hidden flex items-center justify-center p-4 z-[60]">
         <div class="bg-white rounded-2xl p-6 max-w-lg w-full shadow-2xl max-h-[90vh] overflow-y-auto text-left">
