@@ -4,7 +4,6 @@
     --uma-bg: #121212;
 }
 
-/* Anti-flicker: applied instantly before JS runs */
 html.dark-pre body {
     background-color: #0f172a;
     color: #e2e8f0;
@@ -459,7 +458,6 @@ body.dark .theme-toggle .moon-icon { display: block; }
 }
 
 
-/* Fix: header small buttons visibility in light mode */
 header button[aria-label="Open changelog"],
 header button[aria-label="Toggle theme"],
 header button[aria-label="Open help"] {
@@ -791,17 +789,15 @@ body.dark .border-t {
 
 #result-target-card {
     transition: all 0.3s ease;
-    width: 95%;          
-    max-width: 600px;    
-    margin: 0 auto 1.5rem auto;
+    width: 100%;
+    background: #f8fafc;
+    box-sizing: border-box;
 }
 
-/* Fix: ensure Continue button area never overlaps result card */
 #result-modal .p-8 {
     padding-bottom: 2rem;
 }
 
-/* Fix dark mode result modal background & text */
 body.dark #result-modal > div {
     background-color: #1e293b;
 }
@@ -821,7 +817,6 @@ body.dark #result-target-card #target-label {
     color: #94a3b8;
 }
 
-/* Fix dark mode: stat tag labels and values inside result card */
 body.dark #result-target-card .stat-tag-label {
     color: #94a3b8;
 }
@@ -835,41 +830,81 @@ body.dark #result-target-card .stat-tag {
     border-color: #475569;
 }
 
-/* Fix dark mode: aptitude grade letters in result target card */
 body.dark #result-target-card .correct,
 body.dark #result-target-card .attr-box {
     color: #ffffff;
 }
 
-/* Fix: stat boxes inside result target card */
 body.dark #result-target-card .bg-white {
     background-color: #1e293b !important;
     border-color: #475569 !important;
 }
 
-/* Fix: stat value text (the A/B/C grade letters and other values) */
 body.dark #result-target-card .font-black {
     color: #f1f5f9 !important;
 }
 
-/* Fix: stat label text */
 body.dark #result-target-card .text-slate-400 {
     color: #94a3b8 !important;
 }
 
-/* Fix: section title colors — brighten for dark bg */
 body.dark #result-target-card h4[class*="text-green-600"] { color: #34d399 !important; }
 body.dark #result-target-card h4[class*="text-blue-600"]  { color: #60a5fa !important; }
 body.dark #result-target-card h4[class*="text-purple-600"]{ color: #a78bfa !important; }
 body.dark #result-target-card h4[class*="text-orange-600"]{ color: #fb923c !important; }
 body.dark #result-target-card h4[class*="text-red-600"]   { color: #f87171 !important; }
 
-/* Fix dark mode result title and message */
 body.dark #result-title {
     color: #e2e8f0;
 }
 body.dark #result-msg {
     color: #94a3b8;
+}
+
+/* Streak Score Banner — matches the modal card surface */
+#loss-streak-banner {
+    background: #f8fafc;
+    border: 2px solid #e2e8f0;
+    border-radius: 1rem;
+    padding: 1rem 1.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+}
+.streak-banner-label {
+    display: block;
+    font-size: 0.625rem;
+    font-weight: 700;
+    color: #64748b;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+}
+.streak-banner-score {
+    display: block;
+    font-size: 2.5rem;
+    font-weight: 900;
+    color: #1e293b;
+    line-height: 1.1;
+}
+.streak-banner-sub {
+    display: block;
+    font-size: 0.75rem;
+    color: #94a3b8;
+    font-weight: 500;
+    margin-top: 2px;
+}
+body.dark #loss-streak-banner {
+    background: #1e293b;
+    border-color: #334155;
+}
+body.dark .streak-banner-label {
+    color: #94a3b8;
+}
+body.dark .streak-banner-score {
+    color: #e2e8f0;
+}
+body.dark .streak-banner-sub {
+    color: #64748b;
 }
 
 .result-modal img {
@@ -885,6 +920,106 @@ body.dark #result-msg {
     #result-target-card {
         padding: 1rem;
     }
+}
+
+/* =============================================
+   RESULT MODAL — Compact Card (No-Scroll)
+   ============================================= */
+
+.result-modal-card {
+    display: flex;
+    flex-direction: column;
+    max-height: 96vh;
+}
+
+.result-modal-body {
+    padding: 1rem 1.25rem 1.25rem;
+    overflow-y: auto;
+    flex: 1;
+    /* hide scrollbar but allow scroll if ever needed */
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+.result-modal-body::-webkit-scrollbar { display: none; }
+
+/* Target header: image + name side by side */
+.result-target-thumb {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    border-radius: 10px;
+    background: #f1f5f9;
+    flex-shrink: 0;
+}
+
+/* Section wrapper */
+.result-stat-section {
+    margin-bottom: 6px;
+}
+
+/* Section title row */
+.result-stat-section-title {
+    font-size: 9px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 4px;
+    display: block;
+}
+
+/* Horizontal pill row for stats */
+.result-stat-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+}
+
+/* Individual stat pill */
+.result-stat-pill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #f1f5f9;
+    border: 1.5px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 4px 8px;
+    min-width: 44px;
+    flex: 1;
+    text-align: center;
+}
+
+.result-stat-pill-label {
+    font-size: 8px;
+    font-weight: 700;
+    color: #94a3b8;
+    text-transform: uppercase;
+    line-height: 1;
+    margin-bottom: 2px;
+}
+
+.result-stat-pill-value {
+    font-size: 13px;
+    font-weight: 900;
+    color: #1e293b;
+    line-height: 1;
+}
+
+/* Dark mode for new styles */
+body.dark .result-stat-pill {
+    background: #1e293b;
+    border-color: #334155;
+}
+body.dark .result-stat-pill-label { color: #64748b; }
+body.dark .result-stat-pill-value { color: #f1f5f9; }
+body.dark .result-target-thumb { background: #334155; }
+
+/* Mobile tweaks */
+@media (max-width: 480px) {
+    .result-modal-body { padding: 0.75rem 0.9rem 1rem; }
+    .result-target-thumb { width: 50px; height: 50px; }
+    .result-stat-pill { padding: 3px 6px; min-width: 38px; }
+    .result-stat-pill-value { font-size: 12px; }
 }
 
 .stat-label {
@@ -1120,7 +1255,6 @@ body.dark .head-course { background-color: #064e3b; color: #34d399; }
     position: relative;
 }
 
-/* ── Picker panel (virtual keyboard style) ─────────────────── */
 .picker-search-bar {
     padding: 4px 0 4px;
 }

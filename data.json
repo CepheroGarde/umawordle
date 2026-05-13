@@ -768,5 +768,20 @@
     "end": "G",
     "turf": "A",
     "dirt": "G"
+  },
+  {
+    "name": "Taiki Shuttle",
+    "image": "images/uma/Taiki_Shuttle.webp",
+    "sprint": "A",
+    "mile": "A",
+    "med": "E",
+    "long": "G",
+    "front": "C",
+    "pace": "A",
+    "late": "E",
+    "end": "G",
+    "turf": "A",
+    "dirt": "B"
   }
+  
 ]
