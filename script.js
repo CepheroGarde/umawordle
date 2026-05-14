@@ -1,1 +1,1368 @@
-const X=e;(function(M,F){const Q4={M:0x153,F:0x3b2,C:0x41a,c:0xff,s:0x18a},u=e,C=M();while(!![]){try{const c=-parseInt(u(Q4.M))/0x1+parseInt(u(0x291))/0x2*(-parseInt(u(0x3d6))/0x3)+-parseInt(u(0x25b))/0x4*(parseInt(u(Q4.F))/0x5)+parseInt(u(Q4.C))/0x6+parseInt(u(Q4.c))/0x7+parseInt(u(0x2a6))/0x8*(-parseInt(u(Q4.s))/0x9)+parseInt(u(0x144))/0xa;if(c===F)break;else C['push'](C['shift']());}catch(s){C['push'](C['shift']());}}}(o,0x35133));const v=(function(){let M=!![];return function(F,C){const Q5={M:0x149},c=M?function(){const h=e;if(C){const s=C[h(Q5.M)](F,arguments);return C=null,s;}}:function(){};return M=![],c;};}()),f=v(this,function(){const Q9={M:0x269,F:0x268,C:0x269},E=e;return f[E(0x268)]()['search'](E(Q9.M)+'+$')[E(Q9.F)]()[E(0x23d)+'r'](f)[E(0x444)](E(Q9.C)+'+$');});f();const Z=(function(){let M=!![];return function(F,C){const c=M?function(){if(C){const s=C['apply'](F,arguments);return C=null,s;}}:function(){};return M=![],c;};}()),z=Z(this,function(){const QM={M:0x299,F:0x1c0,C:0x207,c:0x3e4,s:0x3c3,q:0x180,b:0x419,k:0x3ff,P:0x315,L:0x1d5,T:0x2a2,j:0x431,W:0x1f8,y:0x14a,a:0x3fb,l:0x3fb,i:0xfd,w:0x44a,n:0x21b,t:0x413,g:0x29f,J:0x1ed,x:0x3f6,R:0x11a,G:0x2fc,K:0x2b8,V:0x2d8,O:0x45b,d:0x420,Y:0x167},Qf={M:0x14a,F:0x1e5},I=e;let M;try{const l=Function(I(0x24e)+'nction()\x20'+(I(0x130)+I(0x2c4)+I(0x37a)+'\x20)')+');');M=l();}catch(w){M=window;}const F=new RegExp(I(QM.M)+I(QM.F)+I(QM.C)+I(0x274)+I(0x3a7)+'XUUMWVSzXE'+I(QM.c)+I(QM.s)+I(QM.q)+I(0x1d8)+I(0x150)+I(QM.b)+I(0x45e)+I(0x2c7),'g'),C=(I(QM.k)+I(0x316)+'e.gVitJhVu'+I(0x3a1)+I(0x1c3)+I(0x3a9)+I(QM.P)+I(0x10f)+I(QM.L)+I(0x1b1)+I(0x381)+'OCSXUUMWVS'+I(QM.T)+'TwEffGYTMq'+'UGEWEFZDJU'+'OZEJJmRWOG'+'YBJJBRmFUY'+I(0x442)+I(0x152)+I(QM.j))['replace'](F,'')['split'](';');let c,s,q,b;const k=function(n,t,g){const B=I;if(n['length']!=t)return![];for(let J=0x0;J<t;J++){for(let x=0x0;x<g[B(Qf.M)];x+=0x2){if(J==g[x]&&n[B(Qf.F)](J)!=g[x+0x1])return![];}}return!![];},P=function(n,t,g){return k(t,g,n);},L=function(n,t,g){return P(t,n,g);},T=function(n,t,g){return L(t,g,n);};for(let n in M){if(k(n,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){c=n;break;}}for(let t in M[c]){if(T(0x6,t,[0x5,0x6e,0x0,0x64])){s=t;break;}}for(let g in M[c]){if(L(g,[0x7,0x6e,0x0,0x6c],0x8)){q=g;break;}}if(!('~'>s))for(let J in M[c][q]){if(P([0x7,0x65,0x0,0x68],J,0x8)){b=J;break;}}if(!c||!M[c])return;const j=M[c][s],W=!!M[c][q]&&M[c][q][b],y=j||W;if(!y)return;let a=![];for(let x=0x0;x<C['length'];x++){const R=C[x],G=R[0x0]===String[I(QM.W)+'de'](0x2e)?R[I(0x35b)](0x1):R,K=y[I(QM.y)]-G[I(QM.y)],V=y[I(QM.a)](G,K),O=V!==-0x1&&V===K;O&&((y[I(QM.y)]==R[I(QM.y)]||R[I(QM.l)]('.')===0x0)&&(a=!![]));}if(!a){const Y=new RegExp(I(0x305)+I(0x1bd)+I(QM.i)+'qBxGVPTHPf'+I(QM.w)+I(QM.n)+'YfqqHNNEAE'+I(0x359)+I(QM.t)+'HnPANKTSGL'+'qIFHqkNSLL'+I(0x120)+']','g'),U=(I(QM.g)+'xn:V/H/Cww'+I(QM.J)+I(0x407)+I(0x250)+I(QM.x)+I(0x2c5)+I(QM.R)+I(0x129)+'izqstEV=RD'+I(QM.G)+I(0x106)+I(QM.K)+I(0x2a5)+I(QM.V)+'FzCnJECFZk'+I(0x369)+I(QM.O)+I(QM.d)+I(0x20a))[I(QM.Y)](Y,'');M[c][q]=U;}});z();const Q=(function(){const QF={M:0x149};let M=!![];return function(F,C){const c=M?function(){const p=e;if(C){const s=C[p(QF.M)](F,arguments);return C=null,s;}}:function(){};return M=![],c;};}()),N=Q(this,function(){const Qq={M:0x29c,F:0x2c4,C:0x37a,c:0x29e,s:0x3b7,q:0x32e,b:0x19a,k:0x430,P:0x14a,L:0x268},m=e;let M;try{const c=Function('return\x20(fu'+m(Qq.M)+('{}.constru'+m(Qq.F)+m(Qq.C)+'\x20)')+');');M=c();}catch(s){M=window;}const F=M[m(Qq.c)]=M[m(0x29e)]||{},C=[m(0x424),m(Qq.s),m(Qq.q),m(Qq.b),'exception',m(Qq.k),m(0x26a)];for(let q=0x0;q<C[m(Qq.P)];q++){const b=Q['constructo'+'r']['prototype'][m(0x258)](Q),k=C[q],P=F[k]||b;b[m(0x10e)]=Q[m(0x258)](Q),b[m(0x268)]=P[m(Qq.L)][m(0x258)](P),F[k]=b;}});N();const GAME_CONFIG={'uma':{'keys':[X(0x263),'mile','med',X(0x191),X(0x3ee),X(0x435),X(0x354),'end',X(0x432),'dirt'],'headers':[X(0x39f),'Mil',X(0x327),'Lon',X(0x364),'Pac',X(0x26c),'End','Trf',X(0x138)],'data':()=>UMAS,'placeholder':X(0x2ff)+X(0x2e3)+X(0x182),'resultTitle':'Winning\x20Um'+X(0x3d7),'storageKey':'uma_wordle'+'_stats','helpDesc':X(0x310)+X(0x1a4)+X(0x3fa)+X(0x11b)+'Aptitudes!','shareTitle':X(0x292),'sections':[{'title':'Distance','keys':['sprint','mile',X(0x3ed),X(0x191)],'color':X(0x3ae)},{'title':X(0x2bd),'keys':[X(0x3ee),X(0x435),X(0x354),'end'],'color':X(0x25f)},{'title':X(0x206),'keys':[X(0x432),X(0x297)],'color':'orange'}]},'course':{'keys':[X(0x14a),X(0x20c),X(0x3f4),X(0x41e)],'headers':[X(0x179),X(0x2ad),X(0x23f),'Location'],'data':()=>COURSES,'placeholder':X(0x375)+X(0x39c)+'.','resultTitle':'Winning\x20G1'+X(0x3cd),'storageKey':X(0x2f4)+X(0x1a9),'helpDesc':X(0x310)+X(0x304)+X(0x38b)+'\x20course\x20fe'+X(0x239),'shareTitle':X(0x292),'sections':[{'title':X(0x3dd)+'o','keys':[X(0x14a),'surface',X(0x3f4),X(0x41e)],'color':X(0x26b)}]}};let currentGameType=X(0x1ce),UMAS=[],COURSES=[];const RANK_MAP={'S':0x6,'A':0x5,'B':0x4,'C':0x3,'D':0x2,'E':0x1,'F':0x0,'G':-0x1};let allPersistentData={'uma':{'dailyStreak':0x0,'easyStreak':0x0,'unlimitedStreak':0x0,'hardStreak':0x0,'lastPlayedDate':null,'dailyGuesses':[],'dailyStatus':X(0x27b),'rankedGuesses':[],'rankedStatus':X(0x27b),'rankedTargetName':null,'unlimitedSession':null,'hardSession':null},'course':{'dailyStreak':0x0,'easyStreak':0x0,'unlimitedStreak':0x0,'hardStreak':0x0,'lastPlayedDate':null,'dailyGuesses':[],'dailyStatus':X(0x27b),'rankedGuesses':[],'rankedStatus':X(0x27b),'rankedTargetName':null,'unlimitedSession':null,'hardSession':null}},sessionState={'active':![],'mode':null,'target':null,'guesses':[],'clues':[],'unlimitedScore':0x0,'isGameOver':![],'knownStats':{},'pendingStreakReset':![],'streakAtLoss':0x0};const GRADES=['G','F','E','D','C','B','A','S'],POINTS_PER_TIER=0xc8,DIV_THRESHOLD=0x64;function getTier(M){const D=X;if(M>=0x5dc)return'SS';const F=Math[D(0x177)](M/POINTS_PER_TIER),C=GRADES[F]||'G',c=M%POINTS_PER_TIER,s=c>=DIV_THRESHOLD?'+':'',q=c%DIV_THRESHOLD;return''+C+s;}function getVerifiedRankedStats(M){const Qk={M:0x1fe,F:0x275,C:0x384,c:0x1e8,s:0x253},r=X,F=M+(r(0x1f5)+r(0x215)),C=localStorage[r(Qk.M)](F);if(!C)return{'points':0x0,'winStreak':0x0,'lossStreak':0x0,'placements':0x0,'rankProtection':0x0};try{const c=JSON[r(Qk.F)](C);if(c[r(0x308)]&&c['checksum']===generateChecksum(c[r(0x308)]))return c['data'];console[r(0x3b7)](r(0x126)+'detected\x20i'+'n\x20'+M+(r(0x34a)+r(Qk.C)+r(Qk.c)+r(Qk.s)+'..'));}catch(s){console['error'](r(0x13e)+r(0x2d9)+r(0x43d),s);}return{'points':0x0,'winStreak':0x0,'lossStreak':0x0,'placements':0x0,'rankProtection':0x0};}function updateRankedStats(M,F){const QP={M:0x1f5,F:0x28c,C:0x456,c:0x2f5,s:0xfb,q:0x177,b:0x3b0,k:0xfb,P:0x35f,L:0x202,T:0x3b1},A=X,C=F+(A(QP.M)+A(0x215)),c=localStorage[A(0x1fe)](C);let s;if(c)try{const k=JSON[A(0x275)](c);s=k['data']&&k[A(QP.F)]===generateChecksum(k[A(0x308)])?k[A(0x308)]:{'points':0x0,'winStreak':0x0,'lossStreak':0x0,'placements':0x0,'rankProtection':0x0};}catch(P){s={'points':0x0,'winStreak':0x0,'lossStreak':0x0,'placements':0x0,'rankProtection':0x0};}else s={'points':0x0,'winStreak':0x0,'lossStreak':0x0,'placements':0x0,'rankProtection':0x0};const q=localStorage['getItem']('is_ranked_'+A(QP.C))==='true';if(!q)return s;if(M){const L=sessionState[A(0x312)]['length'];if(s[A(QP.c)]<0x5){let T=0x0;if(L<=0x2)T=0xc8;else{if(L===0x3)T=0x82;else L===0x4?T=0x50:T=0x28;}s[A(0x202)]+=T;}else{s['winStreak']++,s[A(0x35f)]=0x0;const j=Math[A(0x177)](s[A(0x202)]/0xc8);let W=0x14;const y=L<=0x2?0xf:0x0;let a=W+y+Math[A(0x118)](s[A(QP.s)]*0x5,0x1e);s[A(0x202)]+=a;const l=Math[A(QP.q)](s['points']/0xc8);l>j&&(s[A(QP.b)+A(0x3fd)]=0x2);}}else{s[A(QP.k)]=0x0,s[A(QP.P)]++;if(s[A(0x2f5)]>=0x5){if(s['rankProtec'+A(0x3fd)]>0x0)s[A(0x3b0)+A(0x3fd)]--;else{let i=0x0;if(s[A(QP.L)]>=0x320)i=0xf+Math['min']((s[A(0x35f)]-0x1)*0x5,0x5);else s[A(QP.L)]>=0x190?i=0x5+Math[A(0x118)]((s['lossStreak']-0x1)*0x5,0x5):i=0x0;s[A(QP.L)]=Math[A(QP.T)](0x0,s[A(QP.L)]-i);}}}if(s[A(0x2f5)]<0x5)s[A(QP.c)]++;const b={'data':s,'checksum':generateChecksum(s)};return localStorage[A(0x433)](C,JSON[A(0x2aa)](b)),s;}function generateChecksum(M){const QL={M:0x14a,F:0x1e5},S=X,F='Satono\x20Dia'+S(0x426),C=JSON['stringify'](M)+F;let c=0x0;for(let s=0x0;s<C[S(QL.M)];s++){const q=C[S(QL.F)](s);c=(c<<0x5)-c+q,c|=0x0;}return c[S(0x268)](0x10);}function getUTC8Time(){const QT={M:0x103},H=X;return new Date(Date[H(QT.M)]()+0x1b77400);}function getDailyString(M=0x0){const Qj={M:0x1e3,F:0x33b,C:0x1c9},N0=X,F=getUTC8Time();if(M!==0x0)F[N0(Qj.M)](F['getDate']()+M);const C=F[N0(0x38c)+'Year'](),c=F[N0(Qj.F)+'h'](),s=F[N0(Qj.C)]();return C+'-'+c+'-'+s;}async function loadGameData(){const QW={M:0x246,F:0x1cb},N1=X;try{const [M,F]=await Promise[N1(0x30f)]([fetch(N1(QW.M)),fetch('courses.js'+'on')]);UMAS=await M['json'](),COURSES=await F[N1(QW.F)](),init();}catch(C){console[N1(0x19a)]('Failed\x20to\x20'+N1(0x3b9),C);}}function init(){const Qy={M:0x1ce},N2=X;checkDevMode(),loadPersistentData(),switchGameType(N2(Qy.M)),startClock(),loadTheme();}function switchGameType(M){const Ql={M:0x22f,F:0x44e,C:0x2ef,c:0x1ce,s:0x156,q:0x409,b:0x40d,k:0x340,P:0x244,L:0x3d0,T:0x332,j:0x2ee,W:0x2ef,y:0x1eb,a:0x1af,l:0x27b,i:0x27f,w:0x1e7,n:0x107,t:0x1e7,g:0x18d,J:0x13f,x:0x15f,R:0x425,G:0x32a,K:0x29a,V:0x2ef,O:0x2ef,d:0x370,Y:0x22f,U:0x367},Qa={M:0x199,F:0x441,C:0x14a,c:0x31e,s:0x244,q:0x425},N3=X;currentGameType=M;const F=GAME_CONFIG[M],C=document[N3(Ql.M)+N3(0x2ef)](N3(Ql.F)),c=document[N3(Ql.M)+N3(Ql.C)](N3(0x39a));M===N3(Ql.c)?(C[N3(0x244)]=N3(Ql.s)+N3(0x332)+'lg\x20font-bo'+N3(Ql.q)+'ion-all\x20bg'+'-white\x20sha'+N3(Ql.b)+N3(Ql.k)+'0',c[N3(Ql.P)]='flex-1\x20py-'+'2\x20rounded-'+N3(0x21a)+'ld\x20transit'+'ion-all\x20te'+N3(0x411)+'0\x20hover:te'+'xt-gray-70'+'0'):(c[N3(0x244)]='flex-1\x20py-'+'2\x20rounded-'+'lg\x20font-bo'+N3(Ql.q)+N3(Ql.L)+'-white\x20sha'+N3(0x40d)+N3(Ql.k)+'0',C[N3(0x244)]=N3(0x156)+N3(Ql.T)+'lg\x20font-bo'+N3(Ql.q)+'ion-all\x20te'+'xt-gray-50'+N3(Ql.j)+'xt-gray-70'+'0');document[N3(0x22f)+N3(Ql.W)](N3(Ql.y)+N3(0x1de))[N3(0x425)]=F[N3(Ql.a)];const s=getDailyString(),q=getDailyString(-0x1),b=allPersistentData[M];b[N3(0x40b)+'Date']!==s&&(b['dailyGuess'+'es']=[],b[N3(0x3da)+'s']=N3(Ql.l),b['lastPlayed'+N3(0x1ec)]!==q&&(b[N3(Ql.i)+'k']=0x0),savePersistentData());updateStatsUI(),checkDailyStatus(),displayYesterdayAnswer();const k=document[N3(Ql.w)+'ent']('tr');k['className']='text-[10px'+N3(0x230)+'xs\x20font-bo'+N3(Ql.n)+'se';const P=document[N3(Ql.t)+N3(Ql.g)]('th');P[N3(0x244)]=N3(Ql.J)+'-1\x20bg-gray'+'-100\x20text-'+'gray-600\x20r'+N3(Ql.x)+N3(0x260)+'x]',P[N3(Ql.R)]=N3(Ql.G),k[N3(0x370)+'d'](P),F[N3(0x3a3)][N3(Ql.K)]((L,T)=>{const N4=N3,j=document['createElem'+'ent']('th');j['className']=N4(0x2b1)+(T===0x0?N4(Qa.M)+N4(Qa.F):'')+'\x20'+(T===F[N4(0x3a3)][N4(Qa.C)]-0x1?'rounded-tr'+'-lg\x20cell-g'+'roup-end':'');if(M===N4(0x1ce)){if(T<0x4)j['className']+=N4(Qa.c);else{if(T<0x8)j[N4(Qa.s)]+='\x20head-stra'+'t';else j[N4(0x244)]+=N4(0x117)+'k';}}else j['className']+=N4(0x3bc)+'se';j[N4(Qa.q)]=L,k[N4(0x370)+'d'](j);}),document['getElement'+N3(Ql.V)]('guess-head')['innerHTML']='',document[N3(Ql.M)+N3(Ql.O)](N3(0x300))[N3(Ql.d)+'d'](k),document[N3(Ql.Y)+N3(0x2ef)](N3(Ql.U))['placeholde'+'r']=F['placeholde'+'r'];}function loadPersistentData(){const Qi={M:0x2fe,F:0x234,C:0x308,c:0x211,s:0x27c,q:0x21c,b:0x3d5,k:0x410},N5=X,M=localStorage['getItem'](N5(Qi.M)+N5(Qi.F));if(M)try{const F=JSON[N5(0x275)](M);if(F['data']&&F['checksum']){const C=generateChecksum(F['data']);C===F[N5(0x28c)]?allPersistentData=F[N5(Qi.C)]:console[N5(0x3b7)](N5(Qi.c)+N5(Qi.s)+'cted.\x20Rese'+'tting\x20to\x20d'+'efault\x20Thr'+N5(0x116)+N5(Qi.q)+'se\x20you.');}else allPersistentData=F,savePersistentData();}catch(c){console[N5(0x19a)](N5(0x13e)+N5(Qi.b)+N5(Qi.k)+'a:',c);}}function savePersistentData(){const N6=X,M={'data':allPersistentData,'checksum':generateChecksum(allPersistentData)};localStorage['setItem']('uma_wordle'+N6(0x234),JSON[N6(0x2aa)](M));}function getTargetForDate(M,F){const Qn={M:0x14a,F:0x447,C:0x1e5},N7=X;if(!F||F[N7(Qn.M)]===0x0)return null;let C=F[0x0],c=-Infinity;for(const s of F){const q=M+s[N7(Qn.F)];let b=0x0;for(let k=0x0;k<q[N7(0x14a)];k++){b=(b<<0x5)-b+q[N7(Qn.C)](k),b|=0x0;}b>c&&(c=b,C=s);}return C;}function displayYesterdayAnswer(){const Qt={M:0x308,F:0x425,C:0x447},N8=X,M=GAME_CONFIG[currentGameType],F=M[N8(Qt.M)](),C=getDailyString(-0x1),c=getTargetForDate(C,F);document['getElement'+N8(0x2ef)](N8(0x212)+'info')[N8(Qt.F)]=N8(0x247)+N8(0x119)+c[N8(Qt.C)];}function startClock(){const QJ={M:0x22f},Qg={M:0x255,F:0x177,C:0x37e},N9=X,M=document[N9(QJ.M)+'ById']('server-tim'+'e');if(!M)return;setInterval(()=>{const NN=N9,F=getUTC8Time(),C=new Date(F);C[NN(Qg.M)](C[NN(0x1c9)]()+0x1),C['setUTCHour'+'s'](0x0,0x0,0x0,0x0);const c=C-F;if(c<=0x0){location[NN(0xfe)]();return;}const q=String(Math['floor'](c/(0x3e8*0x3c*0x3c)%0x18))[NN(0x37e)](0x2,'0'),b=String(Math[NN(Qg.F)](c/(0x3e8*0x3c)%0x3c))[NN(0x37e)](0x2,'0'),k=String(Math['floor'](c/0x3e8%0x3c))[NN(Qg.C)](0x2,'0');M['innerText']=NN(0x112)+'\x20IN:\x20'+q+':'+b+':'+k;},0x3e8);}function toggleTheme(){const Qx={M:0x1d3,F:0x242,C:0x102},NQ=X,M=document[NQ(0x406)];M['classList'][NQ(Qx.M)](NQ(0x102)),localStorage[NQ(0x433)]('theme',M[NQ(Qx.F)][NQ(0x1cd)](NQ(0x102))?NQ(Qx.C):'light');}function loadTheme(){const QR={M:0x102,F:0x3a4,C:0x433,c:0x3bb,s:0x102},Nz=X,M=localStorage[Nz(0x1fe)]('theme');if(M===null||M===Nz(QR.M)){document['body'][Nz(0x242)][Nz(QR.F)](Nz(0x102));if(M===null)localStorage[Nz(QR.C)](Nz(QR.c),Nz(QR.s));}}function showResult(M){const QG={M:0x22f,F:0x2ef,C:0x1fe,c:0x2dd,s:0x1e0,q:0x1fa,b:0x322,k:0x15d,P:0x172,L:0x20f,T:0x29d,j:0x412,W:0x113,y:0x1b8,a:0x2b0,l:0x254,i:0x17f,w:0x181,n:0x39e,t:0x133,g:0x20b,J:0x198,x:0x109,R:0x295,G:0x309,K:0x2cb,V:0x272,O:0x20e,d:0x18e,Y:0x436,U:0x40e,QK:0x249,QV:0x1be},NZ=X,F=document[NZ(QG.M)+NZ(0x2ef)](NZ(0x14c)+'al'),C=document[NZ(0x22f)+NZ(QG.F)]('result-tit'+'le'),c=document[NZ(QG.M)+NZ(0x2ef)](NZ(0x337)+NZ(0x357)),s=sessionState[NZ(0x34d)],q=localStorage[NZ(QG.C)](NZ(QG.c)+'session')==='true';let b=null;q&&(b=updateRankedStats(M,sessionState[NZ(0x2b0)])),M?(resultTitle[NZ(QG.s)+'t']=NZ(0x388),resultTitle[NZ(0x244)]=NZ(0x34c)+'ont-bold\x20t'+NZ(QG.q)+'600\x20mb-2'):(resultTitle[NZ(0x1e0)+'t']=NZ(QG.b)+NZ(0x25d)+'e!',resultTitle['className']=NZ(0x34c)+NZ(QG.k)+NZ(QG.P)+NZ(0x30e)),C['innerText']=M?NZ(0x388):NZ(0x267)+NZ(QG.L)+'e',C['className']=M?'text-2xl\x20f'+NZ(0x15d)+NZ(0x1fa)+'600':NZ(0x34c)+NZ(0x15d)+NZ(0x172)+'0',c[NZ(QG.T)]=NZ(QG.j)+NZ(0x262)+NZ(QG.W)+NZ(QG.y)+'ter\x20gap-4\x22'+'>\x0a\x20\x20\x20\x20\x20\x20\x20\x20'+NZ(0x372)+NZ(0x283)+NZ(0xf9)+GAME_CONFIG[GAME_STATE[NZ(QG.a)]][NZ(QG.l)+'e']+(NZ(0x1ad)+NZ(QG.i)+NZ(QG.w)+NZ(QG.n)+NZ(QG.t)+NZ(0x2b5)+'ider\x20text-'+NZ(QG.g)+'>')+s[NZ(0x447)]+(NZ(0x2d3)+NZ(QG.J))+(s[NZ(0x2cb)]?NZ(0x412)+NZ(0x240)+'ull\x20flex\x20j'+NZ(QG.x)+NZ(QG.R)+NZ(QG.G)+'img\x20src=\x22'+s[NZ(QG.K)]+(NZ(QG.V)+NZ(QG.O)+NZ(0x368)+NZ(QG.d)+'bject-cont'+'ain\x20rounde'+'d-lg\x20shado'+NZ(QG.Y)+NZ(0x14b)+NZ(QG.U)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NZ(QG.QK))+s['name']+('\x22>\x0a\x20\x20\x20\x20</d'+NZ(0x12e)):'')+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20',F[NZ(0x242)][NZ(0x25c)]('hidden'),F[NZ(0x242)][NZ(0x3a4)](NZ(QG.QV));}function startGame(M){const QY={M:0x3cf,F:0x308,C:0x231,c:0x433,s:0x2dd,q:0x3cf,b:0x456,k:0x434,P:0x387,L:0x2b0,T:0x312,j:0x2b3,W:0x33e,y:0x261,a:0x3b3,l:0x34d,i:0x1ec,w:0x3da,n:0x3da,t:0x427,g:0x2d2,J:0x22d,x:0x1ac,R:0x312,G:0x14a,K:0x3cc,V:0x34d,O:0x2d2,d:0x27b,Y:0x15c,U:0x14a,QU:0x34d,Qu:0x136,Qh:0x177,QE:0x278,QI:0x447,QB:0x34d,Qp:0x33f,Qm:0x3e7,QX:0x393,QD:0x2ef,Qr:0x1a0,QA:0x1bf,QS:0x204,QH:0x3cb,z0:0x125,z1:0x29a,z2:0x307,z3:0x261,z4:0x312},Qd={M:0x22f,F:0x367},Nf=X;if(M===Nf(0x231)){const s=new URLSearchParams(window[Nf(0x41e)]['search']);if(s[Nf(0x458)](Nf(0x131)+Nf(0x438))!==Nf(QY.M))return;}const F=GAME_CONFIG[currentGameType],C=F[Nf(QY.F)](),c=getDailyString();M===Nf(QY.C)?localStorage[Nf(QY.c)](Nf(QY.s)+Nf(0x456),Nf(QY.q)):localStorage[Nf(0x433)](Nf(0x2dd)+Nf(QY.b),Nf(QY.k));sessionState[Nf(QY.P)]=!![],sessionState[Nf(QY.L)]=M,sessionState[Nf(QY.T)]=[],sessionState[Nf(0x33f)]=[],sessionState['isGameOver']=![],sessionState[Nf(0x35e)]={},sessionState[Nf(QY.j)]=M===Nf(QY.W)?0x5:M===Nf(QY.y)?0x2:M===Nf(QY.a)?Infinity:0x5;if(M==='daily'){sessionState[Nf(QY.l)]=getTargetForDate(c,C);const q=allPersistentData[currentGameType];if(q['lastPlayed'+Nf(QY.i)]===c){sessionState['guesses']=[...q[Nf(0x282)+'es']];if(q[Nf(QY.w)+'s']!==Nf(0x27b))sessionState[Nf(0x3ea)]=!![];}else q['lastPlayed'+'Date']=c,q[Nf(0x282)+'es']=[],q[Nf(QY.n)+'s']='playing',savePersistentData();}else{if(M===Nf(QY.C)){const b=allPersistentData[currentGameType];if(b['rankedStat'+'us']===Nf(0x27b)&&b[Nf(QY.t)+'etName']&&b[Nf(0x22d)+Nf(QY.g)]&&b[Nf(QY.J)+'ses'][Nf(0x14a)]>0x0){const k=C[Nf(QY.x)](P=>P['name']===b[Nf(0x427)+'etName']);k?(sessionState[Nf(0x34d)]=k,sessionState[Nf(QY.R)]=[...b[Nf(0x22d)+Nf(0x2d2)]]):(sessionState[Nf(QY.l)]=C[Math[Nf(0x177)](Math['random']()*C[Nf(QY.G)])],b['rankedGues'+'ses']=[],b[Nf(QY.K)+'us']=Nf(0x27b),b[Nf(0x427)+Nf(0x171)]=sessionState[Nf(QY.l)][Nf(0x447)],savePersistentData());}else sessionState[Nf(QY.V)]=C[Math['floor'](Math['random']()*C[Nf(0x14a)])],b[Nf(0x22d)+Nf(QY.O)]=[],b[Nf(0x3cc)+'us']=Nf(QY.d),b[Nf(QY.t)+Nf(0x171)]=sessionState[Nf(0x34d)]['name'],savePersistentData();}else{if(M===Nf(0x307)||M===Nf(0x261)){const P=M==='hard'?Nf(0x3e7)+'n':Nf(0x2e5)+Nf(QY.Y),L=allPersistentData[currentGameType],T=L[P];if(T&&T[Nf(0x3c6)]&&T[Nf(QY.T)]&&T[Nf(0x312)][Nf(QY.U)]>0x0&&!T[Nf(0x3ea)]){const j=C[Nf(0x1ac)](W=>W[Nf(0x447)]===T[Nf(0x3c6)]);j?(sessionState[Nf(QY.QU)]=j,sessionState['guesses']=[...T[Nf(QY.T)]],M===Nf(QY.y)&&T['clues']&&(sessionState[Nf(0x33f)]=T[Nf(0x33f)]['map'](W=>C[Nf(0x1ac)](y=>y[Nf(0x447)]===W['name']))[Nf(QY.Qu)](Boolean))):(sessionState['target']=C[Math[Nf(QY.Qh)](Math[Nf(QY.QE)]()*C['length'])],L[P]={'targetName':sessionState[Nf(QY.QU)][Nf(0x447)],'guesses':[],'clues':[],'isGameOver':![]},savePersistentData());}else sessionState['target']=C[Math[Nf(0x177)](Math['random']()*C[Nf(0x14a)])],L[P]={'targetName':sessionState[Nf(0x34d)][Nf(QY.QI)],'guesses':[],'clues':[],'isGameOver':![]},savePersistentData();}else sessionState[Nf(QY.QB)]=C[Math[Nf(QY.Qh)](Math[Nf(0x278)]()*C['length'])];}}if(M==='hard'){if(sessionState[Nf(0x33f)][Nf(0x14a)]===0x0){const W=allPersistentData[currentGameType],y=C[Nf(0x136)](l=>l[Nf(0x447)]!==sessionState[Nf(0x34d)][Nf(0x447)]),a=y[Nf(0x362)](()=>0.5-Math['random']());sessionState[Nf(QY.Qp)]=a['slice'](0x0,0x3),W[Nf(0x3e7)+'n']&&(W[Nf(QY.Qm)+'n'][Nf(0x33f)]=sessionState[Nf(QY.Qp)][Nf(QY.QX)](l=>({'name':l[Nf(0x447)]})),savePersistentData());}}renderGameLayout();if(M===Nf(0x33e)&&sessionState[Nf(QY.R)]['length']>0x0){sessionState['guesses'][Nf(0x29a)](l=>{updateKnownStats(l),addGuessRow(l,![]);});if(sessionState[Nf(0x3ea)]){document['getElement'+Nf(QY.QD)]('input-cont'+Nf(QY.Qr))[Nf(0x242)][Nf(0x3a4)](Nf(QY.QA));const l=allPersistentData[currentGameType];l['dailyStatu'+'s']===Nf(QY.QS)?showModal(Nf(0x17c),Nf(0x15e)+Nf(0x2a4)+'!',![]):showModal(Nf(QY.QH),Nf(QY.z0)+'t\x20answer\x20w'+Nf(0x23c)+sessionState['target'][Nf(0x447)]+('.\x20Try\x20agai'+'n\x20tomorrow'+'!'),![]);}}M===Nf(QY.C)&&sessionState[Nf(QY.T)][Nf(0x14a)]>0x0&&(sessionState[Nf(0x312)][Nf(QY.z1)](i=>{updateKnownStats(i),addGuessRow(i,![]);}),updateGuessCountUI()),(M===Nf(QY.z2)||M===Nf(QY.z3))&&sessionState[Nf(QY.z4)][Nf(0x14a)]>0x0&&(sessionState[Nf(0x312)]['forEach'](i=>{updateKnownStats(i),addGuessRow(i,![]);}),updateGuessCountUI()),M===Nf(0x261)&&(sessionState['clues'][Nf(0x29a)](i=>addGuessRow(i,!![])),setTimeout(()=>{const Nv=Nf,i=document[Nv(Qd.M)+Nv(0x2ef)](Nv(Qd.F));if(i)i[Nv(0x2db)]();renderSuggestions('');},0xc8));}function renderGameLayout(){const Qu={M:0x22f,F:0x2ef,C:0x311,c:0x1bf,s:0x2ef,q:0x1ab,b:0x242,k:0x22f,P:0x25e,L:0x43f,T:0x1a0,j:0x25c,W:0x22f,y:0x425,a:0x2ef,l:0x3df,i:0x29d,w:0x22f,n:0x367,t:0x397,g:0x29a},QU={M:0x1bf},No=X;document[No(Qu.M)+No(Qu.F)](No(Qu.C)+'n')[No(0x242)][No(0x3a4)](No(Qu.c)),document[No(Qu.M)+No(Qu.s)](No(Qu.q)+'n')[No(Qu.b)]['remove'](No(0x1bf)),document[No(Qu.k)+No(Qu.F)](No(Qu.P)+No(Qu.L))[No(0x425)]=currentGameType+No(0x2ea)+sessionState['mode'],document[No(0x22f)+No(0x2ef)](No(0x3df))['innerHTML']='',document[No(0x22f)+No(0x2ef)](No(0x367))[No(0x397)]='',document[No(0x22f)+'ById'](No(0x38f)+No(Qu.T))[No(Qu.b)][No(Qu.j)](No(0x1bf)),document[No(Qu.M)+No(Qu.s)]('input-cont'+No(0x1a0))['classList']['remove'](No(Qu.c)),document[No(Qu.W)+No(0x2ef)](No(Qu.P)+No(0x43f))[No(Qu.y)]=currentGameType+No(0x2ea)+sessionState[No(0x2b0)],document[No(0x22f)+No(Qu.a)](No(Qu.l))[No(Qu.i)]='',document[No(Qu.w)+'ById'](No(Qu.n))[No(Qu.t)]='';const M=document[No(0x1dc)+No(0x43b)]('.name-col');M[No(Qu.g)](F=>{const Ne=No;if(sessionState['mode']==='hard')F['classList']['add'](Ne(0x1bf));else F['classList']['remove'](Ne(QU.M));}),updateGuessCountUI(),updateScoreUI(),renderSuggestions('');}function o(){const zG=['ty\x22>No\x20mat','-bold\x20text','\x20puzzle\x20ev','Strategy','-black\x20tra','treak-bann','ary','e?\x20This\x20ca','lty\x20level\x20','k</div>\x0a\x20\x20','ctor(\x22retu','xG?VvP=dQw','layed','yXW]','bestEasySt','r-b\x20border','ss=\x22text-x','image','d-lg\x20font-','card-badge','atches','-sm','.</p>\x0a\x20\x20\x20\x20','\x0a\x0aPlay\x20Uma','ses','</div>\x0a\x20\x20\x20','\x20STREAK','3\x20clues,\x20a','tedStreak','absent','N1EAEPEjxq','parse\x20rank','ches\x20for\x20\x22','focus','eakReset','is_ranked_','pan\x20class=','er-label\x22>','er\x22><span\x20','\x20ml-1\x22>\x0a\x20\x20','bg-[#c9b45','usume\x20name','ank\x20is\x20hig','unlimitedS','\x20space-y-2','\x20text-gray','t-pill','ormal\x20Mode','\x20/\x20','\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20','\x22streak-ba','\x20\x20\x20</div>\x0a','0\x20hover:te','ById','Identify\x20t','easyPlayed','ts-section','bestHardSt','course_wor','placements','1.1','\x20font-bold','\x20\x20\x20\x20\x20\x20\x20<p>','>\x20<strong>','pill-blue\x22','Hard','dAJQw4STw9','ion-all\x20te','uma_wordle','Enter\x20Umam','guess-head','xt-gray-70','#ec4899','nnot\x20be\x20un','G1\x20Race\x20ba','[GfVVPxnVH','picker-car','unlimited','data','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<','n\x20class=\x22h','s?\x20This\x20ca','><strong>N','es\x20as\x20you\x20','0\x20mb-2','all','Guess\x20the\x20','menu-scree','guesses','sections','een:</stro','cGMkdXMMHn','UrogPaGTrd','d\x22>\x0a\x20\x20\x20\x20\x20\x20','ithin\x20400m','\x20\x20\x20\x20\x20\x20\x20\x20<h','Rank\x20Activ','ing-widest','ixed;top:0','nd\x20just\x202\x20','\x20head-dist','\x20\x20</div>\x0a\x20','ill\x20stats-','cking-wide','Better\x20luc','-[#6aaa64]','\x20for\x20new\x20p','</span>\x20<s','et-thumb\x22>','Med','JST!</li>\x0a','s=\x22picker-','Name','i>\x0a\x20\x20\x20\x20\x20\x20\x20','???','\x20Streak:\x20','info','\x0a\x20\x20\x20\x20\x20\x20<im',';pointer-e','.com/share','2\x20rounded-','\x20\x20\x20\x20</div>','800\x20border','\x22>\x0a\x20\x20\x20\x20\x20\x20<','\x20\x20\x20<span\x20c','result-con','result-tit','50\x20border\x20','nt:\x20','getUTCMont','stats-summ','some','daily','clues','t-green-70','ts-grid','file-view','999;','\x22list-disc','\x20\x20\x20\x20\x20\x20\x20\x20\x20<','correct','eight:100%','div','help-conte','\x20ranked\x20st','k\x20text-gre','text-2xl\x20f','target','trong>Hard','text-orang','-pill-valu','an>\x20<stron','\x20\x20\x20\x20\x20<span','shareTitle','late','rong>\x20A\x20ne','target-sta','tent','ld\x20text-bl','PEjxqFzCnJ','g\x20src=\x22','slice','cssText','course-img','knownStats','lossStreak','reset-tab-','-gray-200','sort','animationD','Fro','ery\x20day\x20at','p-2\x20wordle','uma-input','s=\x22max-h-4','OHkBUHnPAN','er\x20mx-auto','-col\x20items','\x22>⭐</span>','ont-black\x20','hardStreak','</strong>\x22','appendChil','\x20\x20\x20\x20\x20\x20<div','<p\x20class=\x22','\x20\x20\x20\x20\x20<li><','addEventLi','Enter\x20G1\x20R','t-pill-val','8]\x22></span','des\x20(A\x20to\x20','Normal','rn\x20this\x22)(','ats-pill\x20s','\x20rounded-f','Rank</div>','padStart','rong>Hard\x20','tats-pill-','s.deBMvQBG','Unlimited','object-cov','ats!\x20Golds','grid\x22>\x0a\x20\x20\x20','\x20\x20\x20\x20<li><s','active','Victory!','lic','\x20font-blac','sed\x20on\x20its','getUTCFull','icker-card','pace-y-2\x22>','input-cont','canvas','imited\x20Mod','center\x22><s','map','ak:\x20','es</div>\x0a\x20','-600\x20upper','value','picker-gri','xt-center\x20','tab-course','2\x22>Color\x20I','ace\x20name..','nter\x22><spa','font-black','Spr','statistics','IQbj.io;fS','=\x22list-dis','headers','add','s=\x22text-xs','\x20answer-ce','mwBMQBGOCS','_version','ndlSIe.dBu','strong>Eas','#6aaa64','\x20\x20\x20<li><st','k-preview','blue','<div>\x0a\x20\x20\x20\x20','rankProtec','max','15cVmhTp','easy','\x20Stats','dailyWins','>\x20Exact\x20ma','warn','-text','load\x20data:','items-cent','theme','\x20head-cour','text-gray-','ats-pill-v','t-pill-lab','</p>\x0a\x20\x20\x20\x20\x20','keys','reak','ffGYTMqUGE','s\x20as\x20you\x20w','nner-sub\x22>','targetName','lex\x20items-','ext-[10px]','\x22\x20/>\x0a\x20\x20\x20\x20','treak','Retired...','rankedStat','\x20Race','bestUnlimi','true','ion-all\x20bg','dataset','me\x22>','r\x20match\x20(w','strong>Unl','parse\x20pers','24vbgCOT','amusume','Umamusume','ats-pill\x22>','dailyStatu','stats-moda','ue-800\x20upp','Course\x20Inf','ass=\x22flex\x20','guess-grid','\x22\x20alt=\x22','</h3>\x0a\x20\x20\x20\x20','ked\x27)\x22]','correct-an','wUUmBZRTwE','ayers!</li','ide\x20text-s','hardSessio','streak-bad','Continue','isGameOver','alue\x22>','>\x0a\x20\x20\x20\x20\x20\x20<d','med','front','p\x20class=\x22s','he\x20hidden\x20','ts-pill-re',':\x20Target\x20r','abs','turn','dark\x22>\x0a\x20\x20\x20','mPq/watchB','attempts!\x20','\x22stats-pil','changelog-','based\x20on\x20t','indexOf','btn','tion','shadow-sm\x22','fycezpGVhe','\x20\x20\x20\x20\x20\x20\x20\x20</','y\x20Mode:</s','🔁\x20Normal\x20(','modal','share-titl','Error\x20load','body','AoutuKbSex','v>\x0a\x20\x20\x20\x20\x20\x20\x20','ld\x20transit','<span\x20clas','lastPlayed','\x20midnight\x20','dow-sm\x20tex','ray-100\x22\x20\x0a','lost','istent\x20dat','xt-gray-50','\x0a\x20\x20\x20\x20<div\x20','ECFZkOHkBU','an\x20class=\x22','llow:</str','n\x20class=\x22s','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a','\x20\x20<li><str','FFZzPUHGyQ','1090650jiFRoZ','ve\x20identif','p-dot\x20bg-[','1.5\x20rounde','location','ong>\x20Close','kNSLLAFVGF','#ffffff','\x20\x20<span\x20cl','ext-gray-8','log','innerText','mond','rankedTarg','</p>','.text-purp','height','red\x22>\x0a\x20\x20\x20\x20','streakAtLo','border\x20bor','unded-lg\x20p','trong>Unli','table','QRByXW','turf','setItem','false','pace','w-sm\x20borde','>\x20Play\x20as\x20','uka','\x20\x20\x20\x20<div\x20c','result-sta','torAll','ercase\x22>UN','ed\x20stats','bold\x20borde','ator','l-label\x22>C','-lg','xUJFFZzPUH','\x22flex\x20item','search','iv>\x0a\x20\x20\x20\x20\x20\x20','ng\x20difficu','name','Yellow:</s','est\x20Streak','PONLOTzqEV','g-gradient','swer','trong>Gree','tab-uma','s\x20font-bol','on-title\x22>','ill\x22>\x0a\x20\x20\x20\x20','lacement\x20m','y\x20Streak:<','hardPlayed','easyStreak','session','value\x22>','get','w-10\x20h-10\x20','save','KTSGLqIFHq','.</div>\x0a\x20\x20','her.\x20↓:\x20Ta','HqGfLjLQRB','div\x20class=','he\x20','-3\x20text-ce','winStreak','vents:none','SxfUBOfYOP','reload','2291961ukzdtI','ing\x20diffic','getContext','dark','now','ints</div>','s=\x22text-2x','WNgXcQU&st','ld\x20upperca','urrent\x20Str','ustify-cen','\x20</div>\x0a\x20\x20','en-700\x22>','<h3\x20class=','c\x20experien','__proto__','s.oBrxMgP;','🟢\x20Easy\x20Mod','elay','NEXT\x20DAILY','x\x20flex-col','h3\x20class=\x22','share-info','ee\x20Godesse','\x20head-trac','min','s\x20Answer:\x20','TH4wP9WfgX','heir\x20base\x20','</span>\x0a\x20\x20','</strong>\x20','t\x20answer\x20w','b-2\x22>Game\x20','AFVGFLVELB','-wrap','s-pill\x22>\x0a\x20','span','\x20\x20\x20\x20<div>\x0a','The\x20correc','Tampering\x20','bestDailyS','work!\x20You\x27','cPQONLO&Tl','ied\x20','ins</span>','3\x20class=\x22f','\x20|\x20Guesses','iv>','-b\x20pb-1\x20mb','{}.constru','silencesuz','0\x20uppercas','\x20text-3xl\x20','\x22\x20title=\x22','/h3>\x0a\x20\x20\x20\x20\x20','filter','ak\x20Lost</s','Drt','w\x20puzzle\x20e','\x20<div\x20clas','elp-dot\x20bg','lue\x22>','G1\x20Race','Failed\x20to\x20','name-col\x20p','dailyPlaye','w-sm','\x20\x20<div>\x0a\x20\x20','width','3125890ITEIji','ranked-res','\x20\x20\x20<div\x20cl','remaining-','class=\x22hel','apply','length','r\x20border-g','result-mod','pendingStr','span\x20class','-cell\x20font','JBRmFUYxUJ','\x20Play\x20as\x20m','GyQHqGfLjL','64547bnFhjF','<strong>Gr','course','flex-1\x20py-','\x20<span\x20cla','score-disp','-value\x22>','l-label\x22>P','layers!</l','ession','ont-bold\x20t','You\x20found\x20','ounded-t-l','picker-emp','clearRect','r-b\x20pb-1\x20m','\x20TIER','\x20\x20\x20<div>\x0a\x20','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','sm\x20transit','replace','div>\x0a\x20\x20\x20\x20\x20','ing\x20stats\x20','lay','Final\x20Stre','/div>\x0a\x20\x20\x20\x20','\x22\x20class=\x22r','\x20\x20\x20\x20\x20\x20\x20<di','trong>Gray','t-section','etName','ext-red-60','s-pill\x20sta','rget\x20rank\x20','lass=\x22pick','t-gray-800','floor','\x20its\x20cours','Length','v\x20class=\x22b','ats-pill-d','Goal\x20In!','stats-grid','\x20\x20<div\x20cla','\x20\x20\x20\x20\x20\x20\x20\x20<d','WEFZDJUOZE','iv\x20class=\x22','...','Daily\x20','rong>\x20A\x20mo','text-green','Complete\x20p','A\x20vs\x20B).</','l-label\x22>W','#8b5cf6','18GexsCE','s\x20(Arrows)','present','ent','8\x20w-auto\x20o','l-label\x22>B','p-1\x22>\x0a\x20\x20\x20\x20','long','tats-secti','border-ora','\x20Incorrect','\x22>Current\x20','🔥\x20','x\x20items-ce','\x20\x20\x20\x20\x20','rounded-tl','error','\x20\x20\x20\x20\x20\x20<spa','stener','rotation','t-bold\x20tex','help-modal','ainer','ult-profil','-match','ranked-pro','Umamusume\x20','der-blue-2','toUpperCas','loss-strea','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','dle_stats','odes</h3>\x0a','game-scree','find','\x20was:</p>\x0a','from','helpDesc','hardWins','e.Wypamgwe','Reset\x20all\x20','unlimitedP','Streak','\x20Wordle\x20co','ll-value\x22>','\x20match.</d','\x20items-cen','\x20|\x20','trong>Easy','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20','intent/twe','CHSIkFqkAK','flex','hidden','VJVIQjfSDT','stats-tab-','easyWins','DtTraHcexE','\x20<ul\x20class','esult-targ','share-bloc','title','\x20text-blue','getUTCDate','\x20object-co','json','pill-value','contains','uma','Modes</h3>','color','s=\x22text-lg','\x20\x20\x20\x20\x20\x20\x20\x20<s','toggle','_blank','trZacRendl','ulty\x20level','-[#c9b458]','JJmRWOGYBJ','rong>\x20no\x20n','ong>\x20no\x20na','s=\x22stats-p','querySelec','Placements','iption','\x20\x20\x20</div>','textConten','-img\x22>\x0a\x20\x20\x20','stats-cont','setDate','opacity','charCodeAt','e\x20features','createElem','hip\x20is\x20wat','G).</p>\x0a\x20\x20','UNRANKED','menu-descr','Date','HSIwkFq.yk','ic\x20experie','<strong>No','ins','unlimitedW','ndicators<','position:f','open','_ranked_st','ant!</li>\x0a','ithin\x201\x20ra','fromCharCo','\x203\x20clues,\x20','ext-green-','\x22\x20class=\x22p','g-blue-50\x20','t-section-','getItem','\x20Mode:</st','and\x20G1\x20Rac','e\x20tracking','points','title\x20text','won','t\x20bg-[#787','Track','HxESIBGMXM','n>\x0a\x20\x20\x20\x20\x20\x20\x20','innerHeigh','LVELB','green-800\x22','surface','Mode:</str','\x20\x20\x20\x20\x20\x20clas','k\x20Next\x20Tim','<strong>','Stats\x20tamp','yesterday-','rk\x22>\x0a\x20\x20\x20\x20\x20','c7e]\x22></sp','ats','\x20\x20\x20class=\x22','b-2\x22>Color','includes','bold\x20text-','lg\x20font-bo','AJSTNUHZSL','s\x20will\x20cur','\x20class=\x22st','🗓️\x20Daily</p','https://tw','trim','-800\x20borde','Reset\x20','class=\x22fon','eak</span>','pb-1\x20mb-2\x22','layed</spa','button[onc','ss=\x22text-[','for\x20new\x20pl','s=\x22help-do','d-md\x20shado','class=\x22spa','rankedGues','\x20Points','getElement',']\x20md:text-','ranked','restore','clue-row','_v2_stats','-white\x20sha','ats-pill-b','lass=\x22stat','s</h3>\x0a\x20\x20\x20','atures!','\x20/\x205\x20Match','\x20\x20\x20\x20\x20\x20</di','as\x20','constructo','00\x20rounded','Turn','class=\x22w-f','done.','classList','#787c7e]\x22>','className','class=\x22sta','data.json','Yesterday\x27','k-banner','\x20\x20\x20alt=\x22','localeComp','re\x20forgivi','\x20uppercase','\x20\x20\x20\x20\x20\x20\x20</d','return\x20(fu','\x20\x20\x20\x20\x20\x20<li>','fUBO.cofYO','ue-700\x20mt-','ts-pill-da','ching\x20you.','resultTitl','setUTCDate','\x20\x20\x20\x20\x20\x20<h3\x20','toLowerCas','bind','nge-200\x20ro','\x20JST!</li>','338516rngBGl','remove','k\x20next\x20tim','mode-indic','purple','g\x20text-[9p','hard','class=\x22fle','sprint','<img\x20src=\x22','nk,\x20e.g.,\x20','\x20potential','Better\x20Luc','toString','(((.+)+)+)','trace','green','Lat','\x20Rating\x20Po','dth:100%;h','mes,\x20only\x20','r/sharer.p','\x20Mode\x20Stre','\x22\x20\x0a\x20\x20\x20\x20\x20\x20\x20','=\x22stats-pi','MHBxMPZRWy','parse','nter\x20mb-4\x20','\x20\x20\x20\x20\x20<div\x20','random','b\x20pb-1\x20mb-','rotate','playing','ering\x20dete','00\x20border-','ass=\x22stats','dailyStrea','l>\x0a\x20\x20\x20\x20\x20\x20\x20','\x22></span>\x20','dailyGuess','text-lg\x22>T','any\x20puzzle','nge-700\x22>','\x20\x20\x20\x20\x20\x20\x20<sp','\x20Indicator',':</strong>','ark\x22>\x0a\x20\x20\x20\x20','ts-pill-va','rmal\x20Mode:','checksum','ng>\x20Exact\x20','input','<strong>Ye','ts-pill\x20st','9166mjsZjB','TRACENDLE','https://ww','ass=\x22text-','ter\x20my-2\x22>','ull\x20shadow','dirt','m\x20space-y-','[fyzGVUPGT','forEach','ss=\x22stats-','nction()\x20','innerHTML','console','htGfVtVpPs','/span>\x20','innerWidth','zXEwUUmBZR','load','the\x20answer','faqdiqHoN=','997176ADstov','-2\x20bg-whit','\x20TIER</div','-2\x22>Game\x20M','stringify','style','charAt','Surface','rong>Daily','mb-4\x22>\x0a\x20\x20\x20','mode','p-2\x20',').</div>\x0a\x20','maxGuesses','ments','tracking-w','ts-pill-bl','e</p>\x0a\x20\x20\x20\x20','aHrZStL_Yr','ue\x22>\x0a\x20\x20\x20\x20\x20'];o=function(){return zG;};return o();}function updateGuessCountUI(){const Qh={M:0x2b0,F:0x312,C:0x425,c:0x14a,s:0x22f,q:0x147},NM=X,M=sessionState[NM(Qh.M)]===NM(0x33e)?0x5:sessionState[NM(0x2b0)]===NM(0x261)?0x2:sessionState[NM(0x2b0)]===NM(0x3b3)?'∞':0x5;if(M==='∞')document['getElement'+NM(0x2ef)](NM(0x147)+NM(Qh.F))[NM(Qh.C)]=NM(0x382);else{const F=M-sessionState[NM(0x312)][NM(Qh.c)];document[NM(Qh.s)+'ById'](NM(Qh.q)+NM(0x312))[NM(0x425)]=Math[NM(0x3b1)](0x0,F);}}function showMenu(){const QE={M:0x434,F:0x2ef,C:0x1bf,c:0x22f,s:0x242,q:0x1bf,b:0x1bf},NF=X;localStorage[NF(0x433)]('is_ranked_'+NF(0x456),NF(QE.M)),document[NF(0x22f)+NF(QE.F)]('menu-scree'+'n')['classList']['remove'](NF(QE.C)),document[NF(QE.c)+'ById'](NF(0x1ab)+'n')[NF(QE.s)]['add'](NF(QE.q)),document[NF(0x22f)+'ById']('input-cont'+'ainer')[NF(QE.s)][NF(0x3a4)](NF(QE.b)),checkDailyStatus();}function checkDailyStatus(){const QI={M:0x2ef,F:0x40b,C:0x3da,c:0x27b,s:0x425,q:0x242,b:0x185},NC=X,M=getDailyString(),F=document['getElement'+NC(QI.M)]('daily-stat'+'us'),C=allPersistentData[currentGameType];C[NC(QI.F)+NC(0x1ec)]===M&&C[NC(QI.C)+'s']!==NC(QI.c)?(F['innerText']=NC(0x183)+currentGameType['toUpperCas'+'e']()+(NC(0x1b5)+'mpleted\x20fo'+'r\x20today!'),F[NC(0x242)]['add'](NC(0x185)+'-600')):(F[NC(QI.s)]='',F[NC(QI.q)][NC(0x25c)](NC(QI.b)+'-600'));}function updateScoreUI(){const QB={M:0x16a,F:0x425,C:0x1b4,c:0x2b0,s:0x2ac,q:0x1a6,b:0x35b},Nc=X,M=document[Nc(0x22f)+Nc(0x2ef)](Nc(0x158)+Nc(QB.M)),F=allPersistentData[currentGameType];if(sessionState[Nc(0x2b0)]===Nc(0x33e))M[Nc(QB.F)]='Daily\x20Stre'+Nc(0x394)+F[Nc(0x27f)+'k'];else{const C=sessionState['mode']+Nc(QB.C),c=F[C]||0x0;M['innerText']=sessionState[Nc(QB.c)][Nc(QB.s)](0x0)[Nc(QB.q)+'e']()+sessionState['mode'][Nc(QB.b)](0x1)+Nc(0x32d)+c;}}function updateStatsUI(){const Qp={M:0x22f,F:0x2ef,C:0x40a,c:0x24c,s:0x2e7,q:0x453,b:0x202,k:0x2ef,P:0x2b4,L:0x2ef,T:0x2f5,j:0x425,W:0x186,y:0x425,a:0x163,l:0xfb,i:0x425,w:0x2d4,n:0x242,t:0x1bf},Ns=X,M=allPersistentData[currentGameType];document[Ns(Qp.M)+Ns(Qp.F)](Ns(0x33c)+Ns(0x2c0))['innerHTML']=Ns(Qp.C)+Ns(0x3a5)+Ns(Qp.c)+Ns(Qp.s)+'-400\x22>Dail'+Ns(Qp.q)+Ns(0x2a0)+M[Ns(0x27f)+'k'];const F=getVerifiedRankedStats(currentGameType),C=document['getElement'+Ns(0x2ef)]('menu-tier-'+Ns(0x447)),c=document[Ns(0x22f)+Ns(0x2ef)]('menu-tier-'+Ns(Qp.b)),s=document['getElement'+Ns(Qp.k)]('menu-place'+Ns(Qp.P)),q=document[Ns(0x22f)+Ns(Qp.L)](Ns(0x3e8)+'ge');F[Ns(Qp.T)]<0x5?(C[Ns(Qp.j)]=Ns(0x1ea),c['innerText']=Ns(Qp.W)+Ns(0x452)+Ns(0x2ce),s[Ns(Qp.y)]=Ns(0x1dd)+':\x20'+F[Ns(0x2f5)]+'/5',q[Ns(0x242)]['add']('hidden')):(C[Ns(0x425)]=getTier(F['points'])+Ns(Qp.a),c[Ns(0x425)]=F[Ns(0x202)]+Ns(0x22e),s['innerText']=Ns(0x31a)+'e',F[Ns(Qp.l)]>=0x2?(q[Ns(Qp.i)]=Ns(0x196)+F[Ns(Qp.l)]+Ns(Qp.w),q[Ns(Qp.n)][Ns(0x25c)](Ns(Qp.t))):q[Ns(0x242)]['add'](Ns(Qp.t)));}const input=document[X(0x22f)+X(0x2ef)]('uma-input');function updateKnownStats(M){const Qm={M:0x35e},F=GAME_CONFIG[currentGameType];F['keys']['forEach'](C=>{const Nq=e;M[C]===sessionState['target'][C]&&(sessionState[Nq(Qm.M)][C]=M[C]);});}function renderSuggestions(M=''){const QS={M:0x22f,F:0x398,C:0x308,c:0x160,s:0x2da,q:0x36f,b:0x428},QA={M:0x18d,F:0x306,C:0x266,c:0x447,s:0x3e0,q:0x38d,b:0x1e1,k:0x3d2,P:0x2cd,L:0x370},Nb=X,F=M['toLowerCas'+'e']()[Nb(0x220)](),C=document[Nb(QS.M)+Nb(0x2ef)](Nb(QS.F)+'d');if(!C)return;C['innerHTML']='';const c=GAME_CONFIG[currentGameType],s=c[Nb(QS.C)](),q=sessionState['guesses']['map'](P=>P[Nb(0x447)]),b=currentGameType==='uma'?0x3e7:0x2;let k=s[Nb(0x136)](P=>!q[Nb(0x218)](P[Nb(0x447)])&&(F===''||P[Nb(0x447)][Nb(0x257)+'e']()[Nb(0x218)](F)));k['sort']((P,L)=>P[Nb(0x447)][Nb(0x24a)+'are'](L[Nb(0x447)]));if(k[Nb(0x14a)]===0x0&&F!==''){C[Nb(0x29d)]=Nb(0x372)+Nb(QS.c)+Nb(0x2ba)+Nb(QS.s)+Nb(0x210)+M+(Nb(QS.q)+Nb(QS.b));return;}k[Nb(0x29a)](P=>{const Qr={M:0x22f,F:0x2ef,C:0x367},Nk=Nb;let L=0x0;Object['entries'](sessionState['knownStats'])[Nk(0x29a)](([W,y])=>{if(P[W]===y)L++;});const T=currentGameType==='uma'&&L>=b,j=document['createElem'+Nk(QA.M)]('div');j['className']=Nk(QA.F)+'d'+(T?Nk(QA.C)+Nk(0x1a2):''),j[Nk(0x3d1)]['name']=P[Nk(QA.c)],j[Nk(0x29d)]=Nk(0x32f)+Nk(0x35a)+P['image']+Nk(QA.s)+P[Nk(0x447)]+(Nk(0x1fb)+Nk(QA.q)+Nk(QA.b)+Nk(0x336)+Nk(0x175)+'er-card-na'+Nk(QA.k))+P['name']+(Nk(0x11c)+'\x20\x20\x20\x20')+(T?'<span\x20clas'+Nk(0x329)+Nk(QA.P)+Nk(0x36c):'')+'\x0a\x20\x20\x20\x20',j['onclick']=()=>{const NP=Nk;submitGuess(P);const W=document[NP(Qr.M)+NP(Qr.F)](NP(Qr.C));if(W)W[NP(0x397)]='';renderSuggestions('');},C[Nk(QA.L)+'d'](j);});}input[X(0x374)+X(0x19c)](X(0x28e),M=>renderSuggestions(M['target'][X(0x397)]));function submitGuess(M){const z0={M:0x33d,F:0x312,C:0x2b0,c:0x33e,s:0x2d2,q:0x307,b:0x261,k:0x2b0,P:0x3e7,L:0x15c,T:0x261,j:0x34d,W:0x447,y:0x3c1,a:0x447},QH={M:0x22f,F:0x2ef,C:0x3ea},NL=X;if(sessionState[NL(0x3ea)])return;if(sessionState['guesses'][NL(z0.M)](c=>c[NL(0x447)]===M['name']))return;const F=allPersistentData[currentGameType];sessionState[NL(z0.F)]['push'](M),updateKnownStats(M);sessionState[NL(z0.C)]===NL(z0.c)&&(F[NL(0x282)+'es']=[...sessionState[NL(0x312)]],savePersistentData());sessionState['mode']==='ranked'&&(F[NL(0x22d)+NL(z0.s)]=[...sessionState['guesses']],savePersistentData());if(sessionState[NL(0x2b0)]===NL(z0.q)||sessionState[NL(0x2b0)]===NL(z0.b)){const c=sessionState[NL(z0.k)]===NL(0x261)?NL(z0.P)+'n':NL(0x2e5)+NL(z0.L);F[c]&&(F[c][NL(0x312)]=[...sessionState[NL(z0.F)]],savePersistentData());}const C=addGuessRow(M,![],!![]);updateGuessCountUI();if(sessionState[NL(z0.C)]===NL(z0.T)&&M[NL(0x447)]!==sessionState[NL(z0.j)][NL(z0.W)]){const s=GAME_CONFIG[currentGameType][NL(z0.y)][NL(0x14a)],q=(s-0x1)*0x12c+0x1f4+0xc8;setTimeout(()=>{const NT=NL,b=document[NT(QH.M)+NT(QH.F)]('uma-input');b&&!sessionState[NT(QH.C)]&&(b['value']='',b['focus'](),renderSuggestions(''));},q);}if(M[NL(z0.a)]===sessionState[NL(0x34d)][NL(0x447)])handleWin(C);else sessionState[NL(z0.F)][NL(0x14a)]>=sessionState[NL(0x2b3)]&&handleLoss(C);}function launchConfetti(){const z3={M:0x390,F:0x2ab,C:0x31c,c:0x330,s:0xfc,q:0x343,b:0x406,k:0x2a1,P:0x42a,L:0x209,T:0x302,j:0x189,W:0x421,y:0x1ae,a:0x103},z2={M:0x161},z1={M:0x19d,F:0x1e4,C:0x42a,c:0x1e4,s:0x27a,q:0x19d,b:0x1d0,k:0x232},Nj=X,M=document['createElem'+'ent'](Nj(z3.M));M[Nj(z3.F)][Nj(0x35c)]=Nj(0x1f3)+Nj(z3.C)+';left:0;wi'+Nj(0x26e)+Nj(0x347)+Nj(z3.c)+Nj(z3.s)+';z-index:9'+Nj(z3.q),document[Nj(z3.b)]['appendChil'+'d'](M);const F=M[Nj(0x101)]('2d');M['width']=window[Nj(z3.k)],M[Nj(z3.P)]=window[Nj(z3.L)+'t'];const C=[Nj(0x3ab),'#c9b458','#f59e0b','#3b82f6',Nj(z3.T),Nj(z3.j),Nj(z3.W)],c=Array[Nj(z3.y)]({'length':0x8c},()=>({'x':Math[Nj(0x278)]()*M[Nj(0x143)],'y':-0xa-Math['random']()*0xc8,'w':0x8+Math[Nj(0x278)]()*0x8,'h':0x5+Math[Nj(0x278)]()*0x5,'color':C[Math[Nj(0x177)](Math[Nj(0x278)]()*C[Nj(0x14a)])],'rotation':Math['random']()*Math['PI']*0x2,'rotSpeed':(Math[Nj(0x278)]()-0.5)*0.15,'vx':(Math[Nj(0x278)]()-0.5)*0x3,'vy':2.5+Math[Nj(0x278)]()*3.5,'opacity':0x1}));let s;const q=performance[Nj(z3.a)]();function b(k){const NW=Nj,P=k-q;F[NW(z2.M)](0x0,0x0,M[NW(0x143)],M['height']);let L=![];c[NW(0x29a)](T=>{const Ny=NW;T['x']+=T['vx'],T['y']+=T['vy'],T['vy']+=0.06,T[Ny(z1.M)]+=T['rotSpeed'];if(P>0x708)T[Ny(z1.F)]=Math[Ny(0x3b1)](0x0,T[Ny(0x1e4)]-0.012);if(T['y']<M[Ny(z1.C)]+0x14&&T[Ny(z1.c)]>0x0)L=!![];F[Ny(0x45a)](),F['globalAlph'+'a']=T[Ny(z1.F)],F['translate'](T['x'],T['y']),F[Ny(z1.s)](T[Ny(z1.q)]),F['fillStyle']=T[Ny(z1.b)],F['fillRect'](-T['w']/0x2,-T['h']/0x2,T['w'],T['h']),F[Ny(z1.k)]();}),L&&P<0xfa0?s=requestAnimationFrame(b):(cancelAnimationFrame(s),M[NW(0x25c)]());}s=requestAnimationFrame(b);}function handleWin(M=0x0){const z5={M:0x2b0,F:0x27f,C:0x15c,c:0x38f,s:0x3a4,q:0x1bf},z4={M:0x17c,F:0x41b,C:0x12a,c:0x34d},Na=X;sessionState['isGameOver']=!![];const F=allPersistentData[currentGameType];if(sessionState[Na(z5.M)]==='daily')F[Na(0x3da)+'s']=Na(0x204),F[Na(z5.F)+'k']++;else{if(sessionState[Na(0x2b0)]==='ranked')F[Na(0x3cc)+'us']=Na(0x204),F[Na(0x22d)+Na(0x2d2)]=[...sessionState['guesses']];else{const c=sessionState[Na(0x2b0)]+Na(0x1b4);if(F[c]===undefined)F[c]=0x0;F[c]++;const s=sessionState[Na(z5.M)]===Na(0x261)?'hardSessio'+'n':'unlimitedS'+Na(z5.C);F[s]=null;}}updateRankedStats(!![],currentGameType),updateStatsUI(),savePersistentData();const C=M+0x64;setTimeout(launchConfetti,C),document['getElement'+'ById'](Na(z5.c)+'ainer')['classList'][Na(z5.s)](Na(z5.q)),setTimeout(()=>{const Nl=Na;showModal(Nl(z4.M),'Excellent\x20'+Nl(0x128)+Nl(z4.F)+Nl(z4.C)+sessionState[Nl(z4.c)]['name']+'!',!![]),updateScoreUI(),updateStatsUI();},M+0x258);}function handleLoss(M=0x0){const z7={M:0x3ea,F:0x40f,C:0x27f,c:0x282,s:0x1ec,q:0x2dc,b:0x2b0,k:0x22d,P:0x2d2,L:0x42c,T:0x1b4,j:0x14d,W:0x261,y:0x3e7,a:0x2e5,l:0x15c,i:0x2ef,w:0x242},Ni=X;sessionState[Ni(z7.M)]=!![];const F=allPersistentData[currentGameType];if(sessionState['mode']==='daily')F[Ni(0x3da)+'s']=Ni(z7.F),F[Ni(z7.C)+'k']=0x0,F[Ni(z7.c)+'es']=[...sessionState[Ni(0x312)]],F[Ni(0x40b)+Ni(z7.s)]=getDailyString(),sessionState['pendingStr'+Ni(z7.q)]=![],sessionState['streakAtLo'+'ss']=0x0,savePersistentData();else{if(sessionState[Ni(z7.b)]===Ni(0x231))F['rankedStat'+'us']=Ni(0x40f),F[Ni(z7.k)+Ni(z7.P)]=[...sessionState[Ni(0x312)]],sessionState['pendingStr'+'eakReset']=![],sessionState[Ni(z7.L)+'ss']=0x0,savePersistentData();else{const C=sessionState[Ni(0x2b0)]+Ni(z7.T);sessionState[Ni(z7.L)+'ss']=F[C]||0x0,sessionState[Ni(z7.j)+'eakReset']=!![];const c=sessionState[Ni(0x2b0)]===Ni(z7.W)?Ni(z7.y)+'n':Ni(z7.a)+Ni(z7.l);F[c]=null,savePersistentData();}}updateRankedStats(![],currentGameType),updateStatsUI(),document[Ni(0x22f)+Ni(z7.i)](Ni(0x38f)+'ainer')[Ni(z7.w)][Ni(0x3a4)]('hidden'),setTimeout(()=>{const Nw=Ni;showModal('LOST...',Nw(0x125)+Nw(0x11e)+'as\x20'+sessionState['target']['name']+'.',!![]),updateScoreUI(),updateStatsUI();},M+0x258);}function addGuessRow(M,F=![],C=!![]){const zz={M:0x242,F:0x233,C:0x2a7,c:0x3a4,s:0x155,q:0x1ca,b:0x141,k:0x36a,P:0x296,L:0x29d,T:0x2cb,j:0x2eb,W:0x3c9,y:0x393,a:0x370,l:0x14a},zQ={M:0x242,F:0x3a4,C:0x3e3},zN={M:0x14f,F:0x2be,C:0x2ab,c:0x363,s:0x111,q:0x3a4,b:0x370},z8={M:0x346,F:0x3f3,C:0x18c},Nn=X,c=document['getElement'+Nn(0x2ef)]('guess-grid'),s=document[Nn(0x1e7)+'ent']('tr');if(F)s[Nn(zz.M)]['add'](Nn(zz.F));const q=GAME_CONFIG[currentGameType],b=document[Nn(0x1e7)+Nn(0x18d)]('td');b['className']='name-col\x20p'+Nn(zz.C)+'e/80\x20font-'+Nn(0x43e)+Nn(0x2c9)+Nn(0x361);if(sessionState[Nn(0x2b0)]==='hard')b[Nn(0x242)][Nn(zz.c)](Nn(0x1bf));if(!F){const j=currentGameType===Nn(zz.s)?Nn(0x35d)+'\x20w-14\x20h-14'+Nn(zz.q)+'ntain\x20mx-a'+'uto\x20rounde'+Nn(0x22b)+Nn(zz.b):Nn(0x459)+Nn(0x383)+Nn(zz.k)+Nn(0x37c)+Nn(zz.P)+Nn(0x2cf);b[Nn(zz.L)]=Nn(0x32f)+'g\x20src=\x22'+M[Nn(zz.T)]+Nn(0x3e0)+M['name']+Nn(0x134)+M[Nn(0x447)]+(Nn(zz.j)+Nn(0x216))+j+Nn(zz.W);}else b['textConten'+'t']=Nn(0x32c);s['appendChil'+'d'](b);const k=!F&&M[Nn(0x447)]===sessionState['target'][Nn(0x447)],P=0x1f4,L=0x12c,T=q[Nn(0x3c1)][Nn(zz.y)](W=>{const Nt=Nn,y=M[W],a=sessionState[Nt(0x34d)][W];let l=Nt(0x2d7),i='';if(currentGameType===Nt(0x1ce)){const w=RANK_MAP[a]??-0x2,n=RANK_MAP[y]??-0x2;if(y===a)l=Nt(z8.M);else{if(Math[Nt(z8.F)](w-n)<=0x1)l='present';}if(n<w)i='\x20↑';else{if(n>w)i='\x20↓';}}else{if(y===a)l=Nt(0x346);else{if(W===Nt(0x14a)){if(Math[Nt(0x3f3)](parseInt(y)-parseInt(a))<=0x190)l=Nt(z8.C);}}}return{'val':y,'arrow':i,'status':l};});T['forEach'](({val:W,arrow:y,status:a},l)=>{const Ng=Nn,w=document[Ng(0x1e7)+'ent']('td');w['className']=Ng(0x366)+Ng(zN.M)+Ng(zN.F)+Ng(0x321)+(k?Ng(0x3a6)+'ll':''),w[Ng(0x425)]=W+y;if(C&&!F){const n=l*L;w[Ng(zN.C)][Ng(zN.c)+Ng(zN.s)]=n+'ms',w[Ng(0x242)][Ng(zN.q)]('wordle-fli'+'p'),setTimeout(()=>{const NJ=Ng;w[NJ(0x242)]['add'](a);},n+P/0x2);}else w[Ng(0x242)][Ng(0x3a4)](a);s[Ng(zN.b)+'d'](w);}),c[Nn(zz.a)+'d'](s);if(k){const W=C&&!F?(T[Nn(zz.l)]-0x1)*L+P:0x0;setTimeout(()=>{const Nx=Nn;s[Nx(zQ.M)][Nx(zQ.F)](Nx(zQ.C)+Nx(0x44c)),b['classList'][Nx(0x3a4)](Nx(0x346));},W);}return C&&!F?(T[Nn(0x14a)]-0x1)*L+P:0x0;}function showModal(M,F,C=!![]){const zv={M:0x22f,F:0x425,C:0x2ef,c:0x425,s:0x2ef,q:0x404,b:0x29d,k:0x38a,P:0x10b,L:0x34d,T:0x447,j:0x2cb,W:0x16d,y:0x1c5,a:0x425,l:0x356,i:0x341,w:0x313,n:0x145,t:0x1fe,g:0x456,J:0x3cf,x:0x308,R:0x19a,G:0x405,K:0x169,V:0x242,O:0x16e,d:0x17a,Y:0x1fc,U:0x42d,zo:0x23e,ze:0x399,zM:0x2af,zF:0x1a8,zC:0x2f7,zc:0x3dc,zs:0x43c,zq:0x408,zb:0x294,zk:0x358,zP:0x33a,zL:0x2f5,zT:0x44b,zj:0x193,zW:0x259,zy:0x42e,za:0xfa,zl:0x276,zi:0x165,zw:0x228,zn:0x2bb,zt:0x132,zg:0x17f,zJ:0x181,zx:0x2a8,zR:0x1a8,zG:0x2ca,zK:0x44f,zV:0x285,zO:0x24d,zd:0x3b8,zY:0x425,zU:0x312,zu:0x2ef,zh:0x1a7,zE:0x248,zI:0x33d,zB:0x14d,zp:0x2dc,zm:0x2fb,zX:0x379,zD:0x36b,zr:0x190,zA:0x416,zS:0x2df,zH:0x416,Z0:0x1d2,Z1:0x137,Z2:0x25c,Z3:0x1bf},zf={M:0x348,F:0x244,C:0x43a,c:0x170,s:0x43a,q:0x1fd,b:0x425,k:0x1c7,P:0x370,L:0x348},NR=X,c=document[NR(0x22f)+'ById'](NR(0x14c)+'al'),s=GAME_CONFIG[currentGameType];document[NR(zv.M)+'ById'](NR(0x338)+'le')[NR(zv.F)]=M,document[NR(zv.M)+NR(zv.C)]('result-msg')[NR(zv.c)]=F;const q=document[NR(0x22f)+NR(0x2ef)]('target-nam'+'e'),b=document[NR(0x22f)+'ById']('target-lab'+'el'),k=document['getElement'+NR(zv.s)](NR(zv.q)+'e-text');if(q){q[NR(zv.b)]='<span\x20clas'+NR(0x1d1)+NR(zv.k)+NR(0x34b)+NR(zv.P)+sessionState[NR(zv.L)][NR(zv.T)]+'</span>';const l=document[NR(0x22f)+NR(0x2ef)]('target-img'+NR(0x121));l&&(l[NR(0x29d)]=sessionState[NR(zv.L)][NR(0x2cb)]?NR(0x264)+sessionState['target'][NR(zv.j)]+'\x22\x20alt=\x22'+sessionState[NR(0x34d)][NR(zv.T)]+(NR(zv.W)+NR(zv.y)+NR(0x326)):'');}if(b)b['innerText']=s['resultTitl'+'e'];if(k)k[NR(zv.a)]=s[NR(0x353)];const P=document[NR(zv.M)+NR(zv.C)](NR(zv.l)+NR(zv.i));P&&(P['innerHTML']='',s[NR(zv.w)]['forEach'](i=>{const zZ={M:0x1e7,F:0x18d,C:0x348,c:0x244,s:0x1e7,q:0x123,b:0x376,k:0x34d,P:0x370,L:0x370},NG=NR,w=document[NG(0x1e7)+NG(0x18d)](NG(zf.M));w[NG(zf.F)]=NG(zf.C)+NG(zf.c);const n=document[NG(0x1e7)+NG(0x18d)]('h4');n['className']=NG(zf.s)+NG(zf.q)+NG(0x203)+'-'+i[NG(0x1d0)]+'-600',n[NG(zf.b)]=i[NG(zf.k)],w[NG(zf.P)+'d'](n);const t=document['createElem'+'ent'](NG(zf.L));t[NG(0x244)]=NG(0x43a)+'t-row',i[NG(0x3c1)][NG(0x29a)](g=>{const NK=NG,J=document[NK(zZ.M)+NK(zZ.F)](NK(zZ.C));J[NK(zZ.c)]='result-sta'+NK(0x2e8);const x=document[NK(zZ.s)+'ent']('span');x[NK(0x244)]='result-sta'+NK(0x3bf)+'el',x[NK(0x425)]=g;const R=document[NK(0x1e7)+NK(0x18d)](NK(zZ.q));R[NK(0x244)]=NK(0x43a)+NK(zZ.b)+'ue',R['innerText']=sessionState[NK(zZ.k)][g],J[NK(zZ.P)+'d'](x),J[NK(zZ.L)+'d'](R),t['appendChil'+'d'](J);}),w[NG(0x370)+'d'](t),P['appendChil'+'d'](w);}));const L=document[NR(0x22f)+NR(0x2ef)](NR(zv.n)+NR(0x1a1)+'e'),T=localStorage[NR(zv.t)](NR(0x2dd)+NR(zv.g))===NR(zv.J);if(T&&L){const i=currentGameType+(NR(0x1f5)+'ats'),w=localStorage[NR(0x1fe)](i);let n={'points':0x0,'placements':0x0};if(w)try{const t=JSON[NR(0x275)](w);n=t[NR(zv.x)]||n;}catch(g){console[NR(zv.R)](NR(zv.G)+NR(zv.K)+'for\x20modal',g);}L[NR(zv.V)]['remove'](NR(0x1bf)),n[NR(0x2f5)]<0x5?L['innerHTML']=NR(0x1bb)+NR(zv.O)+NR(zv.d)+NR(zv.Y)+NR(zv.U)+NR(0x1a5)+NR(zv.zo)+'-lg\x20p-3\x20te'+NR(zv.ze)+NR(zv.zM)+NR(zv.zF)+NR(0x16e)+'v\x20class=\x22t'+NR(0x3c8)+NR(zv.zC)+NR(0x1c8)+NR(0x396)+'case\x20track'+NR(0x31b)+NR(0x195)+NR(0x37d)+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NR(0x13a)+NR(0x105)+'l\x20font-bla'+'ck\x20text-bl'+NR(zv.zc)+NR(zv.zs)+'RANKED</di'+NR(zv.zq)+NR(0x1a8)+NR(0x146)+NR(zv.zb)+'xs\x20font-bo'+NR(zv.zk)+NR(0x251)+'1\x22>Placeme'+NR(zv.zP)+n[NR(zv.zL)]+(NR(0x23a)+NR(0x395)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20</div'+'>'):L['innerHTML']=NR(0x1bb)+NR(0x16e)+NR(zv.d)+NR(zv.zT)+'-to-r\x20from'+'-amber-50\x20'+'to-orange-'+NR(0x339)+NR(zv.zj)+NR(zv.zW)+NR(zv.zy)+NR(zv.za)+NR(zv.zl)+NR(0x3fe)+NR(zv.zi)+NR(0x1a8)+NR(0x17e)+NR(zv.zw)+'10px]\x20font'+NR(zv.zn)+'-orange-60'+NR(zv.zt)+NR(0x201)+'-widest\x22>C'+'urrent\x20Ran'+NR(0x2c3)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NR(zv.zg)+NR(zv.zJ)+NR(0x34c)+NR(0x36d)+NR(0x34f)+'e-900\x22>'+getTier(n['points'])+(NR(zv.zx)+NR(0x165)+NR(zv.zR)+NR(0x17e)+NR(zv.zG)+NR(zv.zK)+'d\x20text-ora'+NR(zv.zV))+n[NR(0x202)]+(NR(0x26d)+NR(0x104)+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NR(zv.zO)+NR(0x12e));}else L&&L['classList'][NR(0x3a4)](NR(0x1bf));const j=document['getElement'+'ById'](NR(0x115)+NR(zv.zd));j&&(j[NR(zv.zY)]=sessionState['mode']+NR(0x1b9)+getDailyString()+(NR(0x12d)+':\x20')+sessionState[NR(zv.zU)]['length']);const W=document[NR(0x22f)+NR(zv.zu)](NR(zv.zh)+NR(zv.zE)),y=!sessionState['guesses'][NR(zv.zI)](J=>J[NR(0x447)]===sessionState[NR(0x34d)][NR(0x447)]);if(W){if(y&&sessionState[NR(zv.zB)+NR(zv.zp)]&&(sessionState[NR(0x2b0)]===NR(0x307)||sessionState[NR(0x2b0)]===NR(0x261))){const J=sessionState[NR(0x2b0)]===NR(0x261)?NR(zv.zm):NR(zv.zX);W[NR(zv.b)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20<'+NR(0xf8)+'\x22flex\x20flex'+NR(zv.zD)+'-center\x20ga'+NR(zv.zr)+'\x20\x20\x20\x20\x20\x20<spa'+NR(zv.zA)+'treak-bann'+NR(zv.zS)+NR(0x16b)+'ak\x20Score</'+'span>\x0a\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20\x20<spa'+NR(zv.zH)+NR(0x2bf)+'er-score\x22>'+sessionState[NR(0x42c)+'ss']+('</span>\x0a\x20\x20'+NR(zv.Z0)+NR(0x2de)+NR(0x2ec)+NR(0x3c5))+J+(NR(0x271)+NR(zv.Z1)+'pan>\x0a\x20\x20\x20\x20\x20'+NR(0x1df)),W['classList'][NR(zv.Z2)](NR(zv.Z3));}else W[NR(zv.V)][NR(0x3a4)](NR(0x1bf));}const a=document[NR(0x22f)+'ById']('modal-acti'+'on-btn');a&&(a['textConten'+'t']=NR(0x3e9)),renderShareEmojis(),c[NR(zv.V)][NR(0x25c)]('hidden');}function renderShareEmojis(){const zM={M:0x3ad,F:0x312},ze={M:0x3c1,F:0x18d,C:0x348},zo={M:0x34d,F:0x3f3},NV=X,M=document['getElement'+'ById'](NV(0x1c6)+NV(zM.M));M[NV(0x29d)]='';const F=GAME_CONFIG[currentGameType];sessionState[NV(zM.F)][NV(0x29a)](C=>{const NO=NV;let c='';F[NO(ze.M)][NO(0x29a)](q=>{const Nd=NO,b=C[q],k=sessionState[Nd(zo.M)][q];if(b===k)c+='🟩';else{if(currentGameType==='uma'){if(Math[Nd(zo.F)](RANK_MAP[b]-RANK_MAP[k])<=0x1)c+='🟨';else c+='⬛';}else q==='length'&&Math[Nd(zo.F)](parseInt(b)-parseInt(k))<=0x190?c+='🟨':c+='⬛';}});const s=document[NO(0x1e7)+NO(ze.F)](NO(ze.C));s['innerText']=c,M[NO(0x370)+'d'](s);});}function closeModal(){const zF={M:0x22f,F:0x3a4,C:0x1bf,c:0x1b4,s:0x2dc,q:0x312,b:0x3ea,k:0x307,P:0x2b0,L:0x312,T:0x33d,j:0x27b},NY=X,M=document[NY(zF.M)+NY(0x2ef)](NY(0x14c)+'al');M[NY(0x242)][NY(zF.F)](NY(zF.C));if(sessionState[NY(0x14d)+NY(0x2dc)]){const C=allPersistentData[currentGameType],c=sessionState[NY(0x2b0)]+NY(zF.c);C[c]=0x0,sessionState[NY(0x14d)+NY(zF.s)]=![],savePersistentData(),updateStatsUI(),updateScoreUI();}const F=sessionState[NY(zF.q)]['some'](s=>s[NY(0x447)]===sessionState[NY(0x34d)][NY(0x447)]);if(sessionState[NY(zF.b)]&&(sessionState[NY(0x2b0)]===NY(zF.k)||sessionState[NY(0x2b0)]===NY(0x261))&&F){startGame(sessionState[NY(zF.P)]);return;}if(sessionState['isGameOver']&&sessionState['mode']===NY(0x231)){const s=sessionState[NY(zF.L)][NY(zF.T)](b=>b[NY(0x447)]===sessionState[NY(0x34d)][NY(0x447)]),q=allPersistentData[currentGameType];q[NY(0x22d)+NY(0x2d2)]=[],q[NY(0x3cc)+'us']=NY(zF.j),q[NY(0x427)+NY(0x171)]=null,savePersistentData(),s&&startGame(NY(0x231));}}function shareToTwitter(){const zC={M:0x2d1,F:0x1bc},NU=X,M=GAME_CONFIG[currentGameType],F=getDailyString(),C=sessionState[NU(0x2b0)]+'\x20|\x20'+F+(NU(0x12d)+':\x20')+sessionState[NU(0x312)]['length'],c=renderShareEmojisText(),s=M[NU(0x353)]+'\x0a'+C+'\x0a'+c+(NU(zC.M)+'Wordle!'),q=NU(0x21f)+'itter.com/'+NU(zC.F)+'et?text='+encodeURIComponent(s);window['open'](q,'_blank');}function e(N,Q){N=N-0xf8;const z=o();let Z=z[N];return Z;}function shareToFacebook(){const zc={M:0x353,F:0x2d1,C:0x293,c:0x1f4,s:0x1d4},Nu=X,M=GAME_CONFIG[currentGameType],F=getDailyString(),C=sessionState[Nu(0x2b0)]+Nu(0x1b9)+F+(Nu(0x12d)+':\x20')+sessionState[Nu(0x312)][Nu(0x14a)],c=renderShareEmojisText(),s=M[Nu(zc.M)]+'\x0a'+C+'\x0a'+c+(Nu(zc.F)+'Wordle!'),q=Nu(zc.C)+'w.facebook'+Nu(0x331)+Nu(0x270)+'hp?quote='+encodeURIComponent(s);window[Nu(zc.c)](q,Nu(zc.s));}function renderShareEmojisText(){const zb={M:0x312,F:0x220},Nh=X;let M='';const F=GAME_CONFIG[currentGameType];return sessionState[Nh(zb.M)][Nh(0x29a)](C=>{const zs={M:0x1ce,F:0x3f3},NE=Nh;F[NE(0x3c1)]['forEach'](c=>{const NI=NE,s=C[c],q=sessionState['target'][c];if(s===q)M+='🟩';else{if(currentGameType===NI(zs.M)){if(Math[NI(0x3f3)](RANK_MAP[s]-RANK_MAP[q])<=0x1)M+='🟨';else M+='⬛';}else c==='length'&&Math[NI(zs.F)](parseInt(s)-parseInt(q))<=0x190?M+='🟨':M+='⬛';}}),M+='\x0a';}),M[Nh(zb.F)]();}function toggleHelp(M){const zk={M:0x19f,F:0x2ef,C:0x349,c:0x378,s:0x124,q:0x10c,b:0x162,k:0x287,P:0x238,L:0x1a8,T:0x197,j:0x30a,W:0x13b,y:0x323,a:0x408,l:0x392,i:0x2e2,w:0x448,n:0x1f7,t:0x40a,g:0x22a,J:0x205,x:0x1b7,R:0x333,G:0x3af,K:0x19e,V:0x176,O:0x18b,d:0x3e1,Y:0x3f2,U:0x2e4,zP:0x2d3,zL:0x1a8,zT:0x114,zj:0x1aa,zW:0x1a8,zy:0x365,za:0x40c,zl:0x328,zi:0x1a8,zw:0x42f,zn:0x1ba,zt:0x24b,zg:0x446,zJ:0x2c2,zx:0x229,zR:0x3e5,zG:0x165,zK:0x28b,zV:0x11d,zO:0x3ac,zd:0x37f,zY:0x1da,zU:0x26f,zu:0x31d,zh:0x3f7,zE:0x168,zI:0x142,zB:0x12c,zp:0x15d,zm:0x27d,zX:0x279,zD:0x39b,zr:0x1f2,zA:0x1a8,zS:0x3ba,zH:0x2e0,Z0:0x148,Z1:0x41c,Z2:0x325,Z3:0x44d,Z4:0x277,Z5:0x262,Z6:0x30a,Z7:0x13b,Z8:0x1d7,Z9:0x415,ZN:0x318,ZQ:0x1a8,Zz:0x3de,ZZ:0x325,Zf:0x16f,Zv:0x400,Zo:0x11f,Ze:0x1c4,ZM:0x298,ZF:0x3ac,ZC:0x3d4,Zc:0x391,Zs:0x1bb,Zq:0x15b,Zb:0x30c,Zk:0x2e9,ZP:0x288,ZL:0x1a8,ZT:0x280,Zj:0x242,ZW:0x1d3},NB=X,F=document['getElement'+'ById'](NB(zk.M)),C=document[NB(0x22f)+NB(zk.F)](NB(zk.C)+'nt');M&&(currentGameType==='uma'?C[NB(0x29d)]=NB(0x1bb)+'\x20\x20\x20\x20\x20\x20\x20<p>'+'Identify\x20t'+NB(0x3f0)+NB(0x1a4)+'by\x20their\x20b'+'ase\x20Aptitu'+NB(zk.c)+NB(0x1e9)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NB(zk.s)+NB(0x1a8)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NB(zk.q)+'\x22font-bold'+NB(0x2e7)+'-800\x20borde'+NB(zk.b)+NB(0x217)+NB(zk.k)+NB(zk.P)+NB(0x1a8)+NB(0x16e)+'v\x20class=\x22s'+NB(0x38e)+NB(0x1bb)+NB(zk.L)+'\x20\x20\x20\x20\x20<div\x20'+NB(0x262)+NB(zk.T)+'nter\x22><spa'+NB(zk.j)+NB(zk.W)+NB(zk.y)+NB(0x281)+NB(0x154)+NB(0x314)+NB(0x28d)+'match!</di'+NB(zk.a)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20\x20\x20<di'+'v\x20class=\x22f'+NB(0x3c7)+NB(zk.l)+NB(0x2de)+'\x22help-dot\x20'+NB(zk.i)+NB(0x377)+NB(0x2f9)+NB(zk.w)+'trong>\x20Nea'+NB(0x3d3)+NB(zk.n)+NB(0x265)+NB(0x187)+NB(0x168)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NB(0x345)+NB(0xf8)+NB(0x443)+'s-center\x22>'+NB(zk.t)+NB(zk.g)+NB(zk.J)+NB(0x214)+NB(0x351)+'g>Gray:</s'+'trong>\x20Far'+NB(zk.x)+NB(0x445)+NB(0x1a8)+NB(zk.R)+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NB(0x24d)+NB(0x445)+NB(0x1a8)+NB(zk.G)+NB(zk.L)+NB(0x256)+NB(0x223)+NB(zk.K)+NB(zk.V)+'\x20border-b\x20'+NB(0x225)+'>Rank\x20Hint'+NB(zk.O)+NB(zk.d)+NB(zk.L)+'\x20\x20\x20\x20\x20\x20<p>↑'+NB(zk.Y)+NB(zk.U)+NB(0x45d)+NB(0x174)+'is\x20lower.<'+'/p>\x0a\x20\x20\x20\x20\x20\x20'+NB(0x1a8)+NB(zk.zP)+NB(zk.zL)+NB(0x164)+(NB(0x1a8)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20<'+NB(zk.zT)+'font-bold\x20'+NB(0x3bd)+NB(0x334)+NB(0x12f)+NB(0x2a9)+NB(zk.zj)+NB(zk.zL)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+'<ul\x20class='+NB(0x344)+'\x20list-insi'+'de\x20text-sm'+NB(0x2e6)+NB(0x2e1)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NB(zk.zW)+NB(0x418)+'ong>Daily\x20'+NB(0x20d)+'ong>\x20A\x20new'+NB(0x2bc)+NB(zk.zy)+NB(zk.za)+NB(zk.zl)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NB(zk.zi)+NB(0x386)+NB(zk.zw)+'mited\x20Mode'+NB(0x288)+NB(0x151)+NB(0x284)+NB(0x3c4)+NB(0x1f6)+NB(0x1a8)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+'\x20\x20\x20\x20<li><s'+NB(zk.zn)+NB(0x1ff)+NB(0x184)+NB(zk.zt)+NB(zk.zg)+NB(zk.zJ)+NB(zk.zx)+NB(zk.zR)+NB(zk.zG)+NB(0x1a8)+NB(0x24f)+NB(0x1ef)+NB(zk.zK)+NB(zk.zV)+'The\x20classi'+NB(0x10d)+'ce!</li>\x0a\x20'+NB(0x1a8)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NB(zk.zO)+NB(zk.zd)+NB(0x20d)+NB(zk.zY)+NB(zk.zU)+NB(0x2d5)+NB(zk.zu)+NB(zk.zh)+'Good\x20Luck!'+'</li>\x0a\x20\x20\x20\x20'+NB(0x1a8)+'\x20\x20\x20\x20\x20\x20</ul'+NB(0x165)+NB(0x400)+NB(zk.zE)+NB(0x417)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+'\x20\x20'):C['innerHTML']=NB(0x1bb)+NB(0x2f8)+NB(0x2f0)+'he\x20hidden\x20'+'G1\x20Race\x20by'+NB(0x178)+NB(0x1e6)+NB(0x2d0)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NB(zk.zI)+NB(0x1a8)+NB(0x319)+NB(zk.zB)+NB(zk.zp)+NB(0x423)+NB(zk.zm)+NB(zk.zX)+NB(zk.zD)+NB(zk.zr)+NB(0x135)+NB(zk.zA)+'\x20\x20\x20\x20\x20<div\x20'+NB(0x22c)+'ce-y-2\x22>\x0a\x20'+NB(0x1a8)+NB(0x1a8)+NB(0x146)+NB(0x3de)+NB(zk.zS)+NB(zk.zH)+NB(zk.Z0)+NB(zk.Z1)+'#6aaa64]\x22>'+NB(zk.Z2)+NB(zk.Z3)+'n:</strong'+NB(0x3b6)+'tch!</div>'+NB(0x1bb)+NB(0x1a8)+NB(zk.Z4)+NB(zk.Z5)+NB(0x197)+NB(0x39d)+NB(zk.Z6)+NB(zk.Z7)+NB(zk.Z8)+NB(0x281)+NB(0x28f)+NB(zk.Z9)+NB(0x41f)+'\x20(Length\x20w'+NB(zk.ZN)+NB(0x2b2)+NB(zk.ZQ)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NB(0x146)+NB(zk.Zz)+NB(zk.zS)+NB(0x2e0)+NB(0x148)+NB(0x41c)+NB(0x243)+NB(zk.ZZ)+NB(zk.Zf)+NB(0x288)+NB(0x194)+NB(0x45c)+NB(zk.zW)+NB(zk.Zv)+'div>\x0a\x20\x20\x20\x20\x20'+NB(zk.zW)+'\x20</div>\x0a\x20\x20'+NB(0x1a8)+'\x20\x20\x20\x20<div>\x0a'+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NB(0x1a8)+NB(0x10c)+'\x22font-bold'+NB(0x2e7)+NB(0x221)+NB(0x162)+NB(zk.Zo)+NB(0x1cf)+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NB(0x1a8)+NB(zk.Ze)+NB(0x3a2)+'c\x20list-ins'+NB(0x3e6)+NB(zk.ZM)+'2\x20ml-1\x22>\x0a\x20'+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NB(0x1a8)+NB(zk.ZF)+NB(0x2ae)+NB(0x1ff)+NB(0x355)+NB(0x139)+'very\x20day\x20a'+('t\x20midnight'+NB(0x25a)+NB(0x1bb)+NB(0x1a8)+'\x20\x20\x20\x20\x20<li><'+NB(zk.ZC)+NB(zk.Zc)+'e:</strong'+NB(0x437)+'many\x20puzzl'+NB(0x30d)+'want!</li>'+NB(zk.Zs)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NB(0x373)+NB(0x3aa)+NB(0x401)+'trong>\x20A\x20m'+'ore\x20forgiv'+NB(0x100)+NB(0x1d6)+NB(0x324)+NB(zk.Zq)+NB(0x32b)+NB(zk.zi)+'\x20\x20\x20\x20\x20\x20\x20<li'+NB(zk.Zb)+NB(zk.Zk)+NB(zk.ZP)+'\x20The\x20class'+NB(0x1ee)+'nce!</li>\x0a'+NB(0x1a8)+NB(zk.ZL)+'\x20\x20\x20\x20<li><s'+NB(0x34e)+NB(0x1ff)+NB(0x1d9)+'ames,\x20only'+NB(0x1f9)+'and\x20just\x202'+'\x20attempts!'+'\x20Good\x20Luck'+'!</li>\x0a\x20\x20\x20'+NB(0x1a8)+'\x20\x20\x20\x20\x20\x20\x20</u'+NB(zk.ZT)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20<'+'/div>\x0a\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20\x20\x20\x20')),F[NB(zk.Zj)][NB(zk.ZW)](NB(0x1bf),!M);}function showAutocomplete(){}function hideAutocomplete(){}function checkDevMode(){const zT={M:0x444,F:0x131,C:0x3cf,c:0x227,s:0x3e2,q:0x429,b:0x3a4,k:0x25c,P:0x1bf},Np=X,M=new URLSearchParams(window['location'][Np(zT.M)]),F=M[Np(0x458)](Np(zT.F)+'uka')===Np(zT.C),C=document[Np(0x22f)+Np(0x2ef)](Np(0x1a3)+Np(0x342)),c=document[Np(0x1dc)+'tor'](Np(zT.c)+'lick=\x22star'+'tGame(\x27ran'+Np(zT.s)),s=document['querySelec'+'tor'](Np(zT.q)+'le-500.ita'+Np(0x389));if(!F){if(C)C[Np(0x242)][Np(0x3a4)](Np(0x1bf));if(c)c['classList'][Np(0x3a4)](Np(0x1bf));if(s)s[Np(0x242)][Np(zT.b)]('hidden');}else{if(C)C[Np(0x242)]['remove']('hidden');if(c)c[Np(0x242)][Np(zT.k)](Np(zT.P));if(s)s['classList'][Np(0x25c)]('hidden');}}const CURRENT_VERSION=X(0x2f6);function openChangelog(){const zj={M:0x3f9,F:0x403,C:0x242,c:0x25c,s:0x1bf},Nm=X,M=document['getElement'+Nm(0x2ef)](Nm(zj.M)+Nm(zj.F));M[Nm(zj.C)][Nm(zj.c)](Nm(zj.s));}function closeChangelog(){const zW={M:0x2ef,F:0x403,C:0x3a4,c:0x1fe,s:0x2fe,q:0x3a8},NX=X,M=document[NX(0x22f)+NX(zW.M)](NX(0x3f9)+NX(zW.F));M[NX(0x242)][NX(zW.C)]('hidden'),localStorage[NX(zW.c)](NX(zW.s)+NX(zW.q))!==CURRENT_VERSION&&localStorage[NX(0x433)]('uma_wordle'+NX(0x3a8),CURRENT_VERSION);}window[X(0x374)+'stener'](X(0x2a3),()=>{setTimeout(checkChangelog,0x1f4);});function checkChangelog(){const za={M:0x3a8},ND=X,M=localStorage['getItem'](ND(0x2fe)+ND(za.M));M!==CURRENT_VERSION&&openChangelog();}let currentStatsTab=X(0x1ce);function openStats(){const zl={M:0x22f},Nr=X;currentStatsTab=currentGameType,renderStatsModal(),document[Nr(zl.M)+Nr(0x2ef)]('stats-moda'+'l')['classList']['remove']('hidden');}function closeStats(){const zi={M:0x22f,F:0x3a4},NA=X;document[NA(zi.M)+NA(0x2ef)](NA(0x3db)+'l')[NA(0x242)][NA(zi.F)](NA(0x1bf));}function switchStatsTab(M){const zw={M:0x1c1,F:0x1ce,C:0x22f,c:0x155,s:0x2cc,q:0x166,b:0x3d0,k:0x340,P:0x244,L:0x219,T:0x244,j:0x156,W:0x166,y:0x235,a:0x41d,l:0x219,i:0x301,w:0x2ef,n:0x3fc,t:0x1ce,g:0x3d8},NS=X;currentStatsTab=M;const F=document['getElement'+'ById'](NS(zw.M)+NS(zw.F)),C=document[NS(zw.C)+'ById'](NS(0x1c1)+NS(zw.c));M==='uma'?(F[NS(0x244)]=NS(0x156)+'1.5\x20rounde'+NS(zw.s)+'bold\x20text-'+NS(zw.q)+NS(zw.b)+'-white\x20sha'+'dow-sm\x20tex'+NS(zw.k)+'0',C[NS(zw.P)]=NS(0x156)+NS(0x41d)+NS(zw.s)+NS(zw.L)+NS(0x166)+NS(0x2fd)+NS(0x411)+NS(0x2ee)+NS(0x301)+'0'):(C[NS(zw.T)]=NS(zw.j)+'1.5\x20rounde'+NS(zw.s)+'bold\x20text-'+NS(zw.W)+NS(0x3d0)+NS(zw.y)+NS(0x40d)+NS(0x340)+'0',F[NS(0x244)]=NS(0x156)+NS(zw.a)+NS(zw.s)+NS(zw.l)+NS(0x166)+NS(0x2fd)+NS(0x411)+'0\x20hover:te'+NS(zw.i)+'0'),document['getElement'+NS(zw.w)](NS(0x360)+NS(zw.n))[NS(0x1e0)+'t']=NS(0x222)+(M===NS(zw.t)?NS(zw.g):NS(0x13d))+NS(0x3b4),renderStatsContent();}function renderStatsModal(){switchStatsTab(currentStatsTab);}function renderStatsContent(){const zt={M:0x27f,F:0x455,C:0x1ce,c:0x3d8,s:0x2f2,q:0x3ef,b:0x450,k:0x3ec,P:0x17d,L:0x1db,T:0x19b,j:0x380,W:0x457,y:0x11c,a:0x3f8,l:0x108,i:0x309,w:0x16c,n:0x122,t:0x273,g:0x1b6,J:0x451,x:0x416,R:0x2de,G:0x3f8,K:0x226,V:0x208,O:0x10a,d:0x371,Y:0x21d,U:0x1bb,zg:0x157,zJ:0x29b,zx:0x1cc,zR:0x3b5,zG:0x12b,zK:0x309,zV:0x3ef,zO:0x110,zd:0x2b7,zY:0x17e,zU:0x277,zu:0x245,zh:0x290,zE:0x236,zI:0x1d2,zB:0x3f8,zp:0x16c,zm:0x173,zX:0x2b6,zD:0x352,zr:0x21d,zA:0x2c8,zS:0x3c2,zH:0x18f,Z0:0x23b,Z1:0x13a,Z2:0x1db,Z3:0x320,Z4:0x2fa,Z5:0x165,Z6:0x422,Z7:0x2f1,Z8:0x208,Z9:0x10a,ZN:0x21d,ZQ:0x37b,Zz:0x286,ZZ:0x414,Zf:0x159,Zv:0x1c2,Zo:0x412,Ze:0x2f2,ZM:0x335,ZF:0x192,ZC:0x402,Zc:0x3c0,Zs:0x237,Zq:0x3f1,Zb:0x317,Zk:0x28a,ZP:0x13c,ZL:0x440,ZT:0x224,Zj:0x237,ZW:0x173,Zy:0x13c,Za:0x2d6,Zl:0x23b,Zi:0x408,Zw:0x1b3,Zn:0x2c6,Zt:0x11c,Zg:0x226,ZJ:0x42b,Zx:0x19b,ZR:0x380,ZG:0x2ed,ZK:0x450,ZV:0x289,ZO:0x416,Zd:0x224,ZY:0x16c,ZU:0x237,Zu:0x3eb,Zh:0x2f3,ZE:0x3f8,ZI:0x18f,ZB:0x449,Zp:0x422,Zm:0x454,ZX:0x2de,ZD:0x3f8,Zr:0x15a,ZA:0x371,ZS:0x3f5,ZH:0x2de,f0:0x188},NH=X,M=allPersistentData[currentStatsTab],F=document[NH(0x22f)+NH(0x2ef)](NH(0x1e2)+NH(0x18d)),C=M[NH(zt.M)+'k']||0x0,c=M[NH(0x2e5)+NH(0x3ca)]||0x0,s=M[NH(0x36e)]||0x0,q=M[NH(zt.F)]||0x0,b=currentStatsTab===NH(zt.C)?NH(zt.c):'G1\x20Race';F[NH(0x29d)]=NH(0x412)+'class=\x22sta'+NH(zt.s)+NH(0x335)+NH(zt.q)+NH(0x192)+NH(zt.b)+NH(0x21e)+NH(zt.k)+'iv\x20class=\x22'+NH(zt.P)+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20'+NH(0x13a)+NH(zt.L)+'ill\x22>\x0a\x20\x20\x20\x20'+NH(zt.T)+NH(0x416)+NH(zt.j)+NH(zt.W)+C+(NH(zt.y)+NH(0x1d2)+NH(0x2de)+NH(zt.a)+NH(0x440)+NH(zt.l)+'eak</span>'+NH(zt.i)+NH(zt.w)+'\x20\x20\x20\x20<div\x20c'+'lass=\x22stat'+NH(zt.n)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20<'+NH(0x14e)+NH(zt.t)+NH(zt.g))+(M[NH(0x127)+NH(0x3ca)]||C)+(NH(0x11c)+NH(0x1d2)+'pan\x20class='+NH(zt.a)+NH(0x18f)+'est\x20Streak'+NH(0x11c)+NH(0x23b)+'v>\x0a\x20\x20\x20\x20\x20\x20\x20'+'\x20<div\x20clas'+NH(0x1db)+NH(zt.J)+NH(0x19b)+NH(zt.x)+'tats-pill-'+NH(zt.W))+(M['dailyPlaye'+'d']||0x0)+('</span>\x0a\x20\x20'+NH(0x1d2)+NH(zt.R)+NH(zt.G)+NH(0x15a)+NH(zt.K)+NH(zt.V)+NH(zt.O)+NH(zt.d)+NH(zt.Y)+NH(0x3d9)+NH(zt.U)+NH(zt.zg)+NH(zt.zJ)+NH(zt.zx)+'\x22>')+(M[NH(zt.zR)]||0x0)+(NH(0x11c)+NH(0x1d2)+NH(0x2de)+NH(zt.G)+NH(0x188)+NH(zt.zG)+NH(zt.zK)+'/div>\x0a\x20\x20\x20\x20'+NH(0x31f)+'\x20\x20\x20</div>\x0a'+NH(0x412)+'class=\x22sta'+NH(0x2f2)+NH(0x335)+NH(zt.zV)+'tats-secti'+NH(0x450)+NH(zt.zO)+NH(zt.zd)+NH(zt.zY)+NH(0x29b)+NH(0x385)+NH(zt.zU)+NH(zt.zu)+NH(zt.zh)+NH(zt.zE)+'lue\x22>\x0a\x20\x20\x20\x20'+NH(0x19b)+NH(0x416)+NH(zt.j)+NH(zt.W))+q+('</span>\x0a\x20\x20'+NH(zt.zI)+NH(0x2de)+NH(zt.zB)+NH(0x440)+NH(0x108)+'eak</span>'+NH(0x309)+NH(zt.zp)+NH(0x439)+'lass=\x22stat'+NH(zt.zm)+NH(zt.zX)+NH(0x2b9)+NH(zt.zD)+NH(zt.zr)+NH(0x3be)+NH(0x3eb))+(M[NH(zt.zA)+NH(zt.zS)]||q)+(NH(0x11c)+NH(0x1d2)+NH(0x2de)+NH(0x3f8)+NH(zt.zH)+'est\x20Streak'+NH(0x11c)+NH(zt.Z0)+NH(0x408)+NH(zt.Z1)+NH(zt.Z2)+NH(zt.Z3)+NH(zt.Z4)+NH(zt.Z5)+NH(zt.Z6)+'ass=\x22stats'+NH(0x350)+'e\x22>')+(M[NH(zt.Z7)]||0x0)+(NH(0x11c)+NH(zt.zI)+NH(0x2de)+'\x22stats-pil'+NH(0x15a)+NH(zt.K)+NH(zt.Z8)+NH(zt.Z9)+NH(0x371)+NH(zt.ZN)+NH(zt.ZQ)+'tats-pill-'+'blue\x22>\x0a\x20\x20\x20'+NH(zt.Zz)+NH(zt.ZZ)+'stats-pill'+NH(zt.Zf))+(M[NH(zt.Zv)]||0x0)+(NH(zt.y)+'\x20\x20\x20\x20\x20\x20\x20\x20<s'+NH(0x2de)+NH(0x3f8)+NH(0x188)+NH(0x12b)+NH(zt.i)+NH(0x16c)+'\x20\x20</div>\x0a\x20'+'\x20\x20\x20</div>\x0a'+NH(zt.Zo)+NH(0x245)+NH(zt.Ze)+NH(zt.ZM)+NH(zt.zV)+NH(zt.ZF)+'on-title\x22>'+NH(zt.ZC)+'Unlimited)'+NH(zt.Zc)+NH(0x13a)+'s=\x22stats-g'+'rid\x22>\x0a\x20\x20\x20\x20'+NH(0x439)+NH(zt.Zs)+NH(0x173)+NH(zt.Zq)+NH(zt.Zb)+'\x20\x20\x20\x20<span\x20'+NH(0x245)+NH(zt.Zk)+NH(zt.ZP))+c+(NH(0x11c)+NH(0x1d2)+NH(zt.R)+NH(zt.a)+NH(zt.ZL)+NH(0x108)+NH(zt.ZT)+NH(0x309)+NH(0x16c)+NH(0x439)+NH(zt.Zj)+NH(zt.ZW)+'ts-pill-re'+NH(0x317)+'\x20\x20\x20\x20<span\x20'+NH(0x245)+NH(0x28a)+NH(zt.Zy))+(M['bestUnlimi'+NH(zt.Za)]||c)+('</span>\x0a\x20\x20'+NH(0x1d2)+NH(zt.R)+'\x22stats-pil'+NH(0x18f)+NH(0x449)+'</span>\x0a\x20\x20'+NH(zt.Zl)+NH(zt.Zi)+'\x20<div\x20clas'+NH(zt.L)+'ill\x20stats-'+'pill-red\x22>'+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20'+NH(0x157)+'ss=\x22stats-'+'pill-value'+'\x22>')+(M[NH(zt.Zw)+NH(zt.Zn)]||0x0)+(NH(zt.Zt)+'\x20\x20\x20\x20\x20\x20\x20\x20<s'+NH(0x2de)+NH(0x3f8)+NH(0x15a)+NH(zt.Zg)+NH(zt.V)+NH(zt.O)+NH(zt.d)+NH(0x21d)+NH(zt.ZQ)+NH(zt.j)+NH(zt.ZJ)+NH(zt.Zx)+NH(0x416)+NH(zt.ZR)+NH(0x457))+(M[NH(0x1f1)+'ins']||0x0)+(NH(zt.y)+'\x20\x20\x20\x20\x20\x20\x20\x20<s'+NH(0x2de)+'\x22stats-pil'+NH(0x188)+NH(0x12b)+NH(0x309)+NH(0x16c)+NH(0x31f)+NH(zt.ZG)+NH(0x412)+NH(0x245)+NH(0x2f2)+NH(0x335)+NH(zt.zV)+NH(zt.ZF)+NH(zt.ZK)+'💀\x20Hard\x20Mod'+'e</p>\x0a\x20\x20\x20\x20'+'\x20\x20<div\x20cla'+NH(0x29b)+NH(0x385)+NH(zt.zU)+NH(zt.zu)+'ts-pill\x20st'+NH(0x17b)+NH(zt.ZV)+NH(0x19b)+NH(zt.ZO)+NH(0x380)+NH(0x457))+s+(NH(0x11c)+NH(0x1d2)+'pan\x20class='+NH(zt.a)+NH(0x440)+NH(zt.l)+NH(zt.Zd)+NH(0x309)+NH(zt.ZY)+NH(0x439)+NH(zt.ZU)+NH(0x173)+NH(0x252)+NH(0x213)+'\x20\x20\x20\x20\x20<span'+'\x20class=\x22st'+'ats-pill-v'+NH(zt.Zu))+(M[NH(zt.Zh)+NH(zt.zS)]||s)+(NH(0x11c)+NH(0x1d2)+NH(0x2de)+NH(zt.ZE)+NH(zt.ZI)+NH(zt.ZB)+NH(0x11c)+'\x20\x20\x20\x20\x20\x20</di'+NH(0x408)+NH(0x13a)+'s=\x22stats-p'+'ill\x20stats-'+'pill-dark\x22'+'>\x0a\x20\x20\x20\x20\x20\x20\x20\x20'+NH(zt.Zp)+NH(0x27e)+'-pill-valu'+'e\x22>')+(M[NH(zt.Zm)]||0x0)+(NH(0x11c)+NH(zt.zI)+NH(zt.ZX)+NH(zt.ZD)+NH(zt.Zr)+NH(0x226)+NH(0x208)+NH(zt.O)+NH(zt.ZA)+'\x20class=\x22st'+NH(0x37b)+'tats-pill-'+NH(zt.ZS)+NH(0x286)+NH(zt.ZZ)+'stats-pill'+'-value\x22>')+(M[NH(0x1b0)]||0x0)+(NH(zt.Zt)+NH(0x1d2)+NH(zt.ZH)+'\x22stats-pil'+NH(zt.f0)+NH(0x12b)+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20<'+NH(0x16c)+NH(0x31f)+NH(zt.ZG)+'\x20\x20');}function resetStatsTab(){const zg={M:0x1b2,F:0x13d,C:0x30b,c:0x241},Q0=X;if(!confirm(Q0(zg.M)+(currentStatsTab==='uma'?Q0(0x3d8):Q0(zg.F))+('\x20statistic'+Q0(zg.C)+'nnot\x20be\x20un'+Q0(zg.c))))return;allPersistentData[currentStatsTab]={'dailyStreak':0x0,'easyStreak':0x0,'unlimitedStreak':0x0,'hardStreak':0x0,'bestDailyStreak':0x0,'bestEasyStreak':0x0,'bestUnlimitedStreak':0x0,'bestHardStreak':0x0,'dailyPlayed':0x0,'dailyWins':0x0,'easyPlayed':0x0,'easyWins':0x0,'unlimitedPlayed':0x0,'unlimitedWins':0x0,'hardPlayed':0x0,'hardWins':0x0,'lastPlayedDate':null,'dailyGuesses':[],'dailyStatus':'playing','rankedGuesses':[],'rankedStatus':Q0(0x27b),'rankedTargetName':null,'unlimitedSession':null,'hardSession':null},savePersistentData(),updateStatsUI(),renderStatsContent();}function resetAllStats(){const zJ={M:0x3a0,F:0x200,C:0x2c1,c:0x155},Q1=X;if(!confirm('Reset\x20ALL\x20'+Q1(zJ.M)+'\x20for\x20both\x20'+Q1(0x1a4)+Q1(zJ.F)+Q1(zJ.C)+Q1(0x303)+'done.'))return;const M=()=>({'dailyStreak':0x0,'easyStreak':0x0,'unlimitedStreak':0x0,'hardStreak':0x0,'bestDailyStreak':0x0,'bestEasyStreak':0x0,'bestUnlimitedStreak':0x0,'bestHardStreak':0x0,'dailyPlayed':0x0,'dailyWins':0x0,'easyPlayed':0x0,'easyWins':0x0,'unlimitedPlayed':0x0,'unlimitedWins':0x0,'hardPlayed':0x0,'hardWins':0x0,'lastPlayedDate':null,'dailyGuesses':[],'dailyStatus':'playing','rankedGuesses':[],'rankedStatus':Q1(0x27b),'rankedTargetName':null,'unlimitedSession':null,'hardSession':null});allPersistentData['uma']=M(),allPersistentData[Q1(zJ.c)]=M(),savePersistentData(),updateStatsUI(),renderStatsContent();}const _origHandleWin=handleWin;function handleWin(M=0x0){const zx={M:0x2b0,F:0x2f1,C:0x1c2,c:0x1b3,s:0x2c6,q:0x1f1,b:0x454,k:0x1b0,P:0x33e,L:0x27f,T:0x3b3,j:0x3b1,W:0x2d6,y:0x3ce,a:0x2f3,l:0x2f3,i:0x36e},Q2=X,F=allPersistentData[currentGameType],C=sessionState[Q2(zx.M)];if(C===Q2(0x33e))F['dailyPlaye'+'d']=(F[Q2(0x140)+'d']||0x0)+0x1,F[Q2(0x3b5)]=(F[Q2(0x3b5)]||0x0)+0x1;else{if(C===Q2(0x3b3))F['easyPlayed']=(F[Q2(zx.F)]||0x0)+0x1,F[Q2(zx.C)]=(F[Q2(zx.C)]||0x0)+0x1;else{if(C===Q2(0x307))F[Q2(zx.c)+Q2(0x2c6)]=(F[Q2(0x1b3)+Q2(zx.s)]||0x0)+0x1,F[Q2(zx.q)+'ins']=(F['unlimitedW'+Q2(0x1f0)]||0x0)+0x1;else C===Q2(0x261)&&(F[Q2(0x454)]=(F[Q2(zx.b)]||0x0)+0x1,F[Q2(zx.k)]=(F[Q2(0x1b0)]||0x0)+0x1);}}_origHandleWin(M);const c=allPersistentData[currentGameType];if(C===Q2(zx.P))c[Q2(0x127)+Q2(0x3ca)]=Math[Q2(0x3b1)](c[Q2(0x127)+Q2(0x3ca)]||0x0,c[Q2(zx.L)+'k']);else{if(C===Q2(zx.T))c[Q2(0x2c8)+'reak']=Math[Q2(zx.j)](c[Q2(0x2c8)+Q2(0x3c2)]||0x0,c['easyStreak']);else{if(C===Q2(0x307))c[Q2(0x3ce)+Q2(zx.W)]=Math[Q2(0x3b1)](c[Q2(zx.y)+Q2(0x2d6)]||0x0,c['unlimitedS'+Q2(0x3ca)]);else C==='hard'&&(c[Q2(zx.a)+'reak']=Math['max'](c[Q2(zx.l)+'reak']||0x0,c[Q2(zx.i)]));}}savePersistentData();}const _origHandleLoss=handleLoss;function handleLoss(M=0x0){const zR={M:0x2b0,F:0x140,C:0x2f1,c:0x307,s:0x261},Q3=X,F=allPersistentData[currentGameType],C=sessionState[Q3(zR.M)];if(C==='daily')F[Q3(0x140)+'d']=(F[Q3(zR.F)+'d']||0x0)+0x1;else{if(C===Q3(0x3b3))F[Q3(zR.C)]=(F['easyPlayed']||0x0)+0x1;else{if(C===Q3(zR.c))F[Q3(0x1b3)+'layed']=(F['unlimitedP'+Q3(0x2c6)]||0x0)+0x1;else C===Q3(zR.s)&&(F[Q3(0x454)]=(F['hardPlayed']||0x0)+0x1);}}_origHandleLoss(M),savePersistentData();}loadGameData();
+const GAME_CONFIG = {
+  uma: {
+    keys: ['sprint', 'mile', 'med', 'long', 'front', 'pace', 'late', 'end', 'turf', 'dirt'],
+    headers: ['Spr', 'Mil', 'Med', 'Lon', 'Fro', 'Pac', 'Lat', 'End', 'Trf', 'Drt'],
+    data: () => UMAS,
+    placeholder: "Enter Umamusume name...",
+    resultTitle: "Winning Umamusume",
+    storageKey: 'uma_wordle_stats',
+    helpDesc: "Guess the Umamusume based on their base Aptitudes!",
+    shareTitle: "TRACENDLE",
+    sections: [{
+        title: "Distance",
+        keys: ['sprint', 'mile', 'med', 'long'],
+        color: 'blue'
+      },
+      {
+        title: "Strategy",
+        keys: ['front', 'pace', 'late', 'end'],
+        color: 'purple'
+      },
+      {
+        title: "Track",
+        keys: ['turf', 'dirt'],
+        color: 'orange'
+      }
+    ]
+  },
+  course: {
+    keys: ['length', 'surface', 'turn', 'location'],
+    headers: ['Length', 'Surface', 'Turn', 'Location'],
+    data: () => COURSES,
+    placeholder: "Enter G1 Race name...",
+    resultTitle: "Winning G1 Race",
+    storageKey: 'course_wordle_stats',
+    helpDesc: "Guess the G1 Race based on its course features!",
+    shareTitle: "TRACENDLE",
+    sections: [{
+      title: "Course Info",
+      keys: ['length', 'surface', 'turn', 'location'],
+      color: 'green'
+    }]
+  }
+};
+
+let currentGameType = 'uma';
+let UMAS = [];
+let COURSES = [];
+const RANK_MAP = {
+  'S': 6,
+  'A': 5,
+  'B': 4,
+  'C': 3,
+  'D': 2,
+  'E': 1,
+  'F': 0,
+  'G': -1
+};
+
+let allPersistentData = {
+  uma: {
+    dailyStreak: 0,
+    easyStreak: 0,
+    unlimitedStreak: 0,
+    hardStreak: 0,
+    lastPlayedDate: null,
+    dailyGuesses: [],
+    dailyStatus: 'playing',
+    rankedGuesses: [],
+    rankedStatus: 'playing',
+    rankedTargetName: null
+  },
+  course: {
+    dailyStreak: 0,
+    easyStreak: 0,
+    unlimitedStreak: 0,
+    hardStreak: 0,
+    lastPlayedDate: null,
+    dailyGuesses: [],
+    dailyStatus: 'playing',
+    rankedGuesses: [],
+    rankedStatus: 'playing',
+    rankedTargetName: null
+  }
+};
+
+let sessionState = {
+  active: false,
+  mode: null,
+  target: null,
+  guesses: [],
+  clues: [],
+  unlimitedScore: 0,
+  isGameOver: false,
+  knownStats: {},
+  pendingStreakReset: false,
+  streakAtLoss: 0
+};
+
+const GRADES = ["G", "F", "E", "D", "C", "B", "A", "S"];
+const POINTS_PER_TIER = 200;
+const DIV_THRESHOLD = 100;
+
+function getTier(points) {
+  if (points >= 1500) return "SS";
+
+  const gradeIndex = Math.floor(points / POINTS_PER_TIER);
+  const baseGrade = GRADES[gradeIndex] || "G";
+
+  const progressInGrade = points % POINTS_PER_TIER;
+  const suffix = progressInGrade >= DIV_THRESHOLD ? "+" : "";
+
+  const lp = progressInGrade % DIV_THRESHOLD;
+
+  return `${baseGrade}${suffix}`;
+}
+
+function getVerifiedRankedStats(mode) {
+  const storageKey = `${mode}_ranked_stats`;
+  const saved = localStorage.getItem(storageKey);
+
+  if (!saved) return {
+    points: 0,
+    winStreak: 0,
+    lossStreak: 0,
+    placements: 0,
+    rankProtection: 0
+  };
+
+  try {
+    const parsed = JSON.parse(saved);
+    if (parsed.data && parsed.checksum === generateChecksum(parsed.data)) {
+      return parsed.data;
+    }
+    console.warn(`Tampering detected in ${mode} ranked stats! Goldship is watching you...`);
+  } catch (e) {
+    console.error("Failed to parse ranked stats", e);
+  }
+
+  return {
+    points: 0,
+    winStreak: 0,
+    lossStreak: 0,
+    placements: 0,
+    rankProtection: 0
+  };
+}
+
+function updateRankedStats(isWin, mode) {
+  const storageKey = `${mode}_ranked_stats`;
+  const saved = localStorage.getItem(storageKey);
+  let stats;
+
+  if (saved) {
+    try {
+      const parsed = JSON.parse(saved);
+      stats = (parsed.data && parsed.checksum === generateChecksum(parsed.data)) ?
+        parsed.data : {
+          points: 0,
+          winStreak: 0,
+          lossStreak: 0,
+          placements: 0,
+          rankProtection: 0
+        };
+    } catch (e) {
+      stats = {
+        points: 0,
+        winStreak: 0,
+        lossStreak: 0,
+        placements: 0,
+        rankProtection: 0
+      };
+    }
+  } else {
+    stats = {
+      points: 0,
+      winStreak: 0,
+      lossStreak: 0,
+      placements: 0,
+      rankProtection: 0
+    };
+  }
+
+  const isRanked = localStorage.getItem('is_ranked_session') === 'true';
+  if (!isRanked) return stats;
+
+  if (isWin) {
+    const guessCount = sessionState.guesses.length;
+
+    if (stats.placements < 5) {
+      let placementGain = 0;
+      if (guessCount <= 2) {
+        placementGain = 200;
+      } else if (guessCount === 3) {
+        placementGain = 130;
+      } else if (guessCount === 4) {
+        placementGain = 80;
+      } else {
+        placementGain = 40;
+      }
+      stats.points += placementGain;
+    } else {
+      stats.winStreak++;
+      stats.lossStreak = 0;
+
+      const oldTierIndex = Math.floor(stats.points / 200); //
+      let baseGain = 20;
+      const efficiencyBonus = guessCount <= 2 ? 15 : 0;
+      let gain = baseGain + efficiencyBonus + Math.min(stats.winStreak * 5, 30);
+
+      stats.points += gain;
+
+      const newTierIndex = Math.floor(stats.points / 200);
+      if (newTierIndex > oldTierIndex) {
+        stats.rankProtection = 2;
+      }
+    }
+  } else {
+    stats.winStreak = 0;
+    stats.lossStreak++;
+
+    if (stats.placements >= 5) {
+      if (stats.rankProtection > 0) {
+        stats.rankProtection--;
+      } else {
+        let lossPenalty = 0;
+        if (stats.points >= 800) {
+          lossPenalty = 15 + Math.min((stats.lossStreak - 1) * 5, 5);
+        } else if (stats.points >= 400) {
+          lossPenalty = 5 + Math.min((stats.lossStreak - 1) * 5, 5);
+        } else {
+          lossPenalty = 0;
+        }
+        stats.points = Math.max(0, stats.points - lossPenalty);
+      }
+    }
+  }
+
+  if (stats.placements < 5) stats.placements++;
+
+  const storageWrapper = {
+    data: stats,
+    checksum: generateChecksum(stats)
+  };
+  localStorage.setItem(storageKey, JSON.stringify(storageWrapper));
+
+  return stats;
+}
+
+function generateChecksum(obj) {
+  const salt = "Satono Diamond";
+  const str = JSON.stringify(obj) + salt;
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    const char = str.charCodeAt(i);
+    hash = ((hash << 5) - hash) + char;
+    hash |= 0;
+  }
+  return hash.toString(16);
+}
+
+function getUTC8Time() {
+  return new Date(Date.now() + 28800000);
+}
+
+function getDailyString(offsetDays = 0) {
+  const date8 = getUTC8Time();
+  if (offsetDays !== 0) date8.setDate(date8.getDate() + offsetDays);
+
+  const y = date8.getUTCFullYear();
+  const m = date8.getUTCMonth();
+  const d = date8.getUTCDate();
+
+  return `${y}-${m}-${d}`;
+}
+
+async function loadGameData() {
+  try {
+    const [umaRes, courseRes] = await Promise.all([
+      fetch('data.json'),
+      fetch('courses.json')
+    ]);
+    UMAS = await umaRes.json();
+    COURSES = await courseRes.json();
+    init();
+  } catch (error) {
+    console.error("Failed to load data:", error);
+  }
+}
+
+function init() {
+checkDevMode();
+  loadPersistentData();
+  switchGameType('uma');
+  startClock();
+  loadTheme()
+}
+
+function switchGameType(type) {
+  currentGameType = type;
+  const config = GAME_CONFIG[type];
+
+  const tabUma = document.getElementById('tab-uma');
+  const tabCourse = document.getElementById('tab-course');
+  if (type === 'uma') {
+    tabUma.className = "flex-1 py-2 rounded-lg font-bold transition-all bg-white shadow-sm text-green-700";
+    tabCourse.className = "flex-1 py-2 rounded-lg font-bold transition-all text-gray-500 hover:text-gray-700";
+  } else {
+    tabCourse.className = "flex-1 py-2 rounded-lg font-bold transition-all bg-white shadow-sm text-green-700";
+    tabUma.className = "flex-1 py-2 rounded-lg font-bold transition-all text-gray-500 hover:text-gray-700";
+  }
+
+  document.getElementById('menu-description').innerText = config.helpDesc;
+
+  const today = getDailyString();
+  const yesterday = getDailyString(-1);
+  const pData = allPersistentData[type];
+  if (pData.lastPlayedDate !== today) {
+    pData.dailyGuesses = [];
+    pData.dailyStatus = 'playing';
+    if (pData.lastPlayedDate !== yesterday) {
+      pData.dailyStreak = 0;
+    }
+    savePersistentData();
+  }
+
+  updateStatsUI();
+  checkDailyStatus();
+  displayYesterdayAnswer();
+
+  const headRow = document.createElement('tr');
+  headRow.className = "text-[10px] md:text-xs font-bold uppercase";
+
+  const nameTh = document.createElement('th');
+  nameTh.className = "name-col p-1 bg-gray-100 text-gray-600 rounded-t-lg text-[9px]";
+  nameTh.innerText = "Name";
+  headRow.appendChild(nameTh);
+
+  config.headers.forEach((header, index) => {
+    const th = document.createElement('th');
+    th.className = `p-2 ${index === 0 ? 'rounded-tl-lg' : ''} ${index === config.headers.length - 1 ? 'rounded-tr-lg cell-group-end' : ''}`;
+    if (type === 'uma') {
+      if (index < 4) th.className += " head-dist";
+      else if (index < 8) th.className += " head-strat";
+      else th.className += " head-track";
+    } else {
+      th.className += " head-course";
+    }
+    th.innerText = header;
+    headRow.appendChild(th);
+  });
+  document.getElementById('guess-head').innerHTML = '';
+  document.getElementById('guess-head').appendChild(headRow);
+  document.getElementById('uma-input').placeholder = config.placeholder;
+}
+
+function loadPersistentData() {
+  const saved = localStorage.getItem('uma_wordle_v2_stats');
+  if (saved) {
+    try {
+      const parsed = JSON.parse(saved);
+
+      if (parsed.data && parsed.checksum) {
+        const actualChecksum = generateChecksum(parsed.data);
+
+        if (actualChecksum === parsed.checksum) {
+          allPersistentData = parsed.data;
+        } else {
+          console.warn("Stats tampering detected. Resetting to default Three Godesses will curse you.");
+        }
+      } else {
+        allPersistentData = parsed;
+        savePersistentData(); // 
+      }
+    } catch (e) {
+      console.error("Failed to parse persistent data:", e);
+    }
+  }
+}
+
+function savePersistentData() {
+  const storageWrapper = {
+    data: allPersistentData,
+    checksum: generateChecksum(allPersistentData)
+  };
+  localStorage.setItem('uma_wordle_v2_stats', JSON.stringify(storageWrapper));
+}
+
+function getTargetForDate(dateStr, dataList) {
+  if (!dataList || dataList.length === 0) return null;
+
+  let bestItem = dataList[0];
+  let maxScore = -Infinity;
+
+  for (const item of dataList) {
+    const combinedStr = dateStr + item.name;
+    let score = 0;
+    for (let i = 0; i < combinedStr.length; i++) {
+      score = ((score << 5) - score) + combinedStr.charCodeAt(i);
+      score |= 0; 
+    }
+
+    if (score > maxScore) {
+      maxScore = score;
+      bestItem = item;
+    }
+  }
+  return bestItem;
+}
+
+function displayYesterdayAnswer() {
+  const config = GAME_CONFIG[currentGameType];
+  const dataList = config.data();
+  const yesterdayStr = getDailyString(-1);
+  const yesterdayTarget = getTargetForDate(yesterdayStr, dataList);
+  document.getElementById('yesterday-info').innerText = `Yesterday's Answer: ${yesterdayTarget.name}`;
+}
+
+function startClock() {
+  const clockEl = document.getElementById('server-time');
+  if (!clockEl) return;
+
+  setInterval(() => {
+    const now8 = getUTC8Time();
+    
+    const nextMidnight8 = new Date(now8);
+    nextMidnight8.setUTCDate(nextMidnight8.getUTCDate() + 1);
+    nextMidnight8.setUTCHours(0, 0, 0, 0);
+    
+    const diff = nextMidnight8 - now8;
+    
+    if (diff <= 0) {
+        location.reload();
+        return; 
+    }
+
+    const h = String(Math.floor((diff / (1000 * 60 * 60)) % 24)).padStart(2, '0');
+    const m = String(Math.floor((diff / (1000 * 60)) % 60)).padStart(2, '0');
+    const s = String(Math.floor((diff / 1000) % 60)).padStart(2, '0');
+    
+    clockEl.innerText = `NEXT DAILY IN: ${h}:${m}:${s}`;
+  }, 1000);
+}
+
+function toggleTheme() {
+  const body = document.body;
+  body.classList.toggle('dark');
+  localStorage.setItem('theme', body.classList.contains('dark') ? 'dark' : 'light');
+}
+
+function loadTheme() {
+  const savedTheme = localStorage.getItem('theme');
+  if (savedTheme === null || savedTheme === 'dark') {
+    document.body.classList.add('dark');
+    if (savedTheme === null) localStorage.setItem('theme', 'dark');
+  }
+}
+
+function showResult(isWin) {
+  const modal = document.getElementById('result-modal');
+  const title = document.getElementById('result-title');
+  const content = document.getElementById('result-content');
+  const target = sessionState.target;
+
+  const isRanked = localStorage.getItem('is_ranked_session') === 'true';
+  let rankedStats = null;
+
+  if (isRanked) {
+    rankedStats = updateRankedStats(isWin, sessionState.mode);
+  }
+
+  if (isWin) {
+    resultTitle.textContent = "Victory!";
+    resultTitle.className = "text-2xl font-bold text-green-600 mb-2";
+  } else {
+    resultTitle.textContent = "Better luck next time!";
+    resultTitle.className = "text-2xl font-bold text-red-600 mb-2";
+  }
+
+  title.innerText = isWin ? "Victory!" : "Better Luck Next Time";
+  title.className = isWin ? "text-2xl font-bold text-green-600" : "text-2xl font-bold text-red-600";
+
+  content.innerHTML = `
+    <div class="flex flex-col items-center gap-4">
+        <p class="text-lg">The ${GAME_CONFIG[GAME_STATE.mode].resultTitle} was:</p>
+        <div class="font-black text-3xl tracking-wider text-green-800">${target.name}</div>
+        ${target.image ? `
+    <div class="w-full flex justify-center my-2">
+        <img src="${target.image}" 
+             class="max-h-48 w-auto object-contain rounded-lg shadow-sm border border-gray-100" 
+             alt="${target.name}">
+    </div>` : ''}
+        `;
+
+  modal.classList.remove('hidden');
+  modal.classList.add('flex');
+
+}
+
+function startGame(mode) {
+  if (mode === 'ranked') {
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get('silencesuzuka') !== 'true') return;
+  }
+  const config = GAME_CONFIG[currentGameType];
+  const dataList = config.data();
+  const today = getDailyString();
+
+  if (mode === 'ranked') {
+    localStorage.setItem('is_ranked_session', 'true');
+  } else {
+    localStorage.setItem('is_ranked_session', 'false');
+  }
+  sessionState.active = true;
+  sessionState.mode = mode;
+  sessionState.guesses = [];
+  sessionState.clues = [];
+  sessionState.isGameOver = false;
+  sessionState.knownStats = {};
+  sessionState.maxGuesses = mode === 'daily' ? 5 :
+    mode === 'hard' ? 2 :
+    mode === 'easy' ? Infinity :
+    5;
+
+  if (mode === 'daily') {
+    sessionState.target = getTargetForDate(today, dataList);
+    const pData = allPersistentData[currentGameType];
+    if (pData.lastPlayedDate === today) {
+      sessionState.guesses = [...pData.dailyGuesses];
+      if (pData.dailyStatus !== 'playing') sessionState.isGameOver = true;
+    } else {
+      pData.lastPlayedDate = today;
+      pData.dailyGuesses = [];
+      pData.dailyStatus = 'playing';
+      savePersistentData();
+    }
+  } else if (mode === 'ranked') {
+    const pData = allPersistentData[currentGameType];
+    if (pData.rankedStatus === 'playing' && pData.rankedTargetName && pData.rankedGuesses && pData.rankedGuesses.length > 0) {
+      const savedTarget = dataList.find(item => item.name === pData.rankedTargetName);
+      if (savedTarget) {
+        sessionState.target = savedTarget;
+        sessionState.guesses = [...pData.rankedGuesses];
+      } else {
+        sessionState.target = dataList[Math.floor(Math.random() * dataList.length)];
+        pData.rankedGuesses = [];
+        pData.rankedStatus = 'playing';
+        pData.rankedTargetName = sessionState.target.name;
+        savePersistentData();
+      }
+    } else {
+      sessionState.target = dataList[Math.floor(Math.random() * dataList.length)];
+      pData.rankedGuesses = [];
+      pData.rankedStatus = 'playing';
+      pData.rankedTargetName = sessionState.target.name;
+      savePersistentData();
+    }
+  } else {
+    sessionState.target = dataList[Math.floor(Math.random() * dataList.length)];
+  }
+
+  if (mode === 'hard') {
+    const otherItems = dataList.filter(item => item.name !== sessionState.target.name);
+    const shuffled = otherItems.sort(() => 0.5 - Math.random());
+    sessionState.clues = shuffled.slice(0, 3);
+  }
+
+  renderGameLayout();
+
+  if (mode === 'daily' && sessionState.guesses.length > 0) {
+    sessionState.guesses.forEach(g => {
+      updateKnownStats(g);
+      addGuessRow(g, false);
+    });
+    if (sessionState.isGameOver) {
+      document.getElementById('input-container').classList.add('hidden');
+      const pData = allPersistentData[currentGameType];
+      if (pData.dailyStatus === 'won') {
+        showModal("Goal In!", `You found the answer!`, false);
+      } else {
+        showModal("Retired...", `The correct answer was ${sessionState.target.name}. Try again tomorrow!`, false);
+      }
+    }
+  }
+
+  if (mode === 'ranked' && sessionState.guesses.length > 0) {
+    sessionState.guesses.forEach(g => {
+      updateKnownStats(g);
+      addGuessRow(g, false);
+    });
+    updateGuessCountUI();
+  }
+
+  if (mode === 'hard') {
+    sessionState.clues.forEach(c => addGuessRow(c, true));
+    setTimeout(() => {
+      const inp = document.getElementById('uma-input');
+      if (inp) inp.focus();
+      renderSuggestions('');
+    }, 200);
+  }
+}
+
+function renderGameLayout() {
+  document.getElementById('menu-screen').classList.add('hidden');
+  document.getElementById('game-screen').classList.remove('hidden');
+  document.getElementById('mode-indicator').innerText = currentGameType + " / " + sessionState.mode;
+  document.getElementById('guess-grid').innerHTML = '';
+  document.getElementById('uma-input').value = '';
+  document.getElementById('input-container').classList.remove('hidden');
+  document.getElementById('input-container').classList.remove('hidden'); 
+
+  document.getElementById('mode-indicator').innerText = currentGameType + " / " + sessionState.mode;
+  document.getElementById('guess-grid').innerHTML = '';
+  document.getElementById('uma-input').value = '';
+
+  const nameCols = document.querySelectorAll('.name-col');
+  nameCols.forEach(col => {
+    if (sessionState.mode === 'hard') col.classList.add('hidden');
+    else col.classList.remove('hidden');
+  });
+
+  updateGuessCountUI();
+  updateScoreUI();
+  renderSuggestions('');
+}
+
+function updateGuessCountUI() {
+  const maxAttempts = sessionState.mode === 'daily' ?
+    5 :
+    sessionState.mode === 'hard' ?
+    2 :
+    sessionState.mode === 'easy' ?
+    '∞' :
+    5;
+
+  if (maxAttempts === '∞') {
+    document.getElementById('remaining-guesses').innerText = 'Unlimited';
+  } else {
+    const remaining = maxAttempts - sessionState.guesses.length;
+    document.getElementById('remaining-guesses').innerText = Math.max(0, remaining);
+  }
+}
+
+function showMenu() {
+  localStorage.setItem('is_ranked_session', 'false');
+  document.getElementById('menu-screen').classList.remove('hidden');
+  document.getElementById('game-screen').classList.add('hidden');
+  
+  document.getElementById('input-container').classList.add('hidden'); 
+
+  checkDailyStatus();
+}
+
+function checkDailyStatus() {
+  const today = getDailyString();
+  const statusDiv = document.getElementById('daily-status');
+  const pData = allPersistentData[currentGameType];
+  if (pData.lastPlayedDate === today && pData.dailyStatus !== 'playing') {
+    statusDiv.innerText = `Daily ${currentGameType.toUpperCase()} Wordle completed for today!`;
+    statusDiv.classList.add('text-green-600');
+  } else {
+    statusDiv.innerText = "";
+    statusDiv.classList.remove('text-green-600');
+  }
+}
+
+function updateScoreUI() {
+  const el = document.getElementById('score-display');
+  const pData = allPersistentData[currentGameType];
+
+  if (sessionState.mode === 'daily') {
+    el.innerText = `Daily Streak: ${pData.dailyStreak}`;
+  } else {
+    const modeKey = `${sessionState.mode}Streak`;
+    const currentStreak = pData[modeKey] || 0;
+    el.innerText = `${sessionState.mode.charAt(0).toUpperCase() + sessionState.mode.slice(1)} Streak: ${currentStreak}`;
+  }
+}
+
+function updateStatsUI() {
+  const pData = allPersistentData[currentGameType];
+  document.getElementById('stats-summary').innerHTML = `<span class="text-xs uppercase text-gray-400">Daily Streak:</span> ${pData.dailyStreak}`;
+  const rankedData = getVerifiedRankedStats(currentGameType);
+
+  const tierNameEl = document.getElementById('menu-tier-name');
+  const tierPointsEl = document.getElementById('menu-tier-points');
+  const placementEl = document.getElementById('menu-placements');
+  const streakBadge = document.getElementById('streak-badge');
+
+  if (rankedData.placements < 5) {
+    tierNameEl.innerText = "UNRANKED";
+    tierPointsEl.innerText = "Complete placement matches";
+    placementEl.innerText = `Placements: ${rankedData.placements}/5`;
+    streakBadge.classList.add('hidden');
+  } else {
+    tierNameEl.innerText = `${getTier(rankedData.points)} TIER`;
+    tierPointsEl.innerText = `${rankedData.points} Points`;
+    placementEl.innerText = "Rank Active";
+
+    if (rankedData.winStreak >= 2) {
+      streakBadge.innerText = `🔥 ${rankedData.winStreak} STREAK`;
+      streakBadge.classList.remove('hidden');
+    } else {
+      streakBadge.classList.add('hidden');
+    }
+  }
+}
+
+const input = document.getElementById('uma-input');
+function updateKnownStats(item) {
+  const config = GAME_CONFIG[currentGameType];
+  config.keys.forEach(key => {
+    if (item[key] === sessionState.target[key]) {
+      sessionState.knownStats[key] = item[key];
+    }
+  });
+}
+
+function renderSuggestions(filterText = "") {
+  const val = filterText.toLowerCase().trim();
+  const pickerGrid = document.getElementById('picker-grid');
+  if (!pickerGrid) return;
+
+  pickerGrid.innerHTML = '';
+
+  const config = GAME_CONFIG[currentGameType];
+  const dataList = config.data();
+  const guessedNames = sessionState.guesses.map(g => g.name);
+  const MATCH_THRESHOLD = currentGameType === 'uma' ? 999 : 2;
+
+  let matches = dataList.filter(u =>
+    !guessedNames.includes(u.name) &&
+    (val === '' || u.name.toLowerCase().includes(val))
+  );
+
+  matches.sort((a, b) => a.name.localeCompare(b.name));
+
+  if (matches.length === 0 && val !== '') {
+    pickerGrid.innerHTML = `<p class="picker-empty">No matches for "<strong>${filterText}</strong>"</p>`;
+    return;
+  }
+
+  matches.forEach(match => {
+    let matchCount = 0;
+    Object.entries(sessionState.knownStats).forEach(([key, value]) => {
+      if (match[key] === value) matchCount++;
+    });
+    const displayBadge = currentGameType === 'uma' && matchCount >= MATCH_THRESHOLD;
+
+    const card = document.createElement('div');
+    card.className = 'picker-card' + (displayBadge ? ' potential-match' : '');
+    card.dataset.name = match.name;
+    card.innerHTML = `
+      <img src="${match.image}" alt="${match.name}" class="picker-card-img">
+      <span class="picker-card-name">${match.name}</span>
+      ${displayBadge ? `<span class="picker-card-badge">⭐</span>` : ''}
+    `;
+    card.onclick = () => {
+      submitGuess(match);
+      const inp = document.getElementById('uma-input');
+      if (inp) inp.value = '';
+      renderSuggestions('');
+    };
+    pickerGrid.appendChild(card);
+  });
+}
+
+input.addEventListener('input', (e) => renderSuggestions(e.target.value));
+
+function submitGuess(guessItem) {
+  if (sessionState.isGameOver) return;
+  if (sessionState.guesses.some(g => g.name === guessItem.name)) return;
+
+  const pData = allPersistentData[currentGameType];
+
+  sessionState.guesses.push(guessItem);
+  updateKnownStats(guessItem);
+
+  if (sessionState.mode === 'daily') {
+    pData.dailyGuesses = [...sessionState.guesses];
+    savePersistentData();
+  }
+
+  if (sessionState.mode === 'ranked') {
+    pData.rankedGuesses = [...sessionState.guesses];
+    savePersistentData();
+  }
+
+  const animDuration = addGuessRow(guessItem, false, true);
+  updateGuessCountUI();
+
+  if (sessionState.mode === 'hard' && guessItem.name !== sessionState.target.name) {
+    const totalCells = GAME_CONFIG[currentGameType].keys.length;
+    const reopenDelay = (totalCells - 1) * 300 + 500 + 200;
+    setTimeout(() => {
+      const inp = document.getElementById('uma-input');
+      if (inp && !sessionState.isGameOver) {
+        inp.value = '';
+        inp.focus();
+        renderSuggestions('');
+      }
+    }, reopenDelay);
+  }
+
+  if (guessItem.name === sessionState.target.name) {
+    handleWin(animDuration);
+  } else if (sessionState.guesses.length >= sessionState.maxGuesses) {
+    handleLoss(animDuration);
+  }
+}
+
+function launchConfetti() {
+  const canvas = document.createElement('canvas');
+  canvas.style.cssText = 'position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:9999;';
+  document.body.appendChild(canvas);
+  const ctx = canvas.getContext('2d');
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+
+  const COLORS = ['#6aaa64','#c9b458','#f59e0b','#3b82f6','#ec4899','#8b5cf6','#ffffff'];
+  const pieces = Array.from({ length: 140 }, () => ({
+    x: Math.random() * canvas.width,
+    y: -10 - Math.random() * 200,
+    w: 8 + Math.random() * 8,
+    h: 5 + Math.random() * 5,
+    color: COLORS[Math.floor(Math.random() * COLORS.length)],
+    rotation: Math.random() * Math.PI * 2,
+    rotSpeed: (Math.random() - 0.5) * 0.15,
+    vx: (Math.random() - 0.5) * 3,
+    vy: 2.5 + Math.random() * 3.5,
+    opacity: 1
+  }));
+
+  let frame;
+  const start = performance.now();
+
+  function draw(now) {
+    const elapsed = now - start;
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    let alive = false;
+    pieces.forEach(p => {
+      p.x += p.vx;
+      p.y += p.vy;
+      p.vy += 0.06; 
+      p.rotation += p.rotSpeed;
+      if (elapsed > 1800) p.opacity = Math.max(0, p.opacity - 0.012);
+
+      if (p.y < canvas.height + 20 && p.opacity > 0) alive = true;
+
+      ctx.save();
+      ctx.globalAlpha = p.opacity;
+      ctx.translate(p.x, p.y);
+      ctx.rotate(p.rotation);
+      ctx.fillStyle = p.color;
+      ctx.fillRect(-p.w / 2, -p.h / 2, p.w, p.h);
+      ctx.restore();
+    });
+
+    if (alive && elapsed < 4000) {
+      frame = requestAnimationFrame(draw);
+    } else {
+      cancelAnimationFrame(frame);
+      canvas.remove();
+    }
+  }
+  frame = requestAnimationFrame(draw);
+}
+
+function handleWin(animDuration = 0) {
+  sessionState.isGameOver = true;
+  const pData = allPersistentData[currentGameType];
+
+  if (sessionState.mode === 'daily') {
+    pData.dailyStatus = 'won';
+    pData.dailyStreak++;
+  } else if (sessionState.mode === 'ranked') {
+    pData.rankedStatus = 'won';
+    pData.rankedGuesses = [...sessionState.guesses];
+  } else {
+    const modeKey = `${sessionState.mode}Streak`;
+    if (pData[modeKey] === undefined) pData[modeKey] = 0;
+    pData[modeKey]++;
+  }
+  updateRankedStats(true, currentGameType);
+  updateStatsUI();
+  savePersistentData();
+
+  const confettiDelay = animDuration + 100;
+  setTimeout(launchConfetti, confettiDelay);
+
+  document.getElementById('input-container').classList.add('hidden');
+  setTimeout(() => {
+    showModal("Goal In!", `Excellent work! You've identified ${sessionState.target.name}!`, true);
+    updateScoreUI();
+    updateStatsUI();
+  }, animDuration + 600);
+}
+
+function handleLoss(animDuration = 0) {
+  sessionState.isGameOver = true;
+  const pData = allPersistentData[currentGameType];
+
+  if (sessionState.mode === 'daily') {
+    pData.dailyStatus = 'lost';
+    pData.dailyStreak = 0;
+    pData.dailyGuesses = [...sessionState.guesses];
+    pData.lastPlayedDate = getDailyString();
+    sessionState.pendingStreakReset = false;
+    sessionState.streakAtLoss = 0;
+    savePersistentData();
+  } else if (sessionState.mode === 'ranked') {
+    pData.rankedStatus = 'lost';
+    pData.rankedGuesses = [...sessionState.guesses];
+    sessionState.pendingStreakReset = false;
+    sessionState.streakAtLoss = 0;
+    savePersistentData();
+  } else {
+    const modeKey = `${sessionState.mode}Streak`;
+    sessionState.streakAtLoss = pData[modeKey] || 0;
+    sessionState.pendingStreakReset = true;
+  }
+
+  updateRankedStats(false, currentGameType);
+  updateStatsUI();
+
+  document.getElementById('input-container').classList.add('hidden');
+  setTimeout(() => {
+    showModal("LOST...", `The correct answer was ${sessionState.target.name}.`, true);
+    updateScoreUI();
+    updateStatsUI();
+  }, animDuration + 600);
+}
+
+function addGuessRow(item, isClue = false, animate = true) {
+  const grid = document.getElementById('guess-grid');
+  const row = document.createElement('tr');
+  if (isClue) row.classList.add('clue-row');
+
+  const config = GAME_CONFIG[currentGameType];
+
+  const nameCell = document.createElement('td');
+  nameCell.className = "name-col p-2 bg-white/80 font-bold border-b border-gray-200";
+  if (sessionState.mode === 'hard') nameCell.classList.add('hidden');
+  if (!isClue) {
+    const imgClass = currentGameType === 'course'
+      ? 'course-img w-14 h-14 object-contain mx-auto rounded-md shadow-sm'
+      : 'w-10 h-10 object-cover mx-auto rounded-full shadow-sm';
+    nameCell.innerHTML = `
+      <img src="${item.image}" alt="${item.name}" title="${item.name}"
+           class="${imgClass}" />
+    `;
+  } else {
+    nameCell.textContent = '???';
+  }
+  row.appendChild(nameCell);
+
+  const isAnswer = !isClue && item.name === sessionState.target.name;
+
+  const FLIP_MS = 500;
+  const STAGGER_MS = 300;
+
+  const cellData = config.keys.map(key => {
+    const val = item[key];
+    const targetVal = sessionState.target[key];
+    let status = 'absent';
+    let arrow = '';
+
+    if (currentGameType === 'uma') {
+      const tRank = RANK_MAP[targetVal] ?? -2;
+      const gRank = RANK_MAP[val] ?? -2;
+      if (val === targetVal) status = 'correct';
+      else if (Math.abs(tRank - gRank) <= 1) status = 'present';
+      if (gRank < tRank) arrow = ' ↑';
+      else if (gRank > tRank) arrow = ' ↓';
+    } else {
+      if (val === targetVal) {
+        status = 'correct';
+      } else if (key === 'length') {
+        if (Math.abs(parseInt(val) - parseInt(targetVal)) <= 400) status = 'present';
+      }
+    }
+    return { val, arrow, status };
+  });
+
+  cellData.forEach(({ val, arrow, status }, i) => {
+    const cell = document.createElement('td');
+    cell.className = `p-2 wordle-cell font-black tracking-wide${isAnswer ? ' answer-cell' : ''}`;
+    cell.innerText = val + arrow;
+
+    if (animate && !isClue) {
+      const delay = i * STAGGER_MS;
+      cell.style.animationDelay = `${delay}ms`;
+      cell.classList.add('wordle-flip');
+      setTimeout(() => {
+        cell.classList.add(status);
+      }, delay + FLIP_MS / 2);
+    } else {
+      cell.classList.add(status);
+    }
+
+    row.appendChild(cell);
+  });
+
+  grid.appendChild(row);
+
+  if (isAnswer) {
+    const lastDelay = animate && !isClue
+      ? (cellData.length - 1) * STAGGER_MS + FLIP_MS
+      : 0;
+    setTimeout(() => {
+      row.classList.add('correct-answer');
+      nameCell.classList.add('correct');
+    }, lastDelay);
+  }
+
+  return animate && !isClue
+    ? (cellData.length - 1) * STAGGER_MS + FLIP_MS
+    : 0;
+}
+
+function showModal(title, msg, isNewGameOver = true) {
+  const modal = document.getElementById('result-modal');
+  const config = GAME_CONFIG[currentGameType];
+
+  document.getElementById('result-title').innerText = title;
+  document.getElementById('result-msg').innerText = msg;
+
+  const targetNameElement = document.getElementById('target-name');
+  const targetLabel = document.getElementById('target-label');
+  const shareTitleText = document.getElementById('share-title-text');
+
+  if (targetNameElement) {
+    targetNameElement.innerHTML = `<span class="text-lg font-black text-green-700">${sessionState.target.name}</span>`;
+    const imgWrap = document.getElementById('target-img-wrap');
+    if (imgWrap) {
+      imgWrap.innerHTML = sessionState.target.image
+        ? `<img src="${sessionState.target.image}" alt="${sessionState.target.name}" class="result-target-thumb">`
+        : '';
+    }
+  }
+
+  if (targetLabel) targetLabel.innerText = config.resultTitle;
+  if (shareTitleText) shareTitleText.innerText = config.shareTitle;
+
+  const targetGrid = document.getElementById('target-stats-grid');
+  if (targetGrid) {
+    targetGrid.innerHTML = '';
+    config.sections.forEach(section => {
+      const sectionDiv = document.createElement('div');
+      sectionDiv.className = "result-stat-section";
+
+      const h4 = document.createElement('h4');
+      h4.className = `result-stat-section-title text-${section.color}-600`;
+      h4.innerText = section.title;
+      sectionDiv.appendChild(h4);
+
+      const statsDiv = document.createElement('div');
+      statsDiv.className = "result-stat-row";
+
+      section.keys.forEach(key => {
+        const statBox = document.createElement('div');
+        statBox.className = "result-stat-pill";
+
+        const label = document.createElement('span');
+        label.className = "result-stat-pill-label";
+        label.innerText = key;
+
+        const val = document.createElement('span');
+        val.className = "result-stat-pill-value";
+        val.innerText = sessionState.target[key];
+
+        statBox.appendChild(label);
+        statBox.appendChild(val);
+        statsDiv.appendChild(statBox);
+      });
+
+      sectionDiv.appendChild(statsDiv);
+      targetGrid.appendChild(sectionDiv);
+    });
+  }
+
+  const rankedProfileContainer = document.getElementById('ranked-result-profile');
+  const isRankedSession = localStorage.getItem('is_ranked_session') === 'true';
+
+  if (isRankedSession && rankedProfileContainer) {
+    const storageKey = `${currentGameType}_ranked_stats`;
+    const saved = localStorage.getItem(storageKey);
+    let stats = {
+      points: 0,
+      placements: 0
+    };
+
+    if (saved) {
+      try {
+        const parsed = JSON.parse(saved);
+        stats = parsed.data || stats;
+      } catch (e) {
+        console.error("Error loading stats for modal", e);
+      }
+    }
+
+    rankedProfileContainer.classList.remove('hidden');
+
+    if (stats.placements < 5) {
+      rankedProfileContainer.innerHTML = `
+                <div class="bg-blue-50 border border-blue-200 rounded-lg p-3 text-center mb-4">
+                    <div class="text-[10px] font-bold text-blue-600 uppercase tracking-widest">Current Rank</div>
+                    <div class="text-2xl font-black text-blue-800 uppercase">UNRANKED</div>
+                    <div class="text-xs font-bold text-blue-700 mt-1">Placement: ${stats.placements} / 5 Matches</div>
+                </div>`;
+    } else {
+      rankedProfileContainer.innerHTML = `
+                <div class="bg-gradient-to-r from-amber-50 to-orange-50 border border-orange-200 rounded-lg p-3 text-center mb-4 shadow-sm">
+                    <div class="text-[10px] font-bold text-orange-600 uppercase tracking-widest">Current Rank</div>
+                    <div class="text-2xl font-black text-orange-900">${getTier(stats.points)} TIER</div>
+                    <div class="text-xs font-bold text-orange-700">${stats.points} Rating Points</div>
+                </div>`;
+    }
+  } else if (rankedProfileContainer) {
+    rankedProfileContainer.classList.add('hidden');
+  }
+
+  const shareInfo = document.getElementById('share-info-text');
+  if (shareInfo) {
+    shareInfo.innerText = `${sessionState.mode} | ${getDailyString()} | Guesses: ${sessionState.guesses.length}`;
+  }
+
+  const streakBanner = document.getElementById('loss-streak-banner');
+  const isLoss = !sessionState.guesses.some(g => g.name === sessionState.target.name);
+  if (streakBanner) {
+    if (isLoss && sessionState.pendingStreakReset && (sessionState.mode === 'unlimited' || sessionState.mode === 'hard')) {
+      const modeName = sessionState.mode === 'hard' ? 'Hard' : 'Normal';
+      streakBanner.innerHTML = `
+        <div class="flex flex-col items-center gap-1">
+          <span class="streak-banner-label">Final Streak Score</span>
+          <span class="streak-banner-score">${sessionState.streakAtLoss}</span>
+          <span class="streak-banner-sub">${modeName} Mode Streak Lost</span>
+        </div>`;
+      streakBanner.classList.remove('hidden');
+    } else {
+      streakBanner.classList.add('hidden');
+    }
+  }
+
+  const actionBtn = document.getElementById('modal-action-btn');
+  if (actionBtn) {
+    actionBtn.textContent = 'Continue';
+  }
+
+  renderShareEmojis();
+  modal.classList.remove('hidden');
+}
+
+function renderShareEmojis() {
+  const preview = document.getElementById('share-block-preview');
+  preview.innerHTML = '';
+  const config = GAME_CONFIG[currentGameType];
+
+  sessionState.guesses.forEach(guess => {
+    let rowStr = '';
+    config.keys.forEach(key => {
+      const val = guess[key];
+      const targetVal = sessionState.target[key];
+      if (val === targetVal) rowStr += '🟩';
+      else if (currentGameType === 'uma') {
+        if (Math.abs(RANK_MAP[val] - RANK_MAP[targetVal]) <= 1) rowStr += '🟨';
+        else rowStr += '⬛';
+      } else if (key === 'length' && Math.abs(parseInt(val) - parseInt(targetVal)) <= 400) {
+        rowStr += '🟨';
+      } else {
+        rowStr += '⬛';
+      }
+    });
+    const div = document.createElement('div');
+    div.innerText = rowStr;
+    preview.appendChild(div);
+  });
+}
+
+function closeModal() {
+  const modal = document.getElementById('result-modal');
+  modal.classList.add('hidden');
+
+  if (sessionState.pendingStreakReset) {
+    const pData = allPersistentData[currentGameType];
+    const modeKey = `${sessionState.mode}Streak`;
+    pData[modeKey] = 0;
+    sessionState.pendingStreakReset = false;
+    savePersistentData();
+    updateStatsUI();
+    updateScoreUI();
+  }
+
+  const isWin = sessionState.guesses.some(g => g.name === sessionState.target.name);
+  if (sessionState.isGameOver && (sessionState.mode === 'unlimited' || sessionState.mode === 'hard') && isWin) {
+    startGame(sessionState.mode);
+    return;
+  }
+
+  if (sessionState.isGameOver && sessionState.mode === 'ranked') {
+    const isWin = sessionState.guesses.some(g => g.name === sessionState.target.name);
+
+    const pData = allPersistentData[currentGameType];
+    pData.rankedGuesses = [];
+    pData.rankedStatus = 'playing';
+    pData.rankedTargetName = null;
+    savePersistentData();
+
+    if (isWin) {
+      startGame('ranked');
+    }
+  }
+}
+
+function shareToTwitter() {
+  const config = GAME_CONFIG[currentGameType];
+  const today = getDailyString();
+  const shareInfo = `${sessionState.mode} | ${today} | Guesses: ${sessionState.guesses.length}`;
+  const emojiGrid = renderShareEmojisText();
+  const shareText = `${config.shareTitle}\n${shareInfo}\n${emojiGrid}\n\nPlay UmaWordle!`;
+  const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}`;
+  window.open(twitterUrl, '_blank');
+}
+
+function shareToFacebook() {
+  const config = GAME_CONFIG[currentGameType];
+  const today = getDailyString();
+  const shareInfo = `${sessionState.mode} | ${today} | Guesses: ${sessionState.guesses.length}`;
+  const emojiGrid = renderShareEmojisText();
+  const shareText = `${config.shareTitle}\n${shareInfo}\n${emojiGrid}\n\nPlay UmaWordle!`;
+  const facebookUrl = `https://www.facebook.com/sharer/sharer.php?quote=${encodeURIComponent(shareText)}`;
+  window.open(facebookUrl, '_blank');
+}
+
+function renderShareEmojisText() {
+  let result = '';
+  const config = GAME_CONFIG[currentGameType];
+
+  sessionState.guesses.forEach(guess => {
+    config.keys.forEach(key => {
+      const val = guess[key];
+      const targetVal = sessionState.target[key];
+      if (val === targetVal) result += '🟩';
+      else if (currentGameType === 'uma') {
+        if (Math.abs(RANK_MAP[val] - RANK_MAP[targetVal]) <= 1) result += '🟨';
+        else result += '⬛';
+      } else if (key === 'length' && Math.abs(parseInt(val) - parseInt(targetVal)) <= 400) {
+        result += '🟨';
+      } else {
+        result += '⬛';
+      }
+    });
+    result += '\n';
+  });
+  return result.trim();
+}
+
+function toggleHelp(show) {
+  const modal = document.getElementById('help-modal');
+  const helpContent = document.getElementById('help-content');
+
+  if (show) {
+    if (currentGameType === 'uma') {
+      helpContent.innerHTML = `
+                <p>Identify the hidden Umamusume by their base Aptitudes (A to G).</p>
+                <div>
+                    <h3 class="font-bold text-gray-800 border-b pb-1 mb-2">Color Indicators</h3>
+                    <div class="space-y-2">
+                        <div class="flex items-center"><span class="help-dot bg-[#6aaa64]"></span> <strong>Green:</strong> Exact match!</div>
+                        <div class="flex items-center"><span class="help-dot bg-[#c9b458]"></span> <strong>Yellow:</strong> Near match (within 1 rank, e.g., A vs B).</div>
+                        <div class="flex items-center"><span class="help-dot bg-[#787c7e]"></span> <strong>Gray:</strong> Far match.</div>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="font-bold text-gray-800 border-b pb-1 mb-2">Rank Hints (Arrows)</h3>
+                    <p>↑: Target rank is higher. ↓: Target rank is lower.</p>
+                </div>
+                <div>
+                    <h3 class="font-bold text-gray-800 border-b pb-1 mb-2">Game Modes</h3>
+                    <ul class="list-disc list-inside text-sm space-y-2 ml-1">
+                        <li><strong>Daily Mode:</strong> A new puzzle every day at midnight JST!</li>
+                        <li><strong>Unlimited Mode:</strong> Play as many puzzles as you want!</li>
+                        <li><strong>Easy Mode:</strong> A more forgiving difficulty level for new players!</li>
+                        <li><strong>Normal Mode:</strong> The classic experience!</li>
+                        <li><strong>Hard Mode:</strong> no names, only 3 clues, and just 2 attempts! Good Luck!</li>
+                    </ul>
+                </div>
+              
+            `;
+    } else {
+      helpContent.innerHTML = `
+                <p>Identify the hidden G1 Race by its course features.</p>
+                <div>
+                    <h3 class="font-bold text-gray-800 border-b pb-1 mb-2">Color Indicators</h3>
+                    <div class="space-y-2">
+                        <div class="flex items-center"><span class="help-dot bg-[#6aaa64]"></span> <strong>Green:</strong> Exact match!</div>
+                        <div class="flex items-center"><span class="help-dot bg-[#c9b458]"></span> <strong>Yellow:</strong> Close (Length within 400m).</div>
+                        <div class="flex items-center"><span class="help-dot bg-[#787c7e]"></span> <strong>Gray:</strong> Incorrect.</div>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="font-bold text-gray-800 border-b pb-1 mb-2">Game Modes</h3>
+                    <ul class="list-disc list-inside text-sm space-y-2 ml-1">
+                        <li><strong>Daily Mode:</strong> A new puzzle every day at midnight JST!</li>
+                        <li><strong>Unlimited Mode:</strong> Play as many puzzles as you want!</li>
+                        <li><strong>Easy Mode:</strong> A more forgiving difficulty level for new players!</li>
+                        <li><strong>Normal Mode:</strong> The classic experience!</li>
+                        <li><strong>Hard Mode:</strong> no names, only 3 clues, and just 2 attempts! Good Luck!</li>
+                    </ul>
+                </div>
+            `;
+    }
+  }
+
+  modal.classList.toggle('hidden', !show);
+}
+
+function showAutocomplete() { /* picker panel is always visible — no-op */ }
+function hideAutocomplete() { /* picker panel is always visible — no-op */ }
+
+function checkDevMode() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const isDev = urlParams.get('silencesuzuka') === 'true';
+
+  const rankedView = document.getElementById('ranked-profile-view');
+  const rankedBtn = document.querySelector("button[onclick=\"startGame('ranked')\"]");
+  const rankedWarning = document.querySelector(".text-purple-500.italic");
+  
+
+  if (!isDev) {
+    if (rankedView) rankedView.classList.add('hidden');
+    if (rankedBtn) rankedBtn.classList.add('hidden');
+    if (rankedWarning) rankedWarning.classList.add('hidden');
+  } else {
+    if (rankedView) rankedView.classList.remove('hidden');
+        if (rankedBtn) rankedBtn.classList.remove('hidden');
+        if (rankedWarning) rankedWarning.classList.remove('hidden');
+    }
+}
+
+const CURRENT_VERSION = '1.0';
+
+function openChangelog() {
+    const modal = document.getElementById('changelog-modal');
+    modal.classList.remove('hidden');
+}
+
+function closeChangelog() {
+    const modal = document.getElementById('changelog-modal');
+    modal.classList.add('hidden');
+    if (localStorage.getItem('uma_wordle_version') !== CURRENT_VERSION) {
+        localStorage.setItem('uma_wordle_version', CURRENT_VERSION);
+    }
+}
+
+window.addEventListener('load', () => {
+  setTimeout(checkChangelog, 500);
+});
+
+function checkChangelog() {
+    const savedVersion = localStorage.getItem('uma_wordle_version');
+    if (savedVersion !== CURRENT_VERSION) {
+        openChangelog();
+    }
+}
+
+loadGameData();
